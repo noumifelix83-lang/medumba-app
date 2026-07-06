@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import '../state/onboarding_state.dart';
 import '../theme/colors.dart';
 
 class OnboardingScreen extends StatefulWidget {
@@ -12,37 +13,47 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
   final PageController _page = PageController();
   int _current = 0;
 
-  final List<_Slide> _slides = const [
+  bool get _isFr => OnboardingState.instance.nativeLang == 'french';
+
+  List<_Slide> get _slides => [
     _Slide(
-      emoji: '🎯',
-      title: 'Apprenez le Medumba',
-      subtitle: 'La langue du peuple Bangangté.\nGamifiée, intuitive, efficace.',
+      image: 'assets/images/tutor.png',
+      title: _isFr ? 'Apprenez le Medumba' : 'Learn Medumba',
+      subtitle: _isFr
+          ? 'La langue du peuple Bangangté.\nGamifiée, intuitive, efficace.'
+          : 'The language of the Bangangté people.\nGamified, intuitive, effective.',
       bg: kBlue,
     ),
     _Slide(
-      emoji: '🔊',
-      title: 'Locuteurs natifs',
-      subtitle: 'Écoutez de vrais locuteurs\net pratiquez votre prononciation.',
-      bg: Color(0xFF7C3AED),
+      image: 'assets/images/teacher 1.png',
+      title: _isFr ? 'Locuteurs natifs' : 'Native speakers',
+      subtitle: _isFr
+          ? 'Écoutez de vrais locuteurs\net pratiquez votre prononciation.'
+          : 'Listen to real native speakers\nand practice your pronunciation.',
+      bg: const Color(0xFF7C3AED),
     ),
     _Slide(
-      emoji: '🏆',
-      title: 'Gagnez des XP',
-      subtitle: 'Combos, streaks, diamants —\nchaque leçon est une victoire.',
-      bg: Color(0xFF0891B2),
+      image: 'assets/images/teacher2.png',
+      title: _isFr ? 'Gagnez des XP' : 'Earn XP',
+      subtitle: _isFr
+          ? 'Combos, streaks, diamants —\nchaque leçon est une victoire.'
+          : 'Combos, streaks, diamonds —\nevery lesson is a win.',
+      bg: const Color(0xFF0891B2),
     ),
   ];
 
   @override
   Widget build(BuildContext context) {
+    final slides = _slides;
+    final isFr = _isFr;
     return Scaffold(
       body: Stack(
         children: [
           PageView.builder(
             controller: _page,
-            itemCount: _slides.length,
+            itemCount: slides.length,
             onPageChanged: (i) => setState(() => _current = i),
-            itemBuilder: (_, i) => _SlideWidget(slide: _slides[i]),
+            itemBuilder: (_, i) => _SlideWidget(slide: slides[i]),
           ),
           Positioned(
             bottom: 0, left: 0, right: 0,
@@ -52,7 +63,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                 children: [
                   Row(
                     mainAxisAlignment: MainAxisAlignment.center,
-                    children: List.generate(_slides.length, (i) => AnimatedContainer(
+                    children: List.generate(slides.length, (i) => AnimatedContainer(
                       duration: const Duration(milliseconds: 300),
                       margin: const EdgeInsets.symmetric(horizontal: 4),
                       width: _current == i ? 24 : 8,
@@ -69,7 +80,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                     height: 56,
                     child: ElevatedButton(
                       onPressed: () {
-                        if (_current < _slides.length - 1) {
+                        if (_current < slides.length - 1) {
                           _page.nextPage(
                               duration: const Duration(milliseconds: 300),
                               curve: Curves.easeInOut);
@@ -84,16 +95,19 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
                         elevation: 0,
                       ),
                       child: Text(
-                        _current < _slides.length - 1 ? 'Suivant' : 'Commencer gratuitement',
+                        _current < slides.length - 1
+                            ? (isFr ? 'Suivant' : 'Next')
+                            : (isFr ? 'Commencer gratuitement' : 'Start for free'),
                         style: const TextStyle(fontWeight: FontWeight.w800, fontSize: 16),
                       ),
                     ),
                   ),
-                  if (_current < _slides.length - 1) ...[
+                  if (_current < slides.length - 1) ...[
                     const SizedBox(height: 12),
                     TextButton(
                       onPressed: () => context.go('/home'),
-                      child: Text('Passer', style: TextStyle(color: Colors.white.withOpacity(0.7), fontWeight: FontWeight.w600)),
+                      child: Text(isFr ? 'Passer' : 'Skip',
+                          style: TextStyle(color: Colors.white.withOpacity(0.7), fontWeight: FontWeight.w600)),
                     ),
                   ],
                 ],
@@ -107,9 +121,9 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
 }
 
 class _Slide {
-  final String emoji, title, subtitle;
+  final String image, title, subtitle;
   final Color bg;
-  const _Slide({required this.emoji, required this.title, required this.subtitle, required this.bg});
+  const _Slide({required this.image, required this.title, required this.subtitle, required this.bg});
 }
 
 class _SlideWidget extends StatelessWidget {
@@ -126,8 +140,8 @@ class _SlideWidget extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text(slide.emoji, style: const TextStyle(fontSize: 96)),
-              const SizedBox(height: 40),
+              Image.asset(slide.image, height: 220, fit: BoxFit.contain),
+              const SizedBox(height: 32),
               Text(slide.title,
                   textAlign: TextAlign.center,
                   style: const TextStyle(fontSize: 32, fontWeight: FontWeight.w900,
