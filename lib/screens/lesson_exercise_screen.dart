@@ -1019,9 +1019,13 @@ class _PillButton extends StatelessWidget {
             color: backgroundColor,
             borderRadius: BorderRadius.circular(99),
             border: border != null ? Border.all(color: border!, width: 2) : null),
-        child: Text(label,
-            style: TextStyle(color: textColor, fontWeight: FontWeight.w800, fontSize: 15),
-            textAlign: TextAlign.center),
+        child: FittedBox(
+          fit: BoxFit.scaleDown,
+          child: Text(label,
+              maxLines: 1,
+              style: TextStyle(color: textColor, fontWeight: FontWeight.w800, fontSize: 15),
+              textAlign: TextAlign.center),
+        ),
       ),
     );
   }

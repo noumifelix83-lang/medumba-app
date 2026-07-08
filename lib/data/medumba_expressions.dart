@@ -164,7 +164,7 @@ const kAllExpressions = <MExpr>[
   MExpr('je suis arrive̍ vite', 'mə̀ sə̀ꞌ ndə̂ndə'),
   MExpr('c’est lui l’ami de mon père', 'à yî bɛ̂n mbə̂ nshûn tα̂ α'),
   MExpr('voici notre situation actuelle', 'cʉ̂ dʉ̀ꞌ bαgὰbin bə̂ bwə ndɔ̂nni lî'),
-  MExpr('j’ai mal au piel', 'kǔ αm cwɛ̌d nja'),
+  MExpr('j’ai mal au pied', 'kǔ αm cwɛ̌d nja'),
   MExpr('je t’ai autorise̍ de sortir', 'mə fə mbα̂m wʉ mbò nɛ̌n'),
   MExpr('ne me cogne pas avec ta voiture', 'bαm nα nə̀ lǒ yaŋbàꞌ su cὰm αm yi'),
   MExpr('mettre la lumière', 'tə mbwogve̍'),
