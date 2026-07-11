@@ -5,6 +5,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 import '../data/lesson_themes.dart';
 import '../data/medumba_expressions.dart';
 import '../services/user_service.dart';
+import '../services/medumba_audio_service.dart';
 import '../state/app_language.dart';
 import '../theme/colors.dart';
 
@@ -137,6 +138,13 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
   bool _saving = false; // true while writing completion to Supabase
   int _cardIdx = 0;
   bool _flipped = false;
+  String? _speaking; // texte actuellement lu à voix haute (flashcard ou prompt MCQ)
+
+  Future<void> _playText(String text) async {
+    setState(() => _speaking = text);
+    await MedumbaAudioService.instance.playWord(text);
+    if (mounted) setState(() => _speaking = null);
+  }
 
   int _currentQ = 0;
   String? _selectedOption;
@@ -158,6 +166,12 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
   void initState() {
     super.initState();
     _init();
+  }
+
+  @override
+  void dispose() {
+    MedumbaAudioService.instance.stop();
+    super.dispose();
   }
 
   void _init() {
@@ -272,6 +286,7 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
         setState(() => _phase = 'failed');
       }
     } else {
+      MedumbaAudioService.instance.stop();
       setState(() {
         _currentQ++;
         _selectedOption = null;
@@ -405,7 +420,7 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
           Expanded(
             child: Center(
               child: GestureDetector(
-                onTap: () => setState(() => _flipped = !_flipped),
+                onTap: () => setState(() { MedumbaAudioService.instance.stop(); _flipped = !_flipped; }),
                 child: AnimatedContainer(
                   duration: const Duration(milliseconds: 300),
                   width: double.infinity,
@@ -441,6 +456,24 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
                               ? '👆 Appuyez pour voir la traduction'
                               : '👆 Tap to see the translation',
                           style: const TextStyle(fontSize: 12, color: kMuted)),
+                    ] else ...[
+                      const SizedBox(height: 16),
+                      InkWell(
+                        borderRadius: BorderRadius.circular(21),
+                        onTap: () => _playText(card.medumba),
+                        child: Container(
+                          width: 42, height: 42,
+                          decoration: BoxDecoration(
+                            shape: BoxShape.circle,
+                            color: Colors.white.withValues(alpha: _speaking == card.medumba ? 0.3 : 0.15),
+                            border: Border.all(color: Colors.white.withValues(alpha: 0.5), width: 2),
+                          ),
+                          child: Icon(
+                            _speaking == card.medumba ? Icons.volume_up_rounded : Icons.volume_down_rounded,
+                            color: Colors.white, size: 20,
+                          ),
+                        ),
+                      ),
                     ],
                   ]),
                 ),
@@ -456,7 +489,7 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
                 Expanded(
                   child: _PillButton(
                     label: AppLanguage.instance.isFr ? '← Précédent' : '← Previous',
-                    onTap: () => setState(() { _cardIdx--; _flipped = false; }),
+                    onTap: () => setState(() { MedumbaAudioService.instance.stop(); _cardIdx--; _flipped = false; }),
                     backgroundColor: const Color(0xFFEFF6FF),
                     textColor: _blue,
                     border: const Color(0xFFBFDBFE),
@@ -471,8 +504,8 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
                       ? (AppLanguage.instance.isFr ? '🚀 Commencer l\'exercice' : '🚀 Start exercise')
                       : (AppLanguage.instance.isFr ? 'Suivant →' : 'Next →'),
                   onTap: isLast
-                      ? () => setState(() => _phase = 'exercises')
-                      : () => setState(() { _cardIdx++; _flipped = false; }),
+                      ? () => setState(() { MedumbaAudioService.instance.stop(); _phase = 'exercises'; })
+                      : () => setState(() { MedumbaAudioService.instance.stop(); _cardIdx++; _flipped = false; }),
                   backgroundColor: isLast ? _blue : _purple,
                   textColor: Colors.white,
                 ),
@@ -585,10 +618,20 @@ class _LessonExerciseScreenState extends State<LessonExerciseScreen> {
                 style: const TextStyle(fontSize: 20, fontWeight: FontWeight.w800, color: kInk)),
           ),
           const SizedBox(width: 8),
-          Container(
-            width: 36, height: 36,
-            decoration: const BoxDecoration(color: kBlue, shape: BoxShape.circle),
-            child: const Icon(Icons.volume_up_rounded, color: Colors.white, size: 18),
+          InkWell(
+            borderRadius: BorderRadius.circular(18),
+            onTap: () => _playText(q.prompt),
+            child: Container(
+              width: 36, height: 36,
+              decoration: BoxDecoration(
+                color: _speaking == q.prompt ? const Color(0xFF0041A3) : kBlue,
+                shape: BoxShape.circle,
+              ),
+              child: Icon(
+                _speaking == q.prompt ? Icons.volume_up_rounded : Icons.volume_down_rounded,
+                color: Colors.white, size: 18,
+              ),
+            ),
           ),
         ]),
       ),

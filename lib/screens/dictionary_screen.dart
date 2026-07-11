@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../theme/colors.dart';
+import '../services/medumba_audio_service.dart';
 
 class _Entry {
   final String medumba, fr;
@@ -21,11 +22,18 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   final _ctrl = TextEditingController();
   List<_Entry> _dict = [];
   bool _loading = true;
+  String? _speaking;
 
   @override
   void initState() {
     super.initState();
     _loadDict();
+  }
+
+  Future<void> _playEntry(String medumba) async {
+    setState(() => _speaking = medumba);
+    await MedumbaAudioService.instance.playWord(medumba);
+    if (mounted) setState(() => _speaking = null);
   }
 
   Future<void> _loadDict() async {
@@ -38,7 +46,11 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   }
 
   @override
-  void dispose() { _ctrl.dispose(); super.dispose(); }
+  void dispose() {
+    _ctrl.dispose();
+    MedumbaAudioService.instance.stop();
+    super.dispose();
+  }
 
   List<_Entry> get _results {
     final q = _query.trim().toLowerCase();
@@ -152,6 +164,24 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                             borderRadius: BorderRadius.circular(20),
                           ),
                           child: Text('MD', style: TextStyle(fontSize: 10, fontWeight: FontWeight.w800, color: accent.withValues(alpha: 0.7))),
+                        ),
+                        const SizedBox(width: 8),
+                        InkWell(
+                          borderRadius: BorderRadius.circular(18),
+                          onTap: () => _playEntry(e.medumba),
+                          child: Container(
+                            width: 34, height: 34,
+                            decoration: BoxDecoration(
+                              color: _speaking == e.medumba ? accent.withValues(alpha: 0.12) : const Color(0xFFF8FAFC),
+                              border: Border.all(color: _speaking == e.medumba ? accent : kBorder, width: 1.5),
+                              shape: BoxShape.circle,
+                            ),
+                            child: Icon(
+                              _speaking == e.medumba ? Icons.volume_up : Icons.volume_down,
+                              size: 17,
+                              color: accent,
+                            ),
+                          ),
                         ),
                       ]),
                     );

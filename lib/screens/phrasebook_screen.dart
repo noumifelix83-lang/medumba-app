@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../theme/colors.dart';
+import '../services/medumba_audio_service.dart';
 
 const _categories = [
   _Cat(emoji: '👋', titleFr: 'Salutations',  titleEn: 'Greetings',   color: Color(0xFF4F46E5)),
@@ -294,21 +295,42 @@ class _ResourceCard extends StatelessWidget {
   );
 }
 
-class _PhraseList extends StatelessWidget {
+class _PhraseList extends StatefulWidget {
   final _Cat cat;
   final bool isFr;
   final VoidCallback onBack;
   const _PhraseList({required this.cat, required this.isFr, required this.onBack});
 
   @override
+  State<_PhraseList> createState() => _PhraseListState();
+}
+
+class _PhraseListState extends State<_PhraseList> {
+  String? _speaking;
+
+  @override
+  void dispose() {
+    MedumbaAudioService.instance.stop();
+    super.dispose();
+  }
+
+  Future<void> _play(String medumba) async {
+    setState(() => _speaking = medumba);
+    await MedumbaAudioService.instance.playWord(medumba);
+    if (mounted) setState(() => _speaking = null);
+  }
+
+  @override
   Widget build(BuildContext context) {
+    final cat = widget.cat;
+    final isFr = widget.isFr;
     final phrases = _phrases[cat.titleFr] ?? [];
     return Column(children: [
       Container(
         color: cat.color,
         padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
         child: Row(children: [
-          IconButton(icon: const Icon(Icons.arrow_back, color: Colors.white), onPressed: onBack),
+          IconButton(icon: const Icon(Icons.arrow_back, color: Colors.white), onPressed: widget.onBack),
           const SizedBox(width: 4),
           Text(cat.emoji, style: const TextStyle(fontSize: 24)),
           const SizedBox(width: 8),
@@ -326,6 +348,7 @@ class _PhraseList extends StatelessWidget {
               itemCount: phrases.length,
               itemBuilder: (_, i) {
                 final p = phrases[i];
+                final speaking = _speaking == p.medumba;
                 return Container(
                   padding: const EdgeInsets.all(14),
                   decoration: BoxDecoration(
@@ -343,7 +366,15 @@ class _PhraseList extends StatelessWidget {
                       Text('[${p.phonetic}]',
                           style: const TextStyle(fontSize: 11, color: kMuted, fontStyle: FontStyle.italic)),
                     ])),
-                    Icon(Icons.volume_up_rounded, color: cat.color, size: 22),
+                    InkWell(
+                      borderRadius: BorderRadius.circular(20),
+                      onTap: () => _play(p.medumba),
+                      child: Padding(
+                        padding: const EdgeInsets.all(4),
+                        child: Icon(speaking ? Icons.volume_up_rounded : Icons.volume_down_rounded,
+                            color: cat.color, size: 22),
+                      ),
+                    ),
                   ]),
                 );
               },

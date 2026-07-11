@@ -18,6 +18,7 @@ dependencies:
   flutter_dotenv: ^5.2.1
   just_audio: ^0.9.40
   url_launcher: ^6.3.0
+  flutter_tts: ^4.2.0
 
 dev_dependencies:
   flutter_test:

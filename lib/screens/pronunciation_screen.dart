@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import '../state/app_language.dart';
 import '../theme/colors.dart';
+import '../services/syllable_audio.dart';
+import '../services/medumba_audio_service.dart';
 
 class _Syl {
   final String syllable, ipa;
@@ -1165,15 +1167,110 @@ class PronunciationScreen extends StatefulWidget {
   State<PronunciationScreen> createState() => _PronunciationScreenState();
 }
 
+const _kToneKeys = ['bas', 'moyen', 'montant', 'descendant'];
+const _kToneLabels = {'bas': 'Bas', 'moyen': 'Moyen', 'montant': 'Montant', 'descendant': 'Descendant'};
+
 class _PronunciationScreenState extends State<PronunciationScreen> {
   String _query = '';
+  String? _playingKey; // "<syllable>_<tone>" en cours de lecture
+
+  @override
+  void initState() {
+    super.initState();
+    SyllableAudio.instance.ensureLoaded().then((_) {
+      if (mounted) setState(() {});
+    });
+  }
+
+  @override
+  void dispose() {
+    MedumbaAudioService.instance.stop();
+    super.dispose();
+  }
 
   List<_Syl> get _filtered {
+    // Recherche sur la syllabe uniquement (pas l'IPA), comme sur le web.
     if (_query.isEmpty) return _kSyllables;
     final q = _query.toLowerCase();
-    return _kSyllables
-        .where((s) => s.syllable.toLowerCase().contains(q) || s.ipa.toLowerCase().contains(q))
-        .toList();
+    return _kSyllables.where((s) => s.syllable.toLowerCase().contains(q)).toList();
+  }
+
+  Future<void> _playTone(String syllable, String tone) async {
+    final key = '${syllable}_$tone';
+    setState(() => _playingKey = key);
+    final url = tone == 'neutre'
+        ? SyllableAudio.instance.syllableAudioUrl(syllable)
+        : SyllableAudio.instance.toneAudioUrl(syllable, tone);
+    await MedumbaAudioService.instance.playUrl(url);
+    if (mounted) setState(() => _playingKey = null);
+  }
+
+  void _openToneSheet(_Syl s) {
+    final tons = SyllableAudio.instance.tonsFor(s.syllable);
+    showModalBottomSheet(
+      context: context,
+      backgroundColor: Colors.white,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
+      ),
+      builder: (ctx) => StatefulBuilder(
+        builder: (ctx, setSheetState) => Padding(
+          padding: const EdgeInsets.fromLTRB(20, 20, 20, 28),
+          child: Column(mainAxisSize: MainAxisSize.min, crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Row(children: [
+              Text(s.syllable, style: const TextStyle(fontSize: 22, fontWeight: FontWeight.w900, color: kInk)),
+              const SizedBox(width: 10),
+              Text(s.ipa, style: const TextStyle(fontSize: 14, color: _kPurple, fontStyle: FontStyle.italic)),
+            ]),
+            const SizedBox(height: 16),
+            if (tons == null)
+              Text(
+                AppLanguage.instance.isFr
+                    ? 'Aucun enregistrement pour cette syllabe.'
+                    : 'No recording for this syllable.',
+                style: const TextStyle(color: kMuted),
+              )
+            else
+              Wrap(
+                spacing: 10,
+                runSpacing: 10,
+                children: _kToneKeys.map((tone) {
+                  final char = tons[tone] ?? '';
+                  final key = '${s.syllable}_$tone';
+                  final playing = _playingKey == key;
+                  return InkWell(
+                    borderRadius: BorderRadius.circular(14),
+                    onTap: () async {
+                      setSheetState(() {});
+                      await _playTone(s.syllable, tone);
+                      setSheetState(() {});
+                    },
+                    child: Container(
+                      width: 130,
+                      padding: const EdgeInsets.symmetric(vertical: 14, horizontal: 12),
+                      decoration: BoxDecoration(
+                        color: playing ? _kPurple.withValues(alpha: 0.1) : const Color(0xFFFAF5FF),
+                        border: Border.all(color: playing ? _kPurple : const Color(0xFFE9D5FF), width: 1.5),
+                        borderRadius: BorderRadius.circular(14),
+                      ),
+                      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                        Text(_kToneLabels[tone] ?? tone,
+                            style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w700, color: kMuted)),
+                        const SizedBox(height: 4),
+                        Row(children: [
+                          Text(char, style: const TextStyle(fontSize: 18, fontWeight: FontWeight.w900, color: _kPurple)),
+                          const Spacer(),
+                          Icon(playing ? Icons.volume_up : Icons.volume_down, size: 18, color: _kPurple),
+                        ]),
+                      ]),
+                    ),
+                  );
+                }).toList(),
+              ),
+          ]),
+        ),
+      ),
+    );
   }
 
   @override
@@ -1204,8 +1301,8 @@ class _PronunciationScreenState extends State<PronunciationScreen> {
             onChanged: (v) => setState(() => _query = v),
             decoration: InputDecoration(
               hintText: AppLanguage.instance.isFr
-                  ? 'Rechercher une syllabe ou phonème IPA…'
-                  : 'Search a syllable or IPA phoneme…',
+                  ? 'Rechercher une syllabe…'
+                  : 'Search a syllable…',
               prefixIcon: const Icon(Icons.search, color: kMuted),
               filled: true,
               fillColor: const Color(0xFFF1F5F9),
@@ -1225,31 +1322,41 @@ class _PronunciationScreenState extends State<PronunciationScreen> {
                   itemCount: results.length,
                   itemBuilder: (_, i) {
                     final s = results[i];
-                    return Container(
-                      margin: const EdgeInsets.only(bottom: 6),
-                      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-                      decoration: BoxDecoration(
-                        color: Colors.white,
-                        border: Border.all(color: kBorder),
-                        borderRadius: BorderRadius.circular(12),
+                    final hasRecording = SyllableAudio.instance.hasRecording(s.syllable);
+                    return InkWell(
+                      borderRadius: BorderRadius.circular(12),
+                      onTap: () => _openToneSheet(s),
+                      child: Container(
+                        margin: const EdgeInsets.only(bottom: 6),
+                        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                        decoration: BoxDecoration(
+                          color: Colors.white,
+                          border: Border.all(color: kBorder),
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        child: Row(children: [
+                          SizedBox(
+                            width: 80,
+                            child: Text(s.syllable,
+                                style: const TextStyle(
+                                    fontSize: 18, fontWeight: FontWeight.w900, color: kInk)),
+                          ),
+                          const SizedBox(width: 8),
+                          Expanded(
+                            child: Text(s.ipa,
+                                style: const TextStyle(
+                                    fontSize: 13,
+                                    color: _kPurple,
+                                    fontWeight: FontWeight.w600,
+                                    fontStyle: FontStyle.italic)),
+                          ),
+                          Icon(
+                            hasRecording ? Icons.volume_up : Icons.volume_off,
+                            size: 18,
+                            color: hasRecording ? _kPurple : kMuted,
+                          ),
+                        ]),
                       ),
-                      child: Row(children: [
-                        SizedBox(
-                          width: 80,
-                          child: Text(s.syllable,
-                              style: const TextStyle(
-                                  fontSize: 18, fontWeight: FontWeight.w900, color: kInk)),
-                        ),
-                        const SizedBox(width: 8),
-                        Expanded(
-                          child: Text(s.ipa,
-                              style: const TextStyle(
-                                  fontSize: 13,
-                                  color: _kPurple,
-                                  fontWeight: FontWeight.w600,
-                                  fontStyle: FontStyle.italic)),
-                        ),
-                      ]),
                     );
                   },
                 ),

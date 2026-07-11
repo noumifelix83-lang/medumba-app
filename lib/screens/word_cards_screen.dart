@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../theme/colors.dart';
+import '../services/medumba_audio_service.dart';
 
 const _cards = [
   // Salutations
@@ -49,10 +50,28 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
   int _index = 0;
   bool _flipped = false;
   bool _isFr = true;
+  bool _speaking = false;
 
-  void _next()  => setState(() { _index = (_index + 1) % _cards.length; _flipped = false; });
-  void _prev()  => setState(() { _index = (_index - 1 + _cards.length) % _cards.length; _flipped = false; });
-  void _flip()  => setState(() => _flipped = !_flipped);
+  void _stopAudio() {
+    MedumbaAudioService.instance.stop();
+    _speaking = false;
+  }
+
+  void _next()  => setState(() { _stopAudio(); _index = (_index + 1) % _cards.length; _flipped = false; });
+  void _prev()  => setState(() { _stopAudio(); _index = (_index - 1 + _cards.length) % _cards.length; _flipped = false; });
+  void _flip()  => setState(() { _stopAudio(); _flipped = !_flipped; });
+
+  @override
+  void dispose() {
+    MedumbaAudioService.instance.stop();
+    super.dispose();
+  }
+
+  Future<void> _playCurrent() async {
+    setState(() => _speaking = true);
+    await MedumbaAudioService.instance.playWord(_cards[_index].medumba);
+    if (mounted) setState(() => _speaking = false);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -134,13 +153,31 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
                     ),
                   ),
                   const SizedBox(height: 24),
-                  Row(mainAxisSize: MainAxisSize.min, children: [
-                    Icon(Icons.touch_app_rounded,
-                        color: _flipped ? Colors.white.withValues(alpha: 0.5) : kMuted, size: 16),
-                    const SizedBox(width: 4),
-                    Text(_flipped ? (_isFr ? 'Tapez pour cacher' : 'Tap to hide') : (_isFr ? 'Tapez pour révéler' : 'Tap to reveal'),
-                        style: TextStyle(fontSize: 11, color: _flipped ? Colors.white.withValues(alpha: 0.5) : kMuted)),
-                  ]),
+                  if (_flipped)
+                    InkWell(
+                      borderRadius: BorderRadius.circular(24),
+                      onTap: () {
+                        if (_speaking) { _stopAudio(); setState(() {}); return; }
+                        _playCurrent();
+                      },
+                      child: Container(
+                        width: 48, height: 48,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: Colors.white.withValues(alpha: _speaking ? 0.3 : 0.15),
+                          border: Border.all(color: Colors.white.withValues(alpha: 0.5), width: 2),
+                        ),
+                        child: Icon(_speaking ? Icons.volume_up_rounded : Icons.volume_down_rounded,
+                            color: Colors.white, size: 22),
+                      ),
+                    )
+                  else
+                    Row(mainAxisSize: MainAxisSize.min, children: [
+                      const Icon(Icons.touch_app_rounded, color: kMuted, size: 16),
+                      const SizedBox(width: 4),
+                      Text(_isFr ? 'Tapez pour révéler' : 'Tap to reveal',
+                          style: const TextStyle(fontSize: 11, color: kMuted)),
+                    ]),
                 ]),
               ),
             ),

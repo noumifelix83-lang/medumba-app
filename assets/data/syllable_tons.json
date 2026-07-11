@@ -1,0 +1,9178 @@
+[
+  {
+    "syllable": "a",
+    "ipa": "[a]",
+    "bas": "à",
+    "moyen": "ā",
+    "montant": "ǎ",
+    "descendant": "â"
+  },
+  {
+    "syllable": "a'",
+    "ipa": "[ɑʔ]",
+    "bas": "à'",
+    "moyen": "ā'",
+    "montant": "ǎ'",
+    "descendant": "â'"
+  },
+  {
+    "syllable": "α",
+    "ipa": "[ɑ]",
+    "bas": "ὰ",
+    "moyen": "ᾱ",
+    "montant": "α̌",
+    "descendant": "α̂"
+  },
+  {
+    "syllable": "αb",
+    "ipa": "[ɑb]",
+    "bas": "ὰb",
+    "moyen": "ᾱb",
+    "montant": "α̌b",
+    "descendant": "α̂b"
+  },
+  {
+    "syllable": "αm",
+    "ipa": "[ɑm]",
+    "bas": "ὰm",
+    "moyen": "ᾱm",
+    "montant": "α̌m",
+    "descendant": "α̂m"
+  },
+  {
+    "syllable": "αn",
+    "ipa": "[ɑn]",
+    "bas": "ὰn",
+    "moyen": "ᾱn",
+    "montant": "α̌n",
+    "descendant": "α̂n"
+  },
+  {
+    "syllable": "ba",
+    "ipa": "[ba]",
+    "bas": "bà",
+    "moyen": "bā",
+    "montant": "bǎ",
+    "descendant": "bâ"
+  },
+  {
+    "syllable": "bab",
+    "ipa": "[bab]",
+    "bas": "bàb",
+    "moyen": "bāb",
+    "montant": "bǎb",
+    "descendant": "bâb"
+  },
+  {
+    "syllable": "bad",
+    "ipa": "[bat]",
+    "bas": "bàd",
+    "moyen": "bād",
+    "montant": "bǎd",
+    "descendant": "bâd"
+  },
+  {
+    "syllable": "bag",
+    "ipa": "[bak]",
+    "bas": "bàg",
+    "moyen": "bāg",
+    "montant": "bǎg",
+    "descendant": "bâg"
+  },
+  {
+    "syllable": "bal",
+    "ipa": "[bal]",
+    "bas": "bàl",
+    "moyen": "bāl",
+    "montant": "bǎl",
+    "descendant": "bâl"
+  },
+  {
+    "syllable": "bam",
+    "ipa": "[bam]",
+    "bas": "bàm",
+    "moyen": "bām",
+    "montant": "bǎm",
+    "descendant": "bâm"
+  },
+  {
+    "syllable": "baŋ",
+    "ipa": "[baŋ]",
+    "bas": "bàŋ",
+    "moyen": "bāŋ",
+    "montant": "bǎŋ",
+    "descendant": "bâŋ"
+  },
+  {
+    "syllable": "ba'",
+    "ipa": "[bɑʔ]",
+    "bas": "bà'",
+    "moyen": "bā'",
+    "montant": "bǎ'",
+    "descendant": "bâ'"
+  },
+  {
+    "syllable": "bα",
+    "ipa": "[bɑ]",
+    "bas": "bὰ",
+    "moyen": "bᾱ",
+    "montant": "bα̌",
+    "descendant": "bα̂"
+  },
+  {
+    "syllable": "bαb",
+    "ipa": "[bɑb]",
+    "bas": "bὰb",
+    "moyen": "bᾱb",
+    "montant": "bα̌b",
+    "descendant": "bα̂b"
+  },
+  {
+    "syllable": "bαg",
+    "ipa": "[bɑg]",
+    "bas": "bὰg",
+    "moyen": "bᾱg",
+    "montant": "bα̌g",
+    "descendant": "bα̂g"
+  },
+  {
+    "syllable": "bαm",
+    "ipa": "[bɑm]",
+    "bas": "bὰm",
+    "moyen": "bᾱm",
+    "montant": "bα̌m",
+    "descendant": "bα̂m"
+  },
+  {
+    "syllable": "bαn",
+    "ipa": "[bɑn]",
+    "bas": "bὰn",
+    "moyen": "bᾱn",
+    "montant": "bα̌n",
+    "descendant": "bα̂n"
+  },
+  {
+    "syllable": "bə",
+    "ipa": "[bœ], [bʉ]",
+    "bas": "bə̀",
+    "moyen": "bə̄",
+    "montant": "bə̌",
+    "descendant": "bə̂"
+  },
+  {
+    "syllable": "bəd",
+    "ipa": "[bʉt]",
+    "bas": "bə̀d",
+    "moyen": "bə̄d",
+    "montant": "bə̌d",
+    "descendant": "bə̂d"
+  },
+  {
+    "syllable": "bəl",
+    "ipa": "[bʉl]",
+    "bas": "bə̀l",
+    "moyen": "bə̄l",
+    "montant": "bə̌l",
+    "descendant": "bə̂l"
+  },
+  {
+    "syllable": "bəm",
+    "ipa": "[bʉm]",
+    "bas": "bə̀m",
+    "moyen": "bə̄m",
+    "montant": "bə̌m",
+    "descendant": "bə̂m"
+  },
+  {
+    "syllable": "bən",
+    "ipa": "[bʉn]",
+    "bas": "bə̀n",
+    "moyen": "bə̄n",
+    "montant": "bə̌n",
+    "descendant": "bə̂n"
+  },
+  {
+    "syllable": "bə'",
+    "ipa": "[bʉʔ]",
+    "bas": "bə̀'",
+    "moyen": "bə̄'",
+    "montant": "bə̌'",
+    "descendant": "bə̂'"
+  },
+  {
+    "syllable": "be",
+    "ipa": "[bi]",
+    "bas": "bè",
+    "moyen": "bē",
+    "montant": "bě",
+    "descendant": "bê"
+  },
+  {
+    "syllable": "beb",
+    "ipa": "[bib]",
+    "bas": "bèb",
+    "moyen": "bēb",
+    "montant": "běb",
+    "descendant": "bêb"
+  },
+  {
+    "syllable": "bed",
+    "ipa": "[bit]",
+    "bas": "bèd",
+    "moyen": "bēd",
+    "montant": "běd",
+    "descendant": "bêd"
+  },
+  {
+    "syllable": "bel",
+    "ipa": "[bil]",
+    "bas": "bèl",
+    "moyen": "bēl",
+    "montant": "běl",
+    "descendant": "bêl"
+  },
+  {
+    "syllable": "bem",
+    "ipa": "[bim]",
+    "bas": "bèm",
+    "moyen": "bēm",
+    "montant": "běm",
+    "descendant": "bêm"
+  },
+  {
+    "syllable": "ben",
+    "ipa": "[bin]",
+    "bas": "bèn",
+    "moyen": "bēn",
+    "montant": "běn",
+    "descendant": "bên"
+  },
+  {
+    "syllable": "be'",
+    "ipa": "[biʔ]",
+    "bas": "bè'",
+    "moyen": "bē'",
+    "montant": "bě'",
+    "descendant": "bê'"
+  },
+  {
+    "syllable": "bɛ",
+    "ipa": "[bɛ]",
+    "bas": "bɛ̀",
+    "moyen": "bɛ̄",
+    "montant": "bɛ̌",
+    "descendant": "bɛ̂"
+  },
+  {
+    "syllable": "bɛd",
+    "ipa": "[bɛt]",
+    "bas": "bɛ̀d",
+    "moyen": "bɛ̄d",
+    "montant": "bɛ̌d",
+    "descendant": "bɛ̂d"
+  },
+  {
+    "syllable": "bɛl",
+    "ipa": "[bɛl]",
+    "bas": "bɛ̀l",
+    "moyen": "bɛ̄l",
+    "montant": "bɛ̌l",
+    "descendant": "bɛ̂l"
+  },
+  {
+    "syllable": "bɛn",
+    "ipa": "[bɛn]",
+    "bas": "bɛ̀n",
+    "moyen": "bɛ̄n",
+    "montant": "bɛ̌n",
+    "descendant": "bɛ̂n"
+  },
+  {
+    "syllable": "bi",
+    "ipa": "[bhi]",
+    "bas": "bì",
+    "moyen": "bī",
+    "montant": "bǐ",
+    "descendant": "bî"
+  },
+  {
+    "syllable": "bia",
+    "ipa": "[bhia]",
+    "bas": "bià",
+    "moyen": "biā",
+    "montant": "biǎ",
+    "descendant": "biâ"
+  },
+  {
+    "syllable": "biaŋ",
+    "ipa": "[bhiaŋ]",
+    "bas": "biàŋ",
+    "moyen": "biāŋ",
+    "montant": "biǎŋ",
+    "descendant": "biâŋ"
+  },
+  {
+    "syllable": "biα",
+    "ipa": "[bhiɑ]",
+    "bas": "biὰ",
+    "moyen": "biᾱ",
+    "montant": "biα̌",
+    "descendant": "biα̂"
+  },
+  {
+    "syllable": "biαg",
+    "ipa": "[bhiɑk]",
+    "bas": "biὰg",
+    "moyen": "biᾱg",
+    "montant": "biα̌g",
+    "descendant": "biα̂g"
+  },
+  {
+    "syllable": "bib",
+    "ipa": "[bhib]",
+    "bas": "bìb",
+    "moyen": "bīb",
+    "montant": "bǐb",
+    "descendant": "bîb"
+  },
+  {
+    "syllable": "bid",
+    "ipa": "[bhit]",
+    "bas": "bìd",
+    "moyen": "bīd",
+    "montant": "bǐd",
+    "descendant": "bîd"
+  },
+  {
+    "syllable": "bil",
+    "ipa": "[bhil]",
+    "bas": "bìl",
+    "moyen": "bīl",
+    "montant": "bǐl",
+    "descendant": "bîl"
+  },
+  {
+    "syllable": "bin",
+    "ipa": "[bhin]",
+    "bas": "bìn",
+    "moyen": "bīn",
+    "montant": "bǐn",
+    "descendant": "bîn"
+  },
+  {
+    "syllable": "bo",
+    "ipa": "[bu]",
+    "bas": "bò",
+    "moyen": "bō",
+    "montant": "bǒ",
+    "descendant": "bô"
+  },
+  {
+    "syllable": "bob",
+    "ipa": "[bub]",
+    "bas": "bòb",
+    "moyen": "bōb",
+    "montant": "bǒb",
+    "descendant": "bôb"
+  },
+  {
+    "syllable": "bod",
+    "ipa": "[but]",
+    "bas": "bòd",
+    "moyen": "bōd",
+    "montant": "bǒd",
+    "descendant": "bôd"
+  },
+  {
+    "syllable": "bol",
+    "ipa": "[bul]",
+    "bas": "bòl",
+    "moyen": "bōl",
+    "montant": "bǒl",
+    "descendant": "bôl"
+  },
+  {
+    "syllable": "bom",
+    "ipa": "[bum]",
+    "bas": "bòm",
+    "moyen": "bōm",
+    "montant": "bǒm",
+    "descendant": "bôm"
+  },
+  {
+    "syllable": "bon",
+    "ipa": "[bun]",
+    "bas": "bòn",
+    "moyen": "bōn",
+    "montant": "bǒn",
+    "descendant": "bôn"
+  },
+  {
+    "syllable": "bo'",
+    "ipa": "[buʔ]",
+    "bas": "bò'",
+    "moyen": "bō'",
+    "montant": "bǒ'",
+    "descendant": "bô'"
+  },
+  {
+    "syllable": "bɔ",
+    "ipa": "[bo]",
+    "bas": "bɔ̀",
+    "moyen": "bɔ̄",
+    "montant": "bɔ̌",
+    "descendant": "bɔ̂"
+  },
+  {
+    "syllable": "bu",
+    "ipa": "[bhu]",
+    "bas": "bù",
+    "moyen": "bū",
+    "montant": "bǔ",
+    "descendant": "bû"
+  },
+  {
+    "syllable": "bub",
+    "ipa": "[bhub]",
+    "bas": "bùb",
+    "moyen": "būb",
+    "montant": "bǔb",
+    "descendant": "bûb"
+  },
+  {
+    "syllable": "bud",
+    "ipa": "[bhut]",
+    "bas": "bùd",
+    "moyen": "būd",
+    "montant": "bǔd",
+    "descendant": "bûd"
+  },
+  {
+    "syllable": "bul",
+    "ipa": "[bhul]",
+    "bas": "bùl",
+    "moyen": "būl",
+    "montant": "bǔl",
+    "descendant": "bûl"
+  },
+  {
+    "syllable": "bum",
+    "ipa": "[bhum]",
+    "bas": "bùm",
+    "moyen": "būm",
+    "montant": "bǔm",
+    "descendant": "bûm"
+  },
+  {
+    "syllable": "bun",
+    "ipa": "[bhun]",
+    "bas": "bùn",
+    "moyen": "būn",
+    "montant": "bǔn",
+    "descendant": "bûn"
+  },
+  {
+    "syllable": "bu'",
+    "ipa": "[bhuʔ]",
+    "bas": "bù'",
+    "moyen": "bū'",
+    "montant": "bǔ'",
+    "descendant": "bû'"
+  },
+  {
+    "syllable": "bʉ",
+    "ipa": "[bhʉ]",
+    "bas": "bʉ̀",
+    "moyen": "bʉ̄",
+    "montant": "bʉ̌",
+    "descendant": "bʉ̂"
+  },
+  {
+    "syllable": "bʉaŋ",
+    "ipa": "[bhʉaŋ]",
+    "bas": "bʉàŋ",
+    "moyen": "bʉāŋ",
+    "montant": "bʉǎŋ",
+    "descendant": "bʉâŋ"
+  },
+  {
+    "syllable": "bʉα",
+    "ipa": "[bhʉɑ]",
+    "bas": "bʉὰ",
+    "moyen": "bʉᾱ",
+    "montant": "bʉα̌",
+    "descendant": "bʉα̂"
+  },
+  {
+    "syllable": "bʉn",
+    "ipa": "[bhʉn]",
+    "bas": "bʉ̀n",
+    "moyen": "bʉ̄n",
+    "montant": "bʉ̌n",
+    "descendant": "bʉ̂n"
+  },
+  {
+    "syllable": "bʉ'",
+    "ipa": "[bhʉʔ]",
+    "bas": "bʉ̀'",
+    "moyen": "bʉ̄'",
+    "montant": "bʉ̌'",
+    "descendant": "bʉ̂'"
+  },
+  {
+    "syllable": "bwə",
+    "ipa": "[bhœ]",
+    "bas": "bwə̀",
+    "moyen": "bwə̄",
+    "montant": "bwə̌",
+    "descendant": "bwə̂"
+  },
+  {
+    "syllable": "bwə'",
+    "ipa": "[bhœʔ]",
+    "bas": "bwə̀'",
+    "moyen": "bwə̄'",
+    "montant": "bwə̌'",
+    "descendant": "bwə̂'"
+  },
+  {
+    "syllable": "bwo",
+    "ipa": "[bhɔ]",
+    "bas": "bwò",
+    "moyen": "bwō",
+    "montant": "bwǒ",
+    "descendant": "bwô"
+  },
+  {
+    "syllable": "bwog",
+    "ipa": "[bhɔg]",
+    "bas": "bwòg",
+    "moyen": "bwōg",
+    "montant": "bwǒg",
+    "descendant": "bwôg"
+  },
+  {
+    "syllable": "bwoŋ",
+    "ipa": "[bhɔŋ]",
+    "bas": "bwòŋ",
+    "moyen": "bwōŋ",
+    "montant": "bwǒŋ",
+    "descendant": "bwôŋ"
+  },
+  {
+    "syllable": "bwɔ",
+    "ipa": "[bho]",
+    "bas": "bwɔ̀",
+    "moyen": "bwɔ̄",
+    "montant": "bwɔ̌",
+    "descendant": "bwɔ̂"
+  },
+  {
+    "syllable": "ca",
+    "ipa": "[tʃa]",
+    "bas": "cà",
+    "moyen": "cā",
+    "montant": "cǎ",
+    "descendant": "câ"
+  },
+  {
+    "syllable": "cab",
+    "ipa": "[tʃab]",
+    "bas": "càb",
+    "moyen": "cāb",
+    "montant": "cǎb",
+    "descendant": "câb"
+  },
+  {
+    "syllable": "cag",
+    "ipa": "[tʃak]",
+    "bas": "càg",
+    "moyen": "cāg",
+    "montant": "cǎg",
+    "descendant": "câg"
+  },
+  {
+    "syllable": "cam",
+    "ipa": "[tʃam]",
+    "bas": "càm",
+    "moyen": "cām",
+    "montant": "cǎm",
+    "descendant": "câm"
+  },
+  {
+    "syllable": "caŋ",
+    "ipa": "[tʃaŋ]",
+    "bas": "càŋ",
+    "moyen": "cāŋ",
+    "montant": "cǎŋ",
+    "descendant": "câŋ"
+  },
+  {
+    "syllable": "ca'",
+    "ipa": "[tʃɑʔ]",
+    "bas": "cà'",
+    "moyen": "cā'",
+    "montant": "cǎ'",
+    "descendant": "câ'"
+  },
+  {
+    "syllable": "cα",
+    "ipa": "[tʃɑ]",
+    "bas": "cὰ",
+    "moyen": "cᾱ",
+    "montant": "cα̌",
+    "descendant": "cα̂"
+  },
+  {
+    "syllable": "cαb",
+    "ipa": "[tʃɑb]",
+    "bas": "cὰb",
+    "moyen": "cᾱb",
+    "montant": "cα̌b",
+    "descendant": "cα̂b"
+  },
+  {
+    "syllable": "cαg",
+    "ipa": "[tʃɑk]",
+    "bas": "cὰg",
+    "moyen": "cᾱg",
+    "montant": "cα̌g",
+    "descendant": "cα̂g"
+  },
+  {
+    "syllable": "cαm",
+    "ipa": "[tʃɑm]",
+    "bas": "cὰm",
+    "moyen": "cᾱm",
+    "montant": "cα̌m",
+    "descendant": "cα̂m"
+  },
+  {
+    "syllable": "ce",
+    "ipa": "[tʃi]",
+    "bas": "cè",
+    "moyen": "cē",
+    "montant": "cě",
+    "descendant": "cê"
+  },
+  {
+    "syllable": "ced",
+    "ipa": "[tʃit]",
+    "bas": "cèd",
+    "moyen": "cēd",
+    "montant": "cěd",
+    "descendant": "cêd"
+  },
+  {
+    "syllable": "cel",
+    "ipa": "[tʃil]",
+    "bas": "cèl",
+    "moyen": "cēl",
+    "montant": "cěl",
+    "descendant": "cêl"
+  },
+  {
+    "syllable": "cem",
+    "ipa": "[tʃim]",
+    "bas": "cèm",
+    "moyen": "cēm",
+    "montant": "cěm",
+    "descendant": "cêm"
+  },
+  {
+    "syllable": "cə",
+    "ipa": "[tʃʉ]",
+    "bas": "cə̀",
+    "moyen": "cə̄",
+    "montant": "cə̌",
+    "descendant": "cə̂"
+  },
+  {
+    "syllable": "cəb",
+    "ipa": "[tʃʉb]",
+    "bas": "cə̀b",
+    "moyen": "cə̄b",
+    "montant": "cə̌b",
+    "descendant": "cə̂b"
+  },
+  {
+    "syllable": "cəd",
+    "ipa": "[tʃʉt]",
+    "bas": "cə̀d",
+    "moyen": "cə̄d",
+    "montant": "cə̌d",
+    "descendant": "cə̂d"
+  },
+  {
+    "syllable": "cəl",
+    "ipa": "[tʃʉl]",
+    "bas": "cə̀l",
+    "moyen": "cə̄l",
+    "montant": "cə̌l",
+    "descendant": "cə̂l"
+  },
+  {
+    "syllable": "cəm",
+    "ipa": "[tʃʉm]",
+    "bas": "cə̀m",
+    "moyen": "cə̄m",
+    "montant": "cə̌m",
+    "descendant": "cə̂m"
+  },
+  {
+    "syllable": "cən",
+    "ipa": "[tʃʉn]",
+    "bas": "cə̀n",
+    "moyen": "cə̄n",
+    "montant": "cə̌n",
+    "descendant": "cə̂n"
+  },
+  {
+    "syllable": "cə'",
+    "ipa": "[tʃʉʔ]",
+    "bas": "cə̀'",
+    "moyen": "cə̄'",
+    "montant": "cə̌'",
+    "descendant": "cə̂'"
+  },
+  {
+    "syllable": "cɛ",
+    "ipa": "[tʃɛ]",
+    "bas": "cɛ̀",
+    "moyen": "cɛ̄",
+    "montant": "cɛ̌",
+    "descendant": "cɛ̂"
+  },
+  {
+    "syllable": "cɛd",
+    "ipa": "[tʃɛt]",
+    "bas": "cɛ̀d",
+    "moyen": "cɛ̄d",
+    "montant": "cɛ̌d",
+    "descendant": "cɛ̂d"
+  },
+  {
+    "syllable": "cɛl",
+    "ipa": "[tʃɛl]",
+    "bas": "cɛ̀l",
+    "moyen": "cɛ̄l",
+    "montant": "cɛ̌l",
+    "descendant": "cɛ̂l"
+  },
+  {
+    "syllable": "cɛn",
+    "ipa": "[tʃɛn]",
+    "bas": "cɛ̀n",
+    "moyen": "cɛ̄n",
+    "montant": "cɛ̌n",
+    "descendant": "cɛ̂n"
+  },
+  {
+    "syllable": "co",
+    "ipa": "[tʃu]",
+    "bas": "cò",
+    "moyen": "cō",
+    "montant": "cǒ",
+    "descendant": "cô"
+  },
+  {
+    "syllable": "cob",
+    "ipa": "[tʃub]",
+    "bas": "còb",
+    "moyen": "cōb",
+    "montant": "cǒb",
+    "descendant": "côb"
+  },
+  {
+    "syllable": "cog",
+    "ipa": "[tʃɔk]",
+    "bas": "còg",
+    "moyen": "cōg",
+    "montant": "cǒg",
+    "descendant": "côg"
+  },
+  {
+    "syllable": "com",
+    "ipa": "[tʃum]",
+    "bas": "còm",
+    "moyen": "cōm",
+    "montant": "cǒm",
+    "descendant": "côm"
+  },
+  {
+    "syllable": "coŋ",
+    "ipa": "[tʃɔŋ]",
+    "bas": "còŋ",
+    "moyen": "cōŋ",
+    "montant": "cǒŋ",
+    "descendant": "côŋ"
+  },
+  {
+    "syllable": "co'",
+    "ipa": "[tʃuʔ]",
+    "bas": "cò'",
+    "moyen": "cō'",
+    "montant": "cǒ'",
+    "descendant": "cô'"
+  },
+  {
+    "syllable": "cɔ",
+    "ipa": "[tʃo]",
+    "bas": "cɔ̀",
+    "moyen": "cɔ̄",
+    "montant": "cɔ̌",
+    "descendant": "cɔ̂"
+  },
+  {
+    "syllable": "cu",
+    "ipa": "[tʃhu]",
+    "bas": "cù",
+    "moyen": "cū",
+    "montant": "cǔ",
+    "descendant": "cû"
+  },
+  {
+    "syllable": "cub",
+    "ipa": "[tʃhub]",
+    "bas": "cùb",
+    "moyen": "cūb",
+    "montant": "cǔb",
+    "descendant": "cûb"
+  },
+  {
+    "syllable": "cul",
+    "ipa": "[tʃhul]",
+    "bas": "cùl",
+    "moyen": "cūl",
+    "montant": "cǔl",
+    "descendant": "cûl"
+  },
+  {
+    "syllable": "cum",
+    "ipa": "[tʃhum]",
+    "bas": "cùm",
+    "moyen": "cūm",
+    "montant": "cǔm",
+    "descendant": "cûm"
+  },
+  {
+    "syllable": "cu'",
+    "ipa": "[tʃhuʔ]",
+    "bas": "cù'",
+    "moyen": "cū'",
+    "montant": "cǔ'",
+    "descendant": "cû'"
+  },
+  {
+    "syllable": "cʉ",
+    "ipa": "[tʃhʉ]",
+    "bas": "cʉ̀",
+    "moyen": "cʉ̄",
+    "montant": "cʉ̌",
+    "descendant": "cʉ̂"
+  },
+  {
+    "syllable": "cʉα",
+    "ipa": "[tʃhʉɑ]",
+    "bas": "cʉὰ",
+    "moyen": "cʉᾱ",
+    "montant": "cʉα̌",
+    "descendant": "cʉα̂"
+  },
+  {
+    "syllable": "cʉb",
+    "ipa": "[tʃhʉb]",
+    "bas": "cʉ̀b",
+    "moyen": "cʉ̄b",
+    "montant": "cʉ̌b",
+    "descendant": "cʉ̂b"
+  },
+  {
+    "syllable": "cʉm",
+    "ipa": "[tʃhʉm]",
+    "bas": "cʉ̀m",
+    "moyen": "cʉ̄m",
+    "montant": "cʉ̌m",
+    "descendant": "cʉ̂m"
+  },
+  {
+    "syllable": "cʉ'",
+    "ipa": "[tʃhʉʔ]",
+    "bas": "cʉ̀'",
+    "moyen": "cʉ̄'",
+    "montant": "cʉ̌'",
+    "descendant": "cʉ̂'"
+  },
+  {
+    "syllable": "cwa",
+    "ipa": "[tʃua]",
+    "bas": "cwà",
+    "moyen": "cwā",
+    "montant": "cwǎ",
+    "descendant": "cwâ"
+  },
+  {
+    "syllable": "cwad",
+    "ipa": "[tʃuat]",
+    "bas": "cwàd",
+    "moyen": "cwād",
+    "montant": "cwǎd",
+    "descendant": "cwâd"
+  },
+  {
+    "syllable": "cwag",
+    "ipa": "[tʃuak]",
+    "bas": "cwàg",
+    "moyen": "cwāg",
+    "montant": "cwǎg",
+    "descendant": "cwâg"
+  },
+  {
+    "syllable": "cweb",
+    "ipa": "[tʃɥib]",
+    "bas": "cwèb",
+    "moyen": "cwēb",
+    "montant": "cwěb",
+    "descendant": "cwêb"
+  },
+  {
+    "syllable": "cwed",
+    "ipa": "[tʃɥit]",
+    "bas": "cwèd",
+    "moyen": "cwēd",
+    "montant": "cwěd",
+    "descendant": "cwêd"
+  },
+  {
+    "syllable": "cwel",
+    "ipa": "[tʃɥil]",
+    "bas": "cwèl",
+    "moyen": "cwēl",
+    "montant": "cwěl",
+    "descendant": "cwêl"
+  },
+  {
+    "syllable": "cwem",
+    "ipa": "[tʃɥim]",
+    "bas": "cwèm",
+    "moyen": "cwēm",
+    "montant": "cwěm",
+    "descendant": "cwêm"
+  },
+  {
+    "syllable": "cwen",
+    "ipa": "[tʃɥin]",
+    "bas": "cwèn",
+    "moyen": "cwēn",
+    "montant": "cwěn",
+    "descendant": "cwên"
+  },
+  {
+    "syllable": "cwe'",
+    "ipa": "[tʃɥiʔ]",
+    "bas": "cwè'",
+    "moyen": "cwē'",
+    "montant": "cwě'",
+    "descendant": "cwê'"
+  },
+  {
+    "syllable": "cwɛ",
+    "ipa": "[tʃuɛ]",
+    "bas": "cwɛ̀",
+    "moyen": "cwɛ̄",
+    "montant": "cwɛ̌",
+    "descendant": "cwɛ̂"
+  },
+  {
+    "syllable": "cwɛd",
+    "ipa": "[tʃuɛt]",
+    "bas": "cwɛ̀d",
+    "moyen": "cwɛ̄d",
+    "montant": "cwɛ̌d",
+    "descendant": "cwɛ̂d"
+  },
+  {
+    "syllable": "cwɛl",
+    "ipa": "[tʃuɛl]",
+    "bas": "cwɛ̀l",
+    "moyen": "cwɛ̄l",
+    "montant": "cwɛ̌l",
+    "descendant": "cwɛ̂l"
+  },
+  {
+    "syllable": "cwɛn",
+    "ipa": "[tʃuɛn]",
+    "bas": "cwɛ̀n",
+    "moyen": "cwɛ̄n",
+    "montant": "cwɛ̌n",
+    "descendant": "cwɛ̂n"
+  },
+  {
+    "syllable": "di",
+    "ipa": "[dzi]",
+    "bas": "dì",
+    "moyen": "dī",
+    "montant": "dǐ",
+    "descendant": "dî"
+  },
+  {
+    "syllable": "dia",
+    "ipa": "[dzia]",
+    "bas": "dià",
+    "moyen": "diā",
+    "montant": "diǎ",
+    "descendant": "diâ"
+  },
+  {
+    "syllable": "diα",
+    "ipa": "[dziɑ]",
+    "bas": "diὰ",
+    "moyen": "diᾱ",
+    "montant": "diα̌",
+    "descendant": "diα̂"
+  },
+  {
+    "syllable": "din",
+    "ipa": "[dzin]",
+    "bas": "dìn",
+    "moyen": "dīn",
+    "montant": "dǐn",
+    "descendant": "dîn"
+  },
+  {
+    "syllable": "duα",
+    "ipa": "[dhuɑ]",
+    "bas": "duὰ",
+    "moyen": "duᾱ",
+    "montant": "duα̌",
+    "descendant": "duα̂"
+  },
+  {
+    "syllable": "du",
+    "ipa": "[dhu]",
+    "bas": "dù",
+    "moyen": "dū",
+    "montant": "dǔ",
+    "descendant": "dû"
+  },
+  {
+    "syllable": "dub",
+    "ipa": "[dhub]",
+    "bas": "dùb",
+    "moyen": "dūb",
+    "montant": "dǔb",
+    "descendant": "dûb"
+  },
+  {
+    "syllable": "dud",
+    "ipa": "[dhut]",
+    "bas": "dùd",
+    "moyen": "dūd",
+    "montant": "dǔd",
+    "descendant": "dûd"
+  },
+  {
+    "syllable": "dul",
+    "ipa": "[dhul]",
+    "bas": "dùl",
+    "moyen": "dūl",
+    "montant": "dǔl",
+    "descendant": "dûl"
+  },
+  {
+    "syllable": "dum",
+    "ipa": "[dhum]",
+    "bas": "dùm",
+    "moyen": "dūm",
+    "montant": "dǔm",
+    "descendant": "dûm"
+  },
+  {
+    "syllable": "dun",
+    "ipa": "[dhun]",
+    "bas": "dùn",
+    "moyen": "dūn",
+    "montant": "dǔn",
+    "descendant": "dûn"
+  },
+  {
+    "syllable": "du'",
+    "ipa": "[dhuʔ]",
+    "bas": "dù'",
+    "moyen": "dū'",
+    "montant": "dǔ'",
+    "descendant": "dû'"
+  },
+  {
+    "syllable": "dʉ",
+    "ipa": "[dhʉ]",
+    "bas": "dʉ̀",
+    "moyen": "dʉ̄",
+    "montant": "dʉ̌",
+    "descendant": "dʉ̂"
+  },
+  {
+    "syllable": "dʉb",
+    "ipa": "[dhʉb]",
+    "bas": "dʉ̀b",
+    "moyen": "dʉ̄b",
+    "montant": "dʉ̌b",
+    "descendant": "dʉ̂b"
+  },
+  {
+    "syllable": "dʉd",
+    "ipa": "[dhʉt]",
+    "bas": "dʉ̀d",
+    "moyen": "dʉ̄d",
+    "montant": "dʉ̌d",
+    "descendant": "dʉ̂d"
+  },
+  {
+    "syllable": "dʉl",
+    "ipa": "[dhʉl]",
+    "bas": "dʉ̀l",
+    "moyen": "dʉ̄l",
+    "montant": "dʉ̌l",
+    "descendant": "dʉ̂l"
+  },
+  {
+    "syllable": "dʉm",
+    "ipa": "[dhʉm]",
+    "bas": "dʉ̀m",
+    "moyen": "dʉ̄m",
+    "montant": "dʉ̌m",
+    "descendant": "dʉ̂m"
+  },
+  {
+    "syllable": "dʉn",
+    "ipa": "[dhʉn]",
+    "bas": "dʉ̀n",
+    "moyen": "dʉ̄n",
+    "montant": "dʉ̌n",
+    "descendant": "dʉ̂n"
+  },
+  {
+    "syllable": "dʉ'",
+    "ipa": "[dhʉʔ]",
+    "bas": "dʉ̀'",
+    "moyen": "dʉ̄'",
+    "montant": "dʉ̌'",
+    "descendant": "dʉ̂'"
+  },
+  {
+    "syllable": "ɛn",
+    "ipa": "[ɛn]",
+    "bas": "ɛ̀n",
+    "moyen": "ɛ̄n",
+    "montant": "ɛ̌n",
+    "descendant": "ɛ̂n"
+  },
+  {
+    "syllable": "ɛ’",
+    "ipa": "[ɛʔ]",
+    "bas": "ɛ̀’",
+    "moyen": "ɛ̄’",
+    "montant": "ɛ̌’",
+    "descendant": "ɛ̂’"
+  },
+  {
+    "syllable": "fa",
+    "ipa": "[fa]",
+    "bas": "fà",
+    "moyen": "fā",
+    "montant": "fǎ",
+    "descendant": "fâ"
+  },
+  {
+    "syllable": "fab",
+    "ipa": "[fab]",
+    "bas": "fàb",
+    "moyen": "fāb",
+    "montant": "fǎb",
+    "descendant": "fâb"
+  },
+  {
+    "syllable": "fad",
+    "ipa": "[fat]",
+    "bas": "fàd",
+    "moyen": "fād",
+    "montant": "fǎd",
+    "descendant": "fâd"
+  },
+  {
+    "syllable": "fag",
+    "ipa": "[fak]",
+    "bas": "fàg",
+    "moyen": "fāg",
+    "montant": "fǎg",
+    "descendant": "fâg"
+  },
+  {
+    "syllable": "fal",
+    "ipa": "[fal]",
+    "bas": "fàl",
+    "moyen": "fāl",
+    "montant": "fǎl",
+    "descendant": "fâl"
+  },
+  {
+    "syllable": "fam",
+    "ipa": "[fam]",
+    "bas": "fàm",
+    "moyen": "fām",
+    "montant": "fǎm",
+    "descendant": "fâm"
+  },
+  {
+    "syllable": "faŋ",
+    "ipa": "[faŋ]",
+    "bas": "fàŋ",
+    "moyen": "fāŋ",
+    "montant": "fǎŋ",
+    "descendant": "fâŋ"
+  },
+  {
+    "syllable": "fa'",
+    "ipa": "[fɑʔ]",
+    "bas": "fà'",
+    "moyen": "fā'",
+    "montant": "fǎ'",
+    "descendant": "fâ'"
+  },
+  {
+    "syllable": "fα",
+    "ipa": "[fɑ]",
+    "bas": "fὰ",
+    "moyen": "fᾱ",
+    "montant": "fα̌",
+    "descendant": "fα̂"
+  },
+  {
+    "syllable": "fαb",
+    "ipa": "[fɑb]",
+    "bas": "fὰb",
+    "moyen": "fᾱb",
+    "montant": "fα̌b",
+    "descendant": "fα̂b"
+  },
+  {
+    "syllable": "fαn",
+    "ipa": "[fɑn]",
+    "bas": "fὰn",
+    "moyen": "fᾱn",
+    "montant": "fα̌n",
+    "descendant": "fα̂n"
+  },
+  {
+    "syllable": "fə",
+    "ipa": "[fhœ], [fʉ]",
+    "bas": "fə̀",
+    "moyen": "fə̄",
+    "montant": "fə̌",
+    "descendant": "fə̂"
+  },
+  {
+    "syllable": "fəb",
+    "ipa": "[fʉb]",
+    "bas": "fə̀b",
+    "moyen": "fə̄b",
+    "montant": "fə̌b",
+    "descendant": "fə̂b"
+  },
+  {
+    "syllable": "fəd",
+    "ipa": "[fʉt]",
+    "bas": "fə̀d",
+    "moyen": "fə̄d",
+    "montant": "fə̌d",
+    "descendant": "fə̂d"
+  },
+  {
+    "syllable": "fəl",
+    "ipa": "[fʉl]",
+    "bas": "fə̀l",
+    "moyen": "fə̄l",
+    "montant": "fə̌l",
+    "descendant": "fə̂l"
+  },
+  {
+    "syllable": "fəm",
+    "ipa": "[fʉm]",
+    "bas": "fə̀m",
+    "moyen": "fə̄m",
+    "montant": "fə̌m",
+    "descendant": "fə̂m"
+  },
+  {
+    "syllable": "fən",
+    "ipa": "[fʉn]",
+    "bas": "fə̀n",
+    "moyen": "fə̄n",
+    "montant": "fə̌n",
+    "descendant": "fə̂n"
+  },
+  {
+    "syllable": "fə'",
+    "ipa": "[fhœʔ]",
+    "bas": "fə̀'",
+    "moyen": "fə̄'",
+    "montant": "fə̌'",
+    "descendant": "fə̂'"
+  },
+  {
+    "syllable": "fe",
+    "ipa": "[fi]",
+    "bas": "fè",
+    "moyen": "fē",
+    "montant": "fě",
+    "descendant": "fê"
+  },
+  {
+    "syllable": "feb",
+    "ipa": "[fib]",
+    "bas": "fèb",
+    "moyen": "fēb",
+    "montant": "fěb",
+    "descendant": "fêb"
+  },
+  {
+    "syllable": "fel",
+    "ipa": "[fil]",
+    "bas": "fèl",
+    "moyen": "fēl",
+    "montant": "fěl",
+    "descendant": "fêl"
+  },
+  {
+    "syllable": "fem",
+    "ipa": "[fim]",
+    "bas": "fèm",
+    "moyen": "fēm",
+    "montant": "fěm",
+    "descendant": "fêm"
+  },
+  {
+    "syllable": "fe'",
+    "ipa": "[fiʔ], [feʔ]",
+    "bas": "fè'",
+    "moyen": "fē'",
+    "montant": "fě'",
+    "descendant": "fê'"
+  },
+  {
+    "syllable": "fɛ",
+    "ipa": "[fɛ]",
+    "bas": "fɛ̀",
+    "moyen": "fɛ̄",
+    "montant": "fɛ̌",
+    "descendant": "fɛ̂"
+  },
+  {
+    "syllable": "fɛd",
+    "ipa": "[fɛt]",
+    "bas": "fɛ̀d",
+    "moyen": "fɛ̄d",
+    "montant": "fɛ̌d",
+    "descendant": "fɛ̂d"
+  },
+  {
+    "syllable": "fɛl",
+    "ipa": "[fɛl]",
+    "bas": "fɛ̀l",
+    "moyen": "fɛ̄l",
+    "montant": "fɛ̌l",
+    "descendant": "fɛ̂l"
+  },
+  {
+    "syllable": "fɛn",
+    "ipa": "[fɛn]",
+    "bas": "fɛ̀n",
+    "moyen": "fɛ̄n",
+    "montant": "fɛ̌n",
+    "descendant": "fɛ̂n"
+  },
+  {
+    "syllable": "fi",
+    "ipa": "[fhi]",
+    "bas": "fì",
+    "moyen": "fī",
+    "montant": "fǐ",
+    "descendant": "fî"
+  },
+  {
+    "syllable": "fia",
+    "ipa": "[fhia]",
+    "bas": "fià",
+    "moyen": "fiā",
+    "montant": "fiǎ",
+    "descendant": "fiâ"
+  },
+  {
+    "syllable": "fiaŋ",
+    "ipa": "[fhiaŋ]",
+    "bas": "fiàŋ",
+    "moyen": "fiāŋ",
+    "montant": "fiǎŋ",
+    "descendant": "fiâŋ"
+  },
+  {
+    "syllable": "fiα",
+    "ipa": "[fhiɑ]",
+    "bas": "fiὰ",
+    "moyen": "fiᾱ",
+    "montant": "fiα̌",
+    "descendant": "fiα̂"
+  },
+  {
+    "syllable": "fiαg",
+    "ipa": "[fhiɑk]",
+    "bas": "fiὰg",
+    "moyen": "fiᾱg",
+    "montant": "fiα̌g",
+    "descendant": "fiα̂g"
+  },
+  {
+    "syllable": "fib",
+    "ipa": "[fhib]",
+    "bas": "fìb",
+    "moyen": "fīb",
+    "montant": "fǐb",
+    "descendant": "fîb"
+  },
+  {
+    "syllable": "fid",
+    "ipa": "[fhit]",
+    "bas": "fìd",
+    "moyen": "fīd",
+    "montant": "fǐd",
+    "descendant": "fîd"
+  },
+  {
+    "syllable": "fil",
+    "ipa": "[fhil]",
+    "bas": "fìl",
+    "moyen": "fīl",
+    "montant": "fǐl",
+    "descendant": "fîl"
+  },
+  {
+    "syllable": "fim",
+    "ipa": "[fhim]",
+    "bas": "fìm",
+    "moyen": "fīm",
+    "montant": "fǐm",
+    "descendant": "fîm"
+  },
+  {
+    "syllable": "fin",
+    "ipa": "[fhin]",
+    "bas": "fìn",
+    "moyen": "fīn",
+    "montant": "fǐn",
+    "descendant": "fîn"
+  },
+  {
+    "syllable": "fi'",
+    "ipa": "[fhiʔ]",
+    "bas": "fì'",
+    "moyen": "fī'",
+    "montant": "fǐ'",
+    "descendant": "fî'"
+  },
+  {
+    "syllable": "fo",
+    "ipa": "[fu]",
+    "bas": "fò",
+    "moyen": "fō",
+    "montant": "fǒ",
+    "descendant": "fô"
+  },
+  {
+    "syllable": "fod",
+    "ipa": "[fud]",
+    "bas": "fòd",
+    "moyen": "fōd",
+    "montant": "fǒd",
+    "descendant": "fôd"
+  },
+  {
+    "syllable": "fog",
+    "ipa": "[fhɔk]",
+    "bas": "fòg",
+    "moyen": "fōg",
+    "montant": "fǒg",
+    "descendant": "fôg"
+  },
+  {
+    "syllable": "fom",
+    "ipa": "[fum]",
+    "bas": "fòm",
+    "moyen": "fōm",
+    "montant": "fǒm",
+    "descendant": "fôm"
+  },
+  {
+    "syllable": "fon",
+    "ipa": "[fun]",
+    "bas": "fòn",
+    "moyen": "fōn",
+    "montant": "fǒn",
+    "descendant": "fôn"
+  },
+  {
+    "syllable": "foŋ",
+    "ipa": "[fhɔŋ]",
+    "bas": "fòŋ",
+    "moyen": "fōŋ",
+    "montant": "fǒŋ",
+    "descendant": "fôŋ"
+  },
+  {
+    "syllable": "fu",
+    "ipa": "[fhu]",
+    "bas": "fù",
+    "moyen": "fū",
+    "montant": "fǔ",
+    "descendant": "fû"
+  },
+  {
+    "syllable": "fub",
+    "ipa": "[fhub]",
+    "bas": "fùb",
+    "moyen": "fūb",
+    "montant": "fǔb",
+    "descendant": "fûb"
+  },
+  {
+    "syllable": "fu'",
+    "ipa": "[fhuʔ]",
+    "bas": "fù'",
+    "moyen": "fū'",
+    "montant": "fǔ'",
+    "descendant": "fû'"
+  },
+  {
+    "syllable": "fʉ",
+    "ipa": "[fhʉ]",
+    "bas": "fʉ̀",
+    "moyen": "fʉ̄",
+    "montant": "fʉ̌",
+    "descendant": "fʉ̂"
+  },
+  {
+    "syllable": "fʉα",
+    "ipa": "[fhʉɑ]",
+    "bas": "fʉὰ",
+    "moyen": "fʉᾱ",
+    "montant": "fʉα̌",
+    "descendant": "fʉα̂"
+  },
+  {
+    "syllable": "fʉαg",
+    "ipa": "[fhʉɑk]",
+    "bas": "fʉὰg",
+    "moyen": "fʉᾱg",
+    "montant": "fʉα̌g",
+    "descendant": "fʉα̂g"
+  },
+  {
+    "syllable": "fʉd",
+    "ipa": "[fhʉt]",
+    "bas": "fʉ̀d",
+    "moyen": "fʉ̄d",
+    "montant": "fʉ̌d",
+    "descendant": "fʉ̂d"
+  },
+  {
+    "syllable": "fʉl",
+    "ipa": "[fhʉl]",
+    "bas": "fʉ̀l",
+    "moyen": "fʉ̄l",
+    "montant": "fʉ̌l",
+    "descendant": "fʉ̂l"
+  },
+  {
+    "syllable": "fʉn",
+    "ipa": "[fhʉn]",
+    "bas": "fʉ̀n",
+    "moyen": "fʉ̄n",
+    "montant": "fʉ̌n",
+    "descendant": "fʉ̂n"
+  },
+  {
+    "syllable": "gə",
+    "ipa": "[gœ]",
+    "bas": "gə̀",
+    "moyen": "gə̄",
+    "montant": "gə̌",
+    "descendant": "gə̂"
+  },
+  {
+    "syllable": "go",
+    "ipa": "[gu]",
+    "bas": "gò",
+    "moyen": "gō",
+    "montant": "gǒ",
+    "descendant": "gô"
+  },
+  {
+    "syllable": "gha",
+    "ipa": "[gha]",
+    "bas": "ghà",
+    "moyen": "ghā",
+    "montant": "ghǎ",
+    "descendant": "ghâ"
+  },
+  {
+    "syllable": "ghab",
+    "ipa": "[ghab]",
+    "bas": "ghàb",
+    "moyen": "ghāb",
+    "montant": "ghǎb",
+    "descendant": "ghâb"
+  },
+  {
+    "syllable": "ghad",
+    "ipa": "[ghat]",
+    "bas": "ghàd",
+    "moyen": "ghād",
+    "montant": "ghǎd",
+    "descendant": "ghâd"
+  },
+  {
+    "syllable": "ghag",
+    "ipa": "[ghak]",
+    "bas": "ghàg",
+    "moyen": "ghāg",
+    "montant": "ghǎg",
+    "descendant": "ghâg"
+  },
+  {
+    "syllable": "gham",
+    "ipa": "[gham]",
+    "bas": "ghàm",
+    "moyen": "ghām",
+    "montant": "ghǎm",
+    "descendant": "ghâm"
+  },
+  {
+    "syllable": "ghaŋ",
+    "ipa": "[ghaŋ]",
+    "bas": "ghàŋ",
+    "moyen": "ghāŋ",
+    "montant": "ghǎŋ",
+    "descendant": "ghâŋ"
+  },
+  {
+    "syllable": "gha'",
+    "ipa": "[ghɑʔ]",
+    "bas": "ghà'",
+    "moyen": "ghā'",
+    "montant": "ghǎ'",
+    "descendant": "ghâ'"
+  },
+  {
+    "syllable": "ghα",
+    "ipa": "[ghɑ]",
+    "bas": "ghὰ",
+    "moyen": "ghᾱ",
+    "montant": "ghα̌",
+    "descendant": "ghα̂"
+  },
+  {
+    "syllable": "ghαb",
+    "ipa": "[ghɑb]",
+    "bas": "ghὰb",
+    "moyen": "ghᾱb",
+    "montant": "ghα̌b",
+    "descendant": "ghα̂b"
+  },
+  {
+    "syllable": "ghə",
+    "ipa": "[ghʉ]",
+    "bas": "ghə̀",
+    "moyen": "ghə̄",
+    "montant": "ghə̌",
+    "descendant": "ghə̂"
+  },
+  {
+    "syllable": "ghəb",
+    "ipa": "[ghʉb]",
+    "bas": "ghə̀b",
+    "moyen": "ghə̄b",
+    "montant": "ghə̌b",
+    "descendant": "ghə̂b"
+  },
+  {
+    "syllable": "ghəd",
+    "ipa": "[ghʉt]",
+    "bas": "ghə̀d",
+    "moyen": "ghə̄d",
+    "montant": "ghə̌d",
+    "descendant": "ghə̂d"
+  },
+  {
+    "syllable": "ghəl",
+    "ipa": "[ghʉl]",
+    "bas": "ghə̀l",
+    "moyen": "ghə̄l",
+    "montant": "ghə̌l",
+    "descendant": "ghə̂l"
+  },
+  {
+    "syllable": "ghəm",
+    "ipa": "[ghʉm]",
+    "bas": "ghə̀m",
+    "moyen": "ghə̄m",
+    "montant": "ghə̌m",
+    "descendant": "ghə̂m"
+  },
+  {
+    "syllable": "ghə'",
+    "ipa": "[ghʉʔ]",
+    "bas": "ghə̀'",
+    "moyen": "ghə̄'",
+    "montant": "ghə̌'",
+    "descendant": "ghə̂'"
+  },
+  {
+    "syllable": "gho",
+    "ipa": "[ghu]",
+    "bas": "ghò",
+    "moyen": "ghō",
+    "montant": "ghǒ",
+    "descendant": "ghô"
+  },
+  {
+    "syllable": "ghob",
+    "ipa": "[ghub]",
+    "bas": "ghòb",
+    "moyen": "ghōb",
+    "montant": "ghǒb",
+    "descendant": "ghôb"
+  },
+  {
+    "syllable": "ghog",
+    "ipa": "[ghɔk]",
+    "bas": "ghòg",
+    "moyen": "ghōg",
+    "montant": "ghǒg",
+    "descendant": "ghôg"
+  },
+  {
+    "syllable": "ghom",
+    "ipa": "[ghum]",
+    "bas": "ghòm",
+    "moyen": "ghōm",
+    "montant": "ghǒm",
+    "descendant": "ghôm"
+  },
+  {
+    "syllable": "ghon",
+    "ipa": "[ghun]",
+    "bas": "ghòn",
+    "moyen": "ghōn",
+    "montant": "ghǒn",
+    "descendant": "ghôn"
+  },
+  {
+    "syllable": "gho'",
+    "ipa": "[ghuʔ]",
+    "bas": "ghò'",
+    "moyen": "ghō'",
+    "montant": "ghǒ'",
+    "descendant": "ghô'"
+  },
+  {
+    "syllable": "ghɔ",
+    "ipa": "[gho]",
+    "bas": "ghɔ̀",
+    "moyen": "ghɔ̄",
+    "montant": "ghɔ̌",
+    "descendant": "ghɔ̂"
+  },
+  {
+    "syllable": "ghu",
+    "ipa": "[ghu]",
+    "bas": "ghù",
+    "moyen": "ghū",
+    "montant": "ghǔ",
+    "descendant": "ghû"
+  },
+  {
+    "syllable": "ghua'",
+    "ipa": "[ghuɑʔ]",
+    "bas": "ghuà'",
+    "moyen": "ghuā'",
+    "montant": "ghuǎ'",
+    "descendant": "ghuâ'"
+  },
+  {
+    "syllable": "ghuα",
+    "ipa": "[ghuɑ]",
+    "bas": "ghuὰ",
+    "moyen": "ghuᾱ",
+    "montant": "ghuα̌",
+    "descendant": "ghuα̂"
+  },
+  {
+    "syllable": "ghuαn",
+    "ipa": "[ghuɑn]",
+    "bas": "ghuὰn",
+    "moyen": "ghuᾱn",
+    "montant": "ghuα̌n",
+    "descendant": "ghuα̂n"
+  },
+  {
+    "syllable": "ghub",
+    "ipa": "[ghub]",
+    "bas": "ghùb",
+    "moyen": "ghūb",
+    "montant": "ghǔb",
+    "descendant": "ghûb"
+  },
+  {
+    "syllable": "ghu'",
+    "ipa": "[ghuʔ]",
+    "bas": "ghù'",
+    "moyen": "ghū'",
+    "montant": "ghǔ'",
+    "descendant": "ghû'"
+  },
+  {
+    "syllable": "ghʉ",
+    "ipa": "[ghʉ]",
+    "bas": "ghʉ̀",
+    "moyen": "ghʉ̄",
+    "montant": "ghʉ̌",
+    "descendant": "ghʉ̂"
+  },
+  {
+    "syllable": "ghʉa",
+    "ipa": "[ghʉa]",
+    "bas": "ghʉà",
+    "moyen": "ghʉā",
+    "montant": "ghʉǎ",
+    "descendant": "ghʉâ"
+  },
+  {
+    "syllable": "ghʉaŋ",
+    "ipa": "[ghʉaŋ]",
+    "bas": "ghʉàŋ",
+    "moyen": "ghʉāŋ",
+    "montant": "ghʉǎŋ",
+    "descendant": "ghʉâŋ"
+  },
+  {
+    "syllable": "ghʉα",
+    "ipa": "[ghʉɑ]",
+    "bas": "ghʉὰ",
+    "moyen": "ghʉᾱ",
+    "montant": "ghʉα̌",
+    "descendant": "ghʉα̂"
+  },
+  {
+    "syllable": "ghʉd",
+    "ipa": "[ghʉt]",
+    "bas": "ghʉ̀d",
+    "moyen": "ghʉ̄d",
+    "montant": "ghʉ̌d",
+    "descendant": "ghʉ̂d"
+  },
+  {
+    "syllable": "ghʉm",
+    "ipa": "[ghʉm]",
+    "bas": "ghʉ̀m",
+    "moyen": "ghʉ̄m",
+    "montant": "ghʉ̌m",
+    "descendant": "ghʉ̂m"
+  },
+  {
+    "syllable": "ghʉn",
+    "ipa": "[ghʉn]",
+    "bas": "ghʉ̀n",
+    "moyen": "ghʉ̄n",
+    "montant": "ghʉ̌n",
+    "descendant": "ghʉ̂n"
+  },
+  {
+    "syllable": "hα",
+    "ipa": "[hɑ]",
+    "bas": "hὰ",
+    "moyen": "hᾱ",
+    "montant": "hα̌",
+    "descendant": "hα̂"
+  },
+  {
+    "syllable": "həm",
+    "ipa": "[hʉm]",
+    "bas": "hə̀m",
+    "moyen": "hə̄m",
+    "montant": "hə̌m",
+    "descendant": "hə̂m"
+  },
+  {
+    "syllable": "hɔ",
+    "ipa": "[ho]",
+    "bas": "hɔ̀",
+    "moyen": "hɔ̄",
+    "montant": "hɔ̌",
+    "descendant": "hɔ̂"
+  },
+  {
+    "syllable": "ju",
+    "ipa": "[ȝu]",
+    "bas": "jù",
+    "moyen": "jū",
+    "montant": "jǔ",
+    "descendant": "jû"
+  },
+  {
+    "syllable": "juad",
+    "ipa": "[ȝuat]",
+    "bas": "juàd",
+    "moyen": "juād",
+    "montant": "juǎd",
+    "descendant": "juâd"
+  },
+  {
+    "syllable": "jub",
+    "ipa": "[ȝub]",
+    "bas": "jùb",
+    "moyen": "jūb",
+    "montant": "jǔb",
+    "descendant": "jûb"
+  },
+  {
+    "syllable": "jum",
+    "ipa": "[ȝum]",
+    "bas": "jùm",
+    "moyen": "jūm",
+    "montant": "jǔm",
+    "descendant": "jûm"
+  },
+  {
+    "syllable": "jun",
+    "ipa": "[ȝun]",
+    "bas": "jùn",
+    "moyen": "jūn",
+    "montant": "jǔn",
+    "descendant": "jûn"
+  },
+  {
+    "syllable": "ju'",
+    "ipa": "[ȝuʔ]",
+    "bas": "jù'",
+    "moyen": "jū'",
+    "montant": "jǔ'",
+    "descendant": "jû'"
+  },
+  {
+    "syllable": "jʉ",
+    "ipa": "[ȝʉ]",
+    "bas": "jʉ̀",
+    "moyen": "jʉ̄",
+    "montant": "jʉ̌",
+    "descendant": "jʉ̂"
+  },
+  {
+    "syllable": "jʉα",
+    "ipa": "[ȝʉɑ]",
+    "bas": "jʉὰ",
+    "moyen": "jʉᾱ",
+    "montant": "jʉα̌",
+    "descendant": "jʉα̂"
+  },
+  {
+    "syllable": "jʉαg",
+    "ipa": "[ȝʉɑk]",
+    "bas": "jʉὰg",
+    "moyen": "jʉᾱg",
+    "montant": "jʉα̌g",
+    "descendant": "jʉα̂g"
+  },
+  {
+    "syllable": "jʉm",
+    "ipa": "[ȝʉm]",
+    "bas": "jʉ̀m",
+    "moyen": "jʉ̄m",
+    "montant": "jʉ̌m",
+    "descendant": "jʉ̂m"
+  },
+  {
+    "syllable": "jʉ'",
+    "ipa": "[ȝʉʔ]",
+    "bas": "jʉ̀'",
+    "moyen": "jʉ̄'",
+    "montant": "jʉ̌'",
+    "descendant": "jʉ̂'"
+  },
+  {
+    "syllable": "ka",
+    "ipa": "[ka]",
+    "bas": "kà",
+    "moyen": "kā",
+    "montant": "kǎ",
+    "descendant": "kâ"
+  },
+  {
+    "syllable": "kab",
+    "ipa": "[kab]",
+    "bas": "kàb",
+    "moyen": "kāb",
+    "montant": "kǎb",
+    "descendant": "kâb"
+  },
+  {
+    "syllable": "kad",
+    "ipa": "[kat]",
+    "bas": "kàd",
+    "moyen": "kād",
+    "montant": "kǎd",
+    "descendant": "kâd"
+  },
+  {
+    "syllable": "kag",
+    "ipa": "[kak]",
+    "bas": "kàg",
+    "moyen": "kāg",
+    "montant": "kǎg",
+    "descendant": "kâg"
+  },
+  {
+    "syllable": "kal",
+    "ipa": "[kal]",
+    "bas": "kàl",
+    "moyen": "kāl",
+    "montant": "kǎl",
+    "descendant": "kâl"
+  },
+  {
+    "syllable": "kam",
+    "ipa": "[kam]",
+    "bas": "kàm",
+    "moyen": "kām",
+    "montant": "kǎm",
+    "descendant": "kâm"
+  },
+  {
+    "syllable": "kaŋ",
+    "ipa": "[kaŋ]",
+    "bas": "kàŋ",
+    "moyen": "kāŋ",
+    "montant": "kǎŋ",
+    "descendant": "kâŋ"
+  },
+  {
+    "syllable": "ka'",
+    "ipa": "[kɑʔ]",
+    "bas": "kà'",
+    "moyen": "kā'",
+    "montant": "kǎ'",
+    "descendant": "kâ'"
+  },
+  {
+    "syllable": "kα",
+    "ipa": "[kɑ]",
+    "bas": "kὰ",
+    "moyen": "kᾱ",
+    "montant": "kα̌",
+    "descendant": "kα̂"
+  },
+  {
+    "syllable": "kαb",
+    "ipa": "[kɑb]",
+    "bas": "kὰb",
+    "moyen": "kᾱb",
+    "montant": "kα̌b",
+    "descendant": "kα̂b"
+  },
+  {
+    "syllable": "kαg",
+    "ipa": "[kɑk]",
+    "bas": "kὰg",
+    "moyen": "kᾱg",
+    "montant": "kα̌g",
+    "descendant": "kα̂g"
+  },
+  {
+    "syllable": "kαm",
+    "ipa": "[kɑm]",
+    "bas": "kὰm",
+    "moyen": "kᾱm",
+    "montant": "kα̌m",
+    "descendant": "kα̂m"
+  },
+  {
+    "syllable": "kαn",
+    "ipa": "[kɑn]",
+    "bas": "kὰn",
+    "moyen": "kᾱn",
+    "montant": "kα̌n",
+    "descendant": "kα̂n"
+  },
+  {
+    "syllable": "kə",
+    "ipa": "[kœ], [kʉ]",
+    "bas": "kə̀",
+    "moyen": "kə̄",
+    "montant": "kə̌",
+    "descendant": "kə̂"
+  },
+  {
+    "syllable": "kəb",
+    "ipa": "[kʉb]",
+    "bas": "kə̀b",
+    "moyen": "kə̄b",
+    "montant": "kə̌b",
+    "descendant": "kə̂b"
+  },
+  {
+    "syllable": "kəd",
+    "ipa": "[kʉt]",
+    "bas": "kə̀d",
+    "moyen": "kə̄d",
+    "montant": "kə̌d",
+    "descendant": "kə̂d"
+  },
+  {
+    "syllable": "kəl",
+    "ipa": "[kʉl]",
+    "bas": "kə̀l",
+    "moyen": "kə̄l",
+    "montant": "kə̌l",
+    "descendant": "kə̂l"
+  },
+  {
+    "syllable": "kəm",
+    "ipa": "[kʉm]",
+    "bas": "kə̀m",
+    "moyen": "kə̄m",
+    "montant": "kə̌m",
+    "descendant": "kə̂m"
+  },
+  {
+    "syllable": "kə'",
+    "ipa": "[kʉʔ]",
+    "bas": "kə̀'",
+    "moyen": "kə̄'",
+    "montant": "kə̌'",
+    "descendant": "kə̂'"
+  },
+  {
+    "syllable": "ke",
+    "ipa": "[ki]",
+    "bas": "kè",
+    "moyen": "kē",
+    "montant": "kě",
+    "descendant": "kê"
+  },
+  {
+    "syllable": "ked",
+    "ipa": "[kit]",
+    "bas": "kèd",
+    "moyen": "kēd",
+    "montant": "kěd",
+    "descendant": "kêd"
+  },
+  {
+    "syllable": "kel",
+    "ipa": "[kil]",
+    "bas": "kèl",
+    "moyen": "kēl",
+    "montant": "kěl",
+    "descendant": "kêl"
+  },
+  {
+    "syllable": "kem",
+    "ipa": "[kim]",
+    "bas": "kèm",
+    "moyen": "kēm",
+    "montant": "kěm",
+    "descendant": "kêm"
+  },
+  {
+    "syllable": "ke'",
+    "ipa": "[kiʔ]",
+    "bas": "kè'",
+    "moyen": "kē'",
+    "montant": "kě'",
+    "descendant": "kê'"
+  },
+  {
+    "syllable": "kɛd",
+    "ipa": "[kɛt]",
+    "bas": "kɛ̀d",
+    "moyen": "kɛ̄d",
+    "montant": "kɛ̌d",
+    "descendant": "kɛ̂d"
+  },
+  {
+    "syllable": "kɛl",
+    "ipa": "[kɛl]",
+    "bas": "kɛ̀l",
+    "moyen": "kɛ̄l",
+    "montant": "kɛ̌l",
+    "descendant": "kɛ̂l"
+  },
+  {
+    "syllable": "ki",
+    "ipa": "[kxi]",
+    "bas": "kì",
+    "moyen": "kī",
+    "montant": "kǐ",
+    "descendant": "kî"
+  },
+  {
+    "syllable": "kiα",
+    "ipa": "[kxiɑ]",
+    "bas": "kiὰ",
+    "moyen": "kiᾱ",
+    "montant": "kiα̌",
+    "descendant": "kiα̂"
+  },
+  {
+    "syllable": "kiαg",
+    "ipa": "[kxiɑk]",
+    "bas": "kiὰg",
+    "moyen": "kiᾱg",
+    "montant": "kiα̌g",
+    "descendant": "kiα̂g"
+  },
+  {
+    "syllable": "kib",
+    "ipa": "[kxib]",
+    "bas": "kìb",
+    "moyen": "kīb",
+    "montant": "kǐb",
+    "descendant": "kîb"
+  },
+  {
+    "syllable": "kin",
+    "ipa": "[kxin]",
+    "bas": "kìn",
+    "moyen": "kīn",
+    "montant": "kǐn",
+    "descendant": "kîn"
+  },
+  {
+    "syllable": "ki'",
+    "ipa": "[kxiʔ]",
+    "bas": "kì'",
+    "moyen": "kī'",
+    "montant": "kǐ'",
+    "descendant": "kî'"
+  },
+  {
+    "syllable": "ko",
+    "ipa": "[ku]",
+    "bas": "kò",
+    "moyen": "kō",
+    "montant": "kǒ",
+    "descendant": "kô"
+  },
+  {
+    "syllable": "kob",
+    "ipa": "[kub]",
+    "bas": "kòb",
+    "moyen": "kōb",
+    "montant": "kǒb",
+    "descendant": "kôb"
+  },
+  {
+    "syllable": "kod",
+    "ipa": "[kud]",
+    "bas": "kòd",
+    "moyen": "kōd",
+    "montant": "kǒd",
+    "descendant": "kôd"
+  },
+  {
+    "syllable": "kog",
+    "ipa": "[kɔk]",
+    "bas": "kòg",
+    "moyen": "kōg",
+    "montant": "kǒg",
+    "descendant": "kôg"
+  },
+  {
+    "syllable": "kol",
+    "ipa": "[kul]",
+    "bas": "kòl",
+    "moyen": "kōl",
+    "montant": "kǒl",
+    "descendant": "kôl"
+  },
+  {
+    "syllable": "kom",
+    "ipa": "[kum]",
+    "bas": "kòm",
+    "moyen": "kōm",
+    "montant": "kǒm",
+    "descendant": "kôm"
+  },
+  {
+    "syllable": "koŋ",
+    "ipa": "[kɔŋ]",
+    "bas": "kòŋ",
+    "moyen": "kōŋ",
+    "montant": "kǒŋ",
+    "descendant": "kôŋ"
+  },
+  {
+    "syllable": "ko'",
+    "ipa": "[kuʔ]",
+    "bas": "kò'",
+    "moyen": "kō'",
+    "montant": "kǒ'",
+    "descendant": "kô'"
+  },
+  {
+    "syllable": "kɔ",
+    "ipa": "[ko]",
+    "bas": "kɔ̀",
+    "moyen": "kɔ̄",
+    "montant": "kɔ̌",
+    "descendant": "kɔ̂"
+  },
+  {
+    "syllable": "ku",
+    "ipa": "[kxu]",
+    "bas": "kù",
+    "moyen": "kū",
+    "montant": "kǔ",
+    "descendant": "kû"
+  },
+  {
+    "syllable": "kua'",
+    "ipa": "[kxuɑʔ]",
+    "bas": "kuà'",
+    "moyen": "kuā'",
+    "montant": "kuǎ'",
+    "descendant": "kuâ'"
+  },
+  {
+    "syllable": "kuα",
+    "ipa": "[kxuɑ]",
+    "bas": "kuὰ",
+    "moyen": "kuᾱ",
+    "montant": "kuα̌",
+    "descendant": "kuα̂"
+  },
+  {
+    "syllable": "kuαn",
+    "ipa": "[kxuɑn]",
+    "bas": "kuὰn",
+    "moyen": "kuᾱn",
+    "montant": "kuα̌n",
+    "descendant": "kuα̂n"
+  },
+  {
+    "syllable": "kub",
+    "ipa": "[kxub]",
+    "bas": "kùb",
+    "moyen": "kūb",
+    "montant": "kǔb",
+    "descendant": "kûb"
+  },
+  {
+    "syllable": "kud",
+    "ipa": "[kxut]",
+    "bas": "kùd",
+    "moyen": "kūd",
+    "montant": "kǔd",
+    "descendant": "kûd"
+  },
+  {
+    "syllable": "kul",
+    "ipa": "[kxul]",
+    "bas": "kùl",
+    "moyen": "kūl",
+    "montant": "kǔl",
+    "descendant": "kûl"
+  },
+  {
+    "syllable": "kum",
+    "ipa": "[kxum]",
+    "bas": "kùm",
+    "moyen": "kūm",
+    "montant": "kǔm",
+    "descendant": "kûm"
+  },
+  {
+    "syllable": "kun",
+    "ipa": "[kxun]",
+    "bas": "kùn",
+    "moyen": "kūn",
+    "montant": "kǔn",
+    "descendant": "kûn"
+  },
+  {
+    "syllable": "ku'",
+    "ipa": "[kxuʔ]",
+    "bas": "kù'",
+    "moyen": "kū'",
+    "montant": "kǔ'",
+    "descendant": "kû'"
+  },
+  {
+    "syllable": "kʉ",
+    "ipa": "[kxʉ]",
+    "bas": "kʉ̀",
+    "moyen": "kʉ̄",
+    "montant": "kʉ̌",
+    "descendant": "kʉ̂"
+  },
+  {
+    "syllable": "kʉα",
+    "ipa": "[kxʉɑ]",
+    "bas": "kʉὰ",
+    "moyen": "kʉᾱ",
+    "montant": "kʉα̌",
+    "descendant": "kʉα̂"
+  },
+  {
+    "syllable": "kʉd",
+    "ipa": "[kxʉt]",
+    "bas": "kʉ̀d",
+    "moyen": "kʉ̄d",
+    "montant": "kʉ̌d",
+    "descendant": "kʉ̂d"
+  },
+  {
+    "syllable": "kʉl",
+    "ipa": "[kxʉl]",
+    "bas": "kʉ̀l",
+    "moyen": "kʉ̄l",
+    "montant": "kʉ̌l",
+    "descendant": "kʉ̂l"
+  },
+  {
+    "syllable": "kʉm",
+    "ipa": "[kxʉm]",
+    "bas": "kʉ̀m",
+    "moyen": "kʉ̄m",
+    "montant": "kʉ̌m",
+    "descendant": "kʉ̂m"
+  },
+  {
+    "syllable": "kʉ'",
+    "ipa": "[kxʉʔ]",
+    "bas": "kʉ̀'",
+    "moyen": "kʉ̄'",
+    "montant": "kʉ̌'",
+    "descendant": "kʉ̂'"
+  },
+  {
+    "syllable": "kwa",
+    "ipa": "[kua]",
+    "bas": "kwà",
+    "moyen": "kwā",
+    "montant": "kwǎ",
+    "descendant": "kwâ"
+  },
+  {
+    "syllable": "kwag",
+    "ipa": "[kuak]",
+    "bas": "kwàg",
+    "moyen": "kwāg",
+    "montant": "kwǎg",
+    "descendant": "kwâg"
+  },
+  {
+    "syllable": "kwaŋ",
+    "ipa": "[kuaŋ]",
+    "bas": "kwàŋ",
+    "moyen": "kwāŋ",
+    "montant": "kwǎŋ",
+    "descendant": "kwâŋ"
+  },
+  {
+    "syllable": "kwα",
+    "ipa": "[kuɑ]",
+    "bas": "kwὰ",
+    "moyen": "kwᾱ",
+    "montant": "kwα̌",
+    "descendant": "kwα̂"
+  },
+  {
+    "syllable": "kwαb",
+    "ipa": "[kuɑb]",
+    "bas": "kwὰb",
+    "moyen": "kwᾱb",
+    "montant": "kwα̌b",
+    "descendant": "kwα̂b"
+  },
+  {
+    "syllable": "kwe",
+    "ipa": "[kɥi]",
+    "bas": "kwè",
+    "moyen": "kwē",
+    "montant": "kwě",
+    "descendant": "kwê"
+  },
+  {
+    "syllable": "kweb",
+    "ipa": "[kɥib]",
+    "bas": "kwèb",
+    "moyen": "kwēb",
+    "montant": "kwěb",
+    "descendant": "kwêb"
+  },
+  {
+    "syllable": "kwem",
+    "ipa": "[kɥim]",
+    "bas": "kwèm",
+    "moyen": "kwēm",
+    "montant": "kwěm",
+    "descendant": "kwêm"
+  },
+  {
+    "syllable": "kwe'",
+    "ipa": "[kɥiʔ]",
+    "bas": "kwè'",
+    "moyen": "kwē'",
+    "montant": "kwě'",
+    "descendant": "kwê'"
+  },
+  {
+    "syllable": "kwi",
+    "ipa": "[kxɥi]",
+    "bas": "kwì",
+    "moyen": "kwī",
+    "montant": "kwǐ",
+    "descendant": "kwî"
+  },
+  {
+    "syllable": "kwia",
+    "ipa": "[kxɥia]",
+    "bas": "kwià",
+    "moyen": "kwiā",
+    "montant": "kwiǎ",
+    "descendant": "kwiâ"
+  },
+  {
+    "syllable": "kwiaŋ",
+    "ipa": "[kxɥiaŋ]",
+    "bas": "kwiàŋ",
+    "moyen": "kwiāŋ",
+    "montant": "kwiǎŋ",
+    "descendant": "kwiâŋ"
+  },
+  {
+    "syllable": "kwiα",
+    "ipa": "[kxɥiɑ]",
+    "bas": "kwiὰ",
+    "moyen": "kwiᾱ",
+    "montant": "kwiα̌",
+    "descendant": "kwiα̂"
+  },
+  {
+    "syllable": "kwiαg",
+    "ipa": "[kxɥiɑk]",
+    "bas": "kwiὰg",
+    "moyen": "kwiᾱg",
+    "montant": "kwiα̌g",
+    "descendant": "kwiα̂g"
+  },
+  {
+    "syllable": "kwib",
+    "ipa": "[kxɥib]",
+    "bas": "kwìb",
+    "moyen": "kwīb",
+    "montant": "kwǐb",
+    "descendant": "kwîb"
+  },
+  {
+    "syllable": "kwid",
+    "ipa": "[kxɥit]",
+    "bas": "kwìd",
+    "moyen": "kwīd",
+    "montant": "kwǐd",
+    "descendant": "kwîd"
+  },
+  {
+    "syllable": "kwim",
+    "ipa": "[kxɥim]",
+    "bas": "kwìm",
+    "moyen": "kwīm",
+    "montant": "kwǐm",
+    "descendant": "kwîm"
+  },
+  {
+    "syllable": "kwin",
+    "ipa": "[kxɥin]",
+    "bas": "kwìn",
+    "moyen": "kwīn",
+    "montant": "kwǐn",
+    "descendant": "kwîn"
+  },
+  {
+    "syllable": "kwi'",
+    "ipa": "[kxɥiʔ]",
+    "bas": "kwì'",
+    "moyen": "kwī'",
+    "montant": "kwǐ'",
+    "descendant": "kwî'"
+  },
+  {
+    "syllable": "kwʉ",
+    "ipa": "[kxuʉ]",
+    "bas": "kwʉ̀",
+    "moyen": "kwʉ̄",
+    "montant": "kwʉ̌",
+    "descendant": "kwʉ̂"
+  },
+  {
+    "syllable": "la",
+    "ipa": "[la]",
+    "bas": "là",
+    "moyen": "lā",
+    "montant": "lǎ",
+    "descendant": "lâ"
+  },
+  {
+    "syllable": "lab",
+    "ipa": "[lab]",
+    "bas": "làb",
+    "moyen": "lāb",
+    "montant": "lǎb",
+    "descendant": "lâb"
+  },
+  {
+    "syllable": "lad",
+    "ipa": "[lat]",
+    "bas": "làd",
+    "moyen": "lād",
+    "montant": "lǎd",
+    "descendant": "lâd"
+  },
+  {
+    "syllable": "lag",
+    "ipa": "[lak]",
+    "bas": "làg",
+    "moyen": "lāg",
+    "montant": "lǎg",
+    "descendant": "lâg"
+  },
+  {
+    "syllable": "lal",
+    "ipa": "[lal]",
+    "bas": "làl",
+    "moyen": "lāl",
+    "montant": "lǎl",
+    "descendant": "lâl"
+  },
+  {
+    "syllable": "lam",
+    "ipa": "[lam]",
+    "bas": "làm",
+    "moyen": "lām",
+    "montant": "lǎm",
+    "descendant": "lâm"
+  },
+  {
+    "syllable": "laŋ",
+    "ipa": "[laŋ]",
+    "bas": "làŋ",
+    "moyen": "lāŋ",
+    "montant": "lǎŋ",
+    "descendant": "lâŋ"
+  },
+  {
+    "syllable": "la'",
+    "ipa": "[lɑʔ]",
+    "bas": "là'",
+    "moyen": "lā'",
+    "montant": "lǎ'",
+    "descendant": "lâ'"
+  },
+  {
+    "syllable": "lα",
+    "ipa": "[lɑ]",
+    "bas": "lὰ",
+    "moyen": "lᾱ",
+    "montant": "lα̌",
+    "descendant": "lα̂"
+  },
+  {
+    "syllable": "lαb",
+    "ipa": "[lɑb]",
+    "bas": "lὰb",
+    "moyen": "lᾱb",
+    "montant": "lα̌b",
+    "descendant": "lα̂b"
+  },
+  {
+    "syllable": "lαg",
+    "ipa": "[lɑg]",
+    "bas": "lὰg",
+    "moyen": "lᾱg",
+    "montant": "lα̌g",
+    "descendant": "lα̂g"
+  },
+  {
+    "syllable": "lαm",
+    "ipa": "[lɑm]",
+    "bas": "lὰm",
+    "moyen": "lᾱm",
+    "montant": "lα̌m",
+    "descendant": "lα̂m"
+  },
+  {
+    "syllable": "lαn",
+    "ipa": "[lɑn]",
+    "bas": "lὰn",
+    "moyen": "lᾱn",
+    "montant": "lα̌n",
+    "descendant": "lα̂n"
+  },
+  {
+    "syllable": "lə",
+    "ipa": "[lœ], [lʉ]",
+    "bas": "lə̀",
+    "moyen": "lə̄",
+    "montant": "lə̌",
+    "descendant": "lə̂"
+  },
+  {
+    "syllable": "ləb",
+    "ipa": "[lʉb]",
+    "bas": "lə̀b",
+    "moyen": "lə̄b",
+    "montant": "lə̌b",
+    "descendant": "lə̂b"
+  },
+  {
+    "syllable": "ləd",
+    "ipa": "[lʉt]",
+    "bas": "lə̀d",
+    "moyen": "lə̄d",
+    "montant": "lə̌d",
+    "descendant": "lə̂d"
+  },
+  {
+    "syllable": "ləl",
+    "ipa": "[lʉl]",
+    "bas": "lə̀l",
+    "moyen": "lə̄l",
+    "montant": "lə̌l",
+    "descendant": "lə̂l"
+  },
+  {
+    "syllable": "ləm",
+    "ipa": "[lʉm]",
+    "bas": "lə̀m",
+    "moyen": "lə̄m",
+    "montant": "lə̌m",
+    "descendant": "lə̂m"
+  },
+  {
+    "syllable": "lən",
+    "ipa": "[lʉn]",
+    "bas": "lə̀n",
+    "moyen": "lə̄n",
+    "montant": "lə̌n",
+    "descendant": "lə̂n"
+  },
+  {
+    "syllable": "lə'",
+    "ipa": "[lʉʔ]",
+    "bas": "lə̀'",
+    "moyen": "lə̄'",
+    "montant": "lə̌'",
+    "descendant": "lə̂'"
+  },
+  {
+    "syllable": "le",
+    "ipa": "[li]",
+    "bas": "lè",
+    "moyen": "lē",
+    "montant": "lě",
+    "descendant": "lê"
+  },
+  {
+    "syllable": "led",
+    "ipa": "[lit]",
+    "bas": "lèd",
+    "moyen": "lēd",
+    "montant": "lěd",
+    "descendant": "lêd"
+  },
+  {
+    "syllable": "lel",
+    "ipa": "[lil]",
+    "bas": "lèl",
+    "moyen": "lēl",
+    "montant": "lěl",
+    "descendant": "lêl"
+  },
+  {
+    "syllable": "lem",
+    "ipa": "[lim]",
+    "bas": "lèm",
+    "moyen": "lēm",
+    "montant": "lěm",
+    "descendant": "lêm"
+  },
+  {
+    "syllable": "le'",
+    "ipa": "[liʔ]",
+    "bas": "lè'",
+    "moyen": "lē'",
+    "montant": "lě'",
+    "descendant": "lê'"
+  },
+  {
+    "syllable": "lɛ",
+    "ipa": "[lɛ]",
+    "bas": "lɛ̀",
+    "moyen": "lɛ̄",
+    "montant": "lɛ̌",
+    "descendant": "lɛ̂"
+  },
+  {
+    "syllable": "lɛd",
+    "ipa": "[lɛt]",
+    "bas": "lɛ̀d",
+    "moyen": "lɛ̄d",
+    "montant": "lɛ̌d",
+    "descendant": "lɛ̂d"
+  },
+  {
+    "syllable": "lɛl",
+    "ipa": "[lɛl]",
+    "bas": "lɛ̀l",
+    "moyen": "lɛ̄l",
+    "montant": "lɛ̌l",
+    "descendant": "lɛ̂l"
+  },
+  {
+    "syllable": "li",
+    "ipa": "[li]",
+    "bas": "lì",
+    "moyen": "lī",
+    "montant": "lǐ",
+    "descendant": "lî"
+  },
+  {
+    "syllable": "lid",
+    "ipa": "[lit]",
+    "bas": "lìd",
+    "moyen": "līd",
+    "montant": "lǐd",
+    "descendant": "lîd"
+  },
+  {
+    "syllable": "lin",
+    "ipa": "[lin]",
+    "bas": "lìn",
+    "moyen": "līn",
+    "montant": "lǐn",
+    "descendant": "lîn"
+  },
+  {
+    "syllable": "lo",
+    "ipa": "[lu]",
+    "bas": "lò",
+    "moyen": "lō",
+    "montant": "lǒ",
+    "descendant": "lô"
+  },
+  {
+    "syllable": "lob",
+    "ipa": "[lub]",
+    "bas": "lòb",
+    "moyen": "lōb",
+    "montant": "lǒb",
+    "descendant": "lôb"
+  },
+  {
+    "syllable": "log",
+    "ipa": "[lɔk]",
+    "bas": "lòg",
+    "moyen": "lōg",
+    "montant": "lǒg",
+    "descendant": "lôg"
+  },
+  {
+    "syllable": "lon",
+    "ipa": "[lun]",
+    "bas": "lòn",
+    "moyen": "lōn",
+    "montant": "lǒn",
+    "descendant": "lôn"
+  },
+  {
+    "syllable": "loŋ",
+    "ipa": "[lɔŋ]",
+    "bas": "lòŋ",
+    "moyen": "lōŋ",
+    "montant": "lǒŋ",
+    "descendant": "lôŋ"
+  },
+  {
+    "syllable": "lo'",
+    "ipa": "[luʔ]",
+    "bas": "lò'",
+    "moyen": "lō'",
+    "montant": "lǒ'",
+    "descendant": "lô'"
+  },
+  {
+    "syllable": "lɔ",
+    "ipa": "[lo]",
+    "bas": "lɔ̀",
+    "moyen": "lɔ̄",
+    "montant": "lɔ̌",
+    "descendant": "lɔ̂"
+  },
+  {
+    "syllable": "ma",
+    "ipa": "[ma]",
+    "bas": "mà",
+    "moyen": "mā",
+    "montant": "mǎ",
+    "descendant": "mâ"
+  },
+  {
+    "syllable": "mad",
+    "ipa": "[mat]",
+    "bas": "màd",
+    "moyen": "mād",
+    "montant": "mǎd",
+    "descendant": "mâd"
+  },
+  {
+    "syllable": "mag",
+    "ipa": "[mak]",
+    "bas": "màg",
+    "moyen": "māg",
+    "montant": "mǎg",
+    "descendant": "mâg"
+  },
+  {
+    "syllable": "mal",
+    "ipa": "[mal]",
+    "bas": "màl",
+    "moyen": "māl",
+    "montant": "mǎl",
+    "descendant": "mâl"
+  },
+  {
+    "syllable": "maŋ",
+    "ipa": "[maŋ]",
+    "bas": "màŋ",
+    "moyen": "māŋ",
+    "montant": "mǎŋ",
+    "descendant": "mâŋ"
+  },
+  {
+    "syllable": "ma'",
+    "ipa": "[mɑʔ]",
+    "bas": "mà'",
+    "moyen": "mā'",
+    "montant": "mǎ'",
+    "descendant": "mâ'"
+  },
+  {
+    "syllable": "mα",
+    "ipa": "[mɑ]",
+    "bas": "mὰ",
+    "moyen": "mᾱ",
+    "montant": "mα̌",
+    "descendant": "mα̂"
+  },
+  {
+    "syllable": "mαg",
+    "ipa": "[mɑk]",
+    "bas": "mὰg",
+    "moyen": "mᾱg",
+    "montant": "mα̌g",
+    "descendant": "mα̂g"
+  },
+  {
+    "syllable": "mαm",
+    "ipa": "[mɑm]",
+    "bas": "mὰm",
+    "moyen": "mᾱm",
+    "montant": "mα̌m",
+    "descendant": "mα̂m"
+  },
+  {
+    "syllable": "mba",
+    "ipa": "[mba]",
+    "bas": "mbà",
+    "moyen": "mbā",
+    "montant": "mbǎ",
+    "descendant": "mbâ"
+  },
+  {
+    "syllable": "mbab",
+    "ipa": "[mbab]",
+    "bas": "mbàb",
+    "moyen": "mbāb",
+    "montant": "mbǎb",
+    "descendant": "mbâb"
+  },
+  {
+    "syllable": "mbad",
+    "ipa": "[mbat]",
+    "bas": "mbàd",
+    "moyen": "mbād",
+    "montant": "mbǎd",
+    "descendant": "mbâd"
+  },
+  {
+    "syllable": "mbag",
+    "ipa": "[mbak]",
+    "bas": "mbàg",
+    "moyen": "mbāg",
+    "montant": "mbǎg",
+    "descendant": "mbâg"
+  },
+  {
+    "syllable": "mbal",
+    "ipa": "[mbal]",
+    "bas": "mbàl",
+    "moyen": "mbāl",
+    "montant": "mbǎl",
+    "descendant": "mbâl"
+  },
+  {
+    "syllable": "mbam",
+    "ipa": "[mbam]",
+    "bas": "mbàm",
+    "moyen": "mbām",
+    "montant": "mbǎm",
+    "descendant": "mbâm"
+  },
+  {
+    "syllable": "mbaŋ",
+    "ipa": "[mbaŋ]",
+    "bas": "mbàŋ",
+    "moyen": "mbāŋ",
+    "montant": "mbǎŋ",
+    "descendant": "mbâŋ"
+  },
+  {
+    "syllable": "mba'",
+    "ipa": "[mbɑʔ]",
+    "bas": "mbà'",
+    "moyen": "mbā'",
+    "montant": "mbǎ'",
+    "descendant": "mbâ'"
+  },
+  {
+    "syllable": "mbα",
+    "ipa": "[mbɑ]",
+    "bas": "mbὰ",
+    "moyen": "mbᾱ",
+    "montant": "mbα̌",
+    "descendant": "mbα̂"
+  },
+  {
+    "syllable": "mbαb",
+    "ipa": "[mbɑb]",
+    "bas": "mbὰb",
+    "moyen": "mbᾱb",
+    "montant": "mbα̌b",
+    "descendant": "mbα̂b"
+  },
+  {
+    "syllable": "mbαg",
+    "ipa": "[mbɑk]",
+    "bas": "mbὰg",
+    "moyen": "mbᾱg",
+    "montant": "mbα̌g",
+    "descendant": "mbα̂g"
+  },
+  {
+    "syllable": "mbαm",
+    "ipa": "[mbɑm]",
+    "bas": "mbὰm",
+    "moyen": "mbᾱm",
+    "montant": "mbα̌m",
+    "descendant": "mbα̂m"
+  },
+  {
+    "syllable": "mbαn",
+    "ipa": "[mbɑn]",
+    "bas": "mbὰn",
+    "moyen": "mbᾱn",
+    "montant": "mbα̌n",
+    "descendant": "mbα̂n"
+  },
+  {
+    "syllable": "mbə",
+    "ipa": "[mbʉ]",
+    "bas": "mbə̀",
+    "moyen": "mbə̄",
+    "montant": "mbə̌",
+    "descendant": "mbə̂"
+  },
+  {
+    "syllable": "mbəd",
+    "ipa": "[mbʉt]",
+    "bas": "mbə̀d",
+    "moyen": "mbə̄d",
+    "montant": "mbə̌d",
+    "descendant": "mbə̂d"
+  },
+  {
+    "syllable": "mbəl",
+    "ipa": "[mbʉl]",
+    "bas": "mbə̀l",
+    "moyen": "mbə̄l",
+    "montant": "mbə̌l",
+    "descendant": "mbə̂l"
+  },
+  {
+    "syllable": "mbəm",
+    "ipa": "[mbʉm]",
+    "bas": "mbə̀m",
+    "moyen": "mbə̄m",
+    "montant": "mbə̌m",
+    "descendant": "mbə̂m"
+  },
+  {
+    "syllable": "mbə'",
+    "ipa": "[mbʉʔ]",
+    "bas": "mbə̀'",
+    "moyen": "mbə̄'",
+    "montant": "mbə̌'",
+    "descendant": "mbə̂'"
+  },
+  {
+    "syllable": "mbe",
+    "ipa": "[mbi]",
+    "bas": "mbè",
+    "moyen": "mbē",
+    "montant": "mbě",
+    "descendant": "mbê"
+  },
+  {
+    "syllable": "mbed",
+    "ipa": "[mbit]",
+    "bas": "mbèd",
+    "moyen": "mbēd",
+    "montant": "mběd",
+    "descendant": "mbêd"
+  },
+  {
+    "syllable": "mbel",
+    "ipa": "[mbil]",
+    "bas": "mbèl",
+    "moyen": "mbēl",
+    "montant": "mběl",
+    "descendant": "mbêl"
+  },
+  {
+    "syllable": "mbem",
+    "ipa": "[mbim]",
+    "bas": "mbèm",
+    "moyen": "mbēm",
+    "montant": "mběm",
+    "descendant": "mbêm"
+  },
+  {
+    "syllable": "mben",
+    "ipa": "[mbin]",
+    "bas": "mbèn",
+    "moyen": "mbēn",
+    "montant": "mběn",
+    "descendant": "mbên"
+  },
+  {
+    "syllable": "mbe'",
+    "ipa": "[mbiʔ]",
+    "bas": "mbè'",
+    "moyen": "mbē'",
+    "montant": "mbě'",
+    "descendant": "mbê'"
+  },
+  {
+    "syllable": "mbɛ",
+    "ipa": "[mbɛ]",
+    "bas": "mbɛ̀",
+    "moyen": "mbɛ̄",
+    "montant": "mbɛ̌",
+    "descendant": "mbɛ̂"
+  },
+  {
+    "syllable": "mbɛd",
+    "ipa": "[mbɛt]",
+    "bas": "mbɛ̀d",
+    "moyen": "mbɛ̄d",
+    "montant": "mbɛ̌d",
+    "descendant": "mbɛ̂d"
+  },
+  {
+    "syllable": "mbɛl",
+    "ipa": "[mbɛl]",
+    "bas": "mbɛ̀l",
+    "moyen": "mbɛ̄l",
+    "montant": "mbɛ̌l",
+    "descendant": "mbɛ̂l"
+  },
+  {
+    "syllable": "mbɛn",
+    "ipa": "[mbɛn]",
+    "bas": "mbɛ̀n",
+    "moyen": "mbɛ̄n",
+    "montant": "mbɛ̌n",
+    "descendant": "mbɛ̂n"
+  },
+  {
+    "syllable": "mbi",
+    "ipa": "[mbhi]",
+    "bas": "mbì",
+    "moyen": "mbī",
+    "montant": "mbǐ",
+    "descendant": "mbî"
+  },
+  {
+    "syllable": "mbia",
+    "ipa": "[mbhia]",
+    "bas": "mbià",
+    "moyen": "mbiā",
+    "montant": "mbiǎ",
+    "descendant": "mbiâ"
+  },
+  {
+    "syllable": "mbia'",
+    "ipa": "[mbhiaʔ]",
+    "bas": "mbià'",
+    "moyen": "mbiā'",
+    "montant": "mbiǎ'",
+    "descendant": "mbiâ'"
+  },
+  {
+    "syllable": "mbiα",
+    "ipa": "[mbhiɑ]",
+    "bas": "mbiὰ",
+    "moyen": "mbiᾱ",
+    "montant": "mbiα̌",
+    "descendant": "mbiα̂"
+  },
+  {
+    "syllable": "mbiαg",
+    "ipa": "[mbhiɑk]",
+    "bas": "mbiὰg",
+    "moyen": "mbiᾱg",
+    "montant": "mbiα̌g",
+    "descendant": "mbiα̂g"
+  },
+  {
+    "syllable": "mbid",
+    "ipa": "[mbhit]",
+    "bas": "mbìd",
+    "moyen": "mbīd",
+    "montant": "mbǐd",
+    "descendant": "mbîd"
+  },
+  {
+    "syllable": "mbil",
+    "ipa": "[mbhil]",
+    "bas": "mbìl",
+    "moyen": "mbīl",
+    "montant": "mbǐl",
+    "descendant": "mbîl"
+  },
+  {
+    "syllable": "mbi'",
+    "ipa": "[mbhiʔ]",
+    "bas": "mbì'",
+    "moyen": "mbī'",
+    "montant": "mbǐ'",
+    "descendant": "mbî'"
+  },
+  {
+    "syllable": "mbo",
+    "ipa": "[mbu]",
+    "bas": "mbò",
+    "moyen": "mbō",
+    "montant": "mbǒ",
+    "descendant": "mbô"
+  },
+  {
+    "syllable": "mbob",
+    "ipa": "[mbub]",
+    "bas": "mbòb",
+    "moyen": "mbōb",
+    "montant": "mbǒb",
+    "descendant": "mbôb"
+  },
+  {
+    "syllable": "mbod",
+    "ipa": "[mbut]",
+    "bas": "mbòd",
+    "moyen": "mbōd",
+    "montant": "mbǒd",
+    "descendant": "mbôd"
+  },
+  {
+    "syllable": "mboŋ",
+    "ipa": "[mbɔŋ]",
+    "bas": "mbòŋ",
+    "moyen": "mbōŋ",
+    "montant": "mbǒŋ",
+    "descendant": "mbôŋ"
+  },
+  {
+    "syllable": "mbo'",
+    "ipa": "[mbuʔ]",
+    "bas": "mbò'",
+    "moyen": "mbō'",
+    "montant": "mbǒ'",
+    "descendant": "mbô'"
+  },
+  {
+    "syllable": "mbu",
+    "ipa": "[mbhu]",
+    "bas": "mbù",
+    "moyen": "mbū",
+    "montant": "mbǔ",
+    "descendant": "mbû"
+  },
+  {
+    "syllable": "mbub",
+    "ipa": "[mbhub]",
+    "bas": "mbùb",
+    "moyen": "mbūb",
+    "montant": "mbǔb",
+    "descendant": "mbûb"
+  },
+  {
+    "syllable": "mbul",
+    "ipa": "[mbhul]",
+    "bas": "mbùl",
+    "moyen": "mbūl",
+    "montant": "mbǔl",
+    "descendant": "mbûl"
+  },
+  {
+    "syllable": "mbum",
+    "ipa": "[mbhum]",
+    "bas": "mbùm",
+    "moyen": "mbūm",
+    "montant": "mbǔm",
+    "descendant": "mbûm"
+  },
+  {
+    "syllable": "mbun",
+    "ipa": "[mbhun]",
+    "bas": "mbùn",
+    "moyen": "mbūn",
+    "montant": "mbǔn",
+    "descendant": "mbûn"
+  },
+  {
+    "syllable": "mbu'",
+    "ipa": "[mbhuʔ]",
+    "bas": "mbù'",
+    "moyen": "mbū'",
+    "montant": "mbǔ'",
+    "descendant": "mbû'"
+  },
+  {
+    "syllable": "mbʉ",
+    "ipa": "[mbhʉ]",
+    "bas": "mbʉ̀",
+    "moyen": "mbʉ̄",
+    "montant": "mbʉ̌",
+    "descendant": "mbʉ̂"
+  },
+  {
+    "syllable": "mbʉα",
+    "ipa": "[mbhʉɑ]",
+    "bas": "mbʉὰ",
+    "moyen": "mbʉᾱ",
+    "montant": "mbʉα̌",
+    "descendant": "mbʉα̂"
+  },
+  {
+    "syllable": "mbʉαg",
+    "ipa": "[mbhʉɑk]",
+    "bas": "mbʉὰg",
+    "moyen": "mbʉᾱg",
+    "montant": "mbʉα̌g",
+    "descendant": "mbʉα̂g"
+  },
+  {
+    "syllable": "mbʉm",
+    "ipa": "[mbhʉm]",
+    "bas": "mbʉ̀m",
+    "moyen": "mbʉ̄m",
+    "montant": "mbʉ̌m",
+    "descendant": "mbʉ̂m"
+  },
+  {
+    "syllable": "mbʉn",
+    "ipa": "[mbhʉn]",
+    "bas": "mbʉ̀n",
+    "moyen": "mbʉ̄n",
+    "montant": "mbʉ̌n",
+    "descendant": "mbʉ̂n"
+  },
+  {
+    "syllable": "mbʉ'",
+    "ipa": "[mbhʉʔ]",
+    "bas": "mbʉ̀'",
+    "moyen": "mbʉ̄'",
+    "montant": "mbʉ̌'",
+    "descendant": "mbʉ̂'"
+  },
+  {
+    "syllable": "mbwə",
+    "ipa": "[mbhœ]",
+    "bas": "mbwə̀",
+    "moyen": "mbwə̄",
+    "montant": "mbwə̌",
+    "descendant": "mbwə̂"
+  },
+  {
+    "syllable": "mbwə'",
+    "ipa": "[mbhœʔ]",
+    "bas": "mbwə̀'",
+    "moyen": "mbwə̄'",
+    "montant": "mbwə̌'",
+    "descendant": "mbwə̂'"
+  },
+  {
+    "syllable": "mbwog",
+    "ipa": "[mbhɔk]",
+    "bas": "mbwòg",
+    "moyen": "mbwōg",
+    "montant": "mbwǒg",
+    "descendant": "mbwôg"
+  },
+  {
+    "syllable": "mbwoŋ",
+    "ipa": "[mbhɔŋ]",
+    "bas": "mbwòŋ",
+    "moyen": "mbwōŋ",
+    "montant": "mbwǒŋ",
+    "descendant": "mbwôŋ"
+  },
+  {
+    "syllable": "mbwɔ",
+    "ipa": "[mbho]",
+    "bas": "mbwɔ̀",
+    "moyen": "mbwɔ̄",
+    "montant": "mbwɔ̌",
+    "descendant": "mbwɔ̂"
+  },
+  {
+    "syllable": "mə",
+    "ipa": "[mœ], [mʉ]",
+    "bas": "mə̀",
+    "moyen": "mə̄",
+    "montant": "mə̌",
+    "descendant": "mə̂"
+  },
+  {
+    "syllable": "məm",
+    "ipa": "[mʉm]",
+    "bas": "mə̀m",
+    "moyen": "mə̄m",
+    "montant": "mə̌m",
+    "descendant": "mə̂m"
+  },
+  {
+    "syllable": "mən",
+    "ipa": "[mʉn]",
+    "bas": "mə̀n",
+    "moyen": "mə̄n",
+    "montant": "mə̌n",
+    "descendant": "mə̂n"
+  },
+  {
+    "syllable": "mə'",
+    "ipa": "[mʉʔ]",
+    "bas": "mə̀'",
+    "moyen": "mə̄'",
+    "montant": "mə̌'",
+    "descendant": "mə̂'"
+  },
+  {
+    "syllable": "me",
+    "ipa": "[mi]",
+    "bas": "mè",
+    "moyen": "mē",
+    "montant": "mě",
+    "descendant": "mê"
+  },
+  {
+    "syllable": "mem",
+    "ipa": "[mim]",
+    "bas": "mèm",
+    "moyen": "mēm",
+    "montant": "měm",
+    "descendant": "mêm"
+  },
+  {
+    "syllable": "me'",
+    "ipa": "[miʔ]",
+    "bas": "mè'",
+    "moyen": "mē'",
+    "montant": "mě'",
+    "descendant": "mê'"
+  },
+  {
+    "syllable": "mfa",
+    "ipa": "[ɱva]",
+    "bas": "mfà",
+    "moyen": "mfā",
+    "montant": "mfǎ",
+    "descendant": "mfâ"
+  },
+  {
+    "syllable": "mfad",
+    "ipa": "[ɱvat]",
+    "bas": "mfàd",
+    "moyen": "mfād",
+    "montant": "mfǎd",
+    "descendant": "mfâd"
+  },
+  {
+    "syllable": "mfag",
+    "ipa": "[ɱvak]",
+    "bas": "mfàg",
+    "moyen": "mfāg",
+    "montant": "mfǎg",
+    "descendant": "mfâg"
+  },
+  {
+    "syllable": "mfal",
+    "ipa": "[ɱval]",
+    "bas": "mfàl",
+    "moyen": "mfāl",
+    "montant": "mfǎl",
+    "descendant": "mfâl"
+  },
+  {
+    "syllable": "mfam",
+    "ipa": "[ɱvam]",
+    "bas": "mfàm",
+    "moyen": "mfām",
+    "montant": "mfǎm",
+    "descendant": "mfâm"
+  },
+  {
+    "syllable": "mfaŋ",
+    "ipa": "[ɱvaŋ]",
+    "bas": "mfàŋ",
+    "moyen": "mfāŋ",
+    "montant": "mfǎŋ",
+    "descendant": "mfâŋ"
+  },
+  {
+    "syllable": "mfa'",
+    "ipa": "[ɱvɑʔ]",
+    "bas": "mfà'",
+    "moyen": "mfā'",
+    "montant": "mfǎ'",
+    "descendant": "mfâ'"
+  },
+  {
+    "syllable": "mfα",
+    "ipa": "[mvɑ]",
+    "bas": "mfὰ",
+    "moyen": "mfᾱ",
+    "montant": "mfα̌",
+    "descendant": "mfα̂"
+  },
+  {
+    "syllable": "mfαb",
+    "ipa": "[ɱvɑb]",
+    "bas": "mfὰb",
+    "moyen": "mfᾱb",
+    "montant": "mfα̌b",
+    "descendant": "mfα̂b"
+  },
+  {
+    "syllable": "mfαn",
+    "ipa": "[ɱvɑn]",
+    "bas": "mfὰn",
+    "moyen": "mfᾱn",
+    "montant": "mfα̌n",
+    "descendant": "mfα̂n"
+  },
+  {
+    "syllable": "mfə",
+    "ipa": "[ɱfhœ], [ɱvœ], [ɱvʉ]",
+    "bas": "mfə̀",
+    "moyen": "mfə̄",
+    "montant": "mfə̌",
+    "descendant": "mfə̂"
+  },
+  {
+    "syllable": "mfəb",
+    "ipa": "[ɱvʉb]",
+    "bas": "mfə̀b",
+    "moyen": "mfə̄b",
+    "montant": "mfə̌b",
+    "descendant": "mfə̂b"
+  },
+  {
+    "syllable": "mfəd",
+    "ipa": "[ɱvʉt]",
+    "bas": "mfə̀d",
+    "moyen": "mfə̄d",
+    "montant": "mfə̌d",
+    "descendant": "mfə̂d"
+  },
+  {
+    "syllable": "mfəl",
+    "ipa": "[ɱvʉl]",
+    "bas": "mfə̀l",
+    "moyen": "mfə̄l",
+    "montant": "mfə̌l",
+    "descendant": "mfə̂l"
+  },
+  {
+    "syllable": "mfəm",
+    "ipa": "[ɱvʉm]",
+    "bas": "mfə̀m",
+    "moyen": "mfə̄m",
+    "montant": "mfə̌m",
+    "descendant": "mfə̂m"
+  },
+  {
+    "syllable": "mfən",
+    "ipa": "[ɱvʉn]",
+    "bas": "mfə̀n",
+    "moyen": "mfə̄n",
+    "montant": "mfə̌n",
+    "descendant": "mfə̂n"
+  },
+  {
+    "syllable": "mfə'",
+    "ipa": "[ɱfhœʔ]",
+    "bas": "mfə̀'",
+    "moyen": "mfə̄'",
+    "montant": "mfə̌'",
+    "descendant": "mfə̂'"
+  },
+  {
+    "syllable": "mfe",
+    "ipa": "[ɱvi]",
+    "bas": "mfè",
+    "moyen": "mfē",
+    "montant": "mfě",
+    "descendant": "mfê"
+  },
+  {
+    "syllable": "mfeb",
+    "ipa": "[ɱvib]",
+    "bas": "mfèb",
+    "moyen": "mfēb",
+    "montant": "mfěb",
+    "descendant": "mfêb"
+  },
+  {
+    "syllable": "mfed",
+    "ipa": "[ɱvit]",
+    "bas": "mfèd",
+    "moyen": "mfēd",
+    "montant": "mfěd",
+    "descendant": "mfêd"
+  },
+  {
+    "syllable": "mfel",
+    "ipa": "[ɱvil]",
+    "bas": "mfèl",
+    "moyen": "mfēl",
+    "montant": "mfěl",
+    "descendant": "mfêl"
+  },
+  {
+    "syllable": "mfem",
+    "ipa": "[ɱvim]",
+    "bas": "mfèm",
+    "moyen": "mfēm",
+    "montant": "mfěm",
+    "descendant": "mfêm"
+  },
+  {
+    "syllable": "mfe'",
+    "ipa": "[ɱviʔ]",
+    "bas": "mfè'",
+    "moyen": "mfē'",
+    "montant": "mfě'",
+    "descendant": "mfê'"
+  },
+  {
+    "syllable": "mfɛ",
+    "ipa": "[ɱvɛ]",
+    "bas": "mfɛ̀",
+    "moyen": "mfɛ̄",
+    "montant": "mfɛ̌",
+    "descendant": "mfɛ̂"
+  },
+  {
+    "syllable": "mfɛd",
+    "ipa": "[ɱvɛt]",
+    "bas": "mfɛ̀d",
+    "moyen": "mfɛ̄d",
+    "montant": "mfɛ̌d",
+    "descendant": "mfɛ̂d"
+  },
+  {
+    "syllable": "mfɛl",
+    "ipa": "[ɱvɛl]",
+    "bas": "mfɛ̀l",
+    "moyen": "mfɛ̄l",
+    "montant": "mfɛ̌l",
+    "descendant": "mfɛ̂l"
+  },
+  {
+    "syllable": "mfɛn",
+    "ipa": "[ɱvɛ]",
+    "bas": "mfɛ̀n",
+    "moyen": "mfɛ̄n",
+    "montant": "mfɛ̌n",
+    "descendant": "mfɛ̂n"
+  },
+  {
+    "syllable": "mfi",
+    "ipa": "[ɱfhi]",
+    "bas": "mfì",
+    "moyen": "mfī",
+    "montant": "mfǐ",
+    "descendant": "mfî"
+  },
+  {
+    "syllable": "mfia",
+    "ipa": "[ɱfhia]",
+    "bas": "mfià",
+    "moyen": "mfiā",
+    "montant": "mfiǎ",
+    "descendant": "mfiâ"
+  },
+  {
+    "syllable": "mfiα",
+    "ipa": "[ɱfhiɑ]",
+    "bas": "mfiὰ",
+    "moyen": "mfiᾱ",
+    "montant": "mfiα̌",
+    "descendant": "mfiα̂"
+  },
+  {
+    "syllable": "mfiαg",
+    "ipa": "[ɱfhiɑg]",
+    "bas": "mfiὰg",
+    "moyen": "mfiᾱg",
+    "montant": "mfiα̌g",
+    "descendant": "mfiα̂g"
+  },
+  {
+    "syllable": "mfid",
+    "ipa": "[ɱfhid]",
+    "bas": "mfìd",
+    "moyen": "mfīd",
+    "montant": "mfǐd",
+    "descendant": "mfîd"
+  },
+  {
+    "syllable": "mfil",
+    "ipa": "[ɱfhil]",
+    "bas": "mfìl",
+    "moyen": "mfīl",
+    "montant": "mfǐl",
+    "descendant": "mfîl"
+  },
+  {
+    "syllable": "mfim",
+    "ipa": "[ɱfhim]",
+    "bas": "mfìm",
+    "moyen": "mfīm",
+    "montant": "mfǐm",
+    "descendant": "mfîm"
+  },
+  {
+    "syllable": "mfin",
+    "ipa": "[ɱfhin]",
+    "bas": "mfìn",
+    "moyen": "mfīn",
+    "montant": "mfǐn",
+    "descendant": "mfîn"
+  },
+  {
+    "syllable": "mfi'",
+    "ipa": "[ɱfhiʔ]",
+    "bas": "mfì'",
+    "moyen": "mfī'",
+    "montant": "mfǐ'",
+    "descendant": "mfî'"
+  },
+  {
+    "syllable": "mfo",
+    "ipa": "[ɱvo]",
+    "bas": "mfò",
+    "moyen": "mfō",
+    "montant": "mfǒ",
+    "descendant": "mfô"
+  },
+  {
+    "syllable": "mfod",
+    "ipa": "[ɱvot]",
+    "bas": "mfòd",
+    "moyen": "mfōd",
+    "montant": "mfǒd",
+    "descendant": "mfôd"
+  },
+  {
+    "syllable": "mfog",
+    "ipa": "[ɱfhɔk]",
+    "bas": "mfòg",
+    "moyen": "mfōg",
+    "montant": "mfǒg",
+    "descendant": "mfôg"
+  },
+  {
+    "syllable": "mfol",
+    "ipa": "[ɱvol]",
+    "bas": "mfòl",
+    "moyen": "mfōl",
+    "montant": "mfǒl",
+    "descendant": "mfôl"
+  },
+  {
+    "syllable": "mfom",
+    "ipa": "[ɱvom]",
+    "bas": "mfòm",
+    "moyen": "mfōm",
+    "montant": "mfǒm",
+    "descendant": "mfôm"
+  },
+  {
+    "syllable": "mfoŋ",
+    "ipa": "[ɱfhɔŋ]",
+    "bas": "mfòŋ",
+    "moyen": "mfōŋ",
+    "montant": "mfǒŋ",
+    "descendant": "mfôŋ"
+  },
+  {
+    "syllable": "mfɔ",
+    "ipa": "[ɱvo]",
+    "bas": "mfɔ̀",
+    "moyen": "mfɔ̄",
+    "montant": "mfɔ̌",
+    "descendant": "mfɔ̂"
+  },
+  {
+    "syllable": "mfu",
+    "ipa": "[ɱfhu]",
+    "bas": "mfù",
+    "moyen": "mfū",
+    "montant": "mfǔ",
+    "descendant": "mfû"
+  },
+  {
+    "syllable": "mfub",
+    "ipa": "[ɱfhub]",
+    "bas": "mfùb",
+    "moyen": "mfūb",
+    "montant": "mfǔb",
+    "descendant": "mfûb"
+  },
+  {
+    "syllable": "mfu'",
+    "ipa": "[ɱfhuʔ]",
+    "bas": "mfù'",
+    "moyen": "mfū'",
+    "montant": "mfǔ'",
+    "descendant": "mfû'"
+  },
+  {
+    "syllable": "mfʉ",
+    "ipa": "[ɱfhʉ]",
+    "bas": "mfʉ̀",
+    "moyen": "mfʉ̄",
+    "montant": "mfʉ̌",
+    "descendant": "mfʉ̂"
+  },
+  {
+    "syllable": "mfʉα",
+    "ipa": "[ɱfhʉɑ]",
+    "bas": "mfʉὰ",
+    "moyen": "mfʉᾱ",
+    "montant": "mfʉα̌",
+    "descendant": "mfʉα̂"
+  },
+  {
+    "syllable": "mfʉαg",
+    "ipa": "[ɱfhʉɑk]",
+    "bas": "mfʉὰg",
+    "moyen": "mfʉᾱg",
+    "montant": "mfʉα̌g",
+    "descendant": "mfʉα̂g"
+  },
+  {
+    "syllable": "mfʉd",
+    "ipa": "[ɱfhʉt]",
+    "bas": "mfʉ̀d",
+    "moyen": "mfʉ̄d",
+    "montant": "mfʉ̌d",
+    "descendant": "mfʉ̂d"
+  },
+  {
+    "syllable": "mfʉl",
+    "ipa": "[ɱfhʉl]",
+    "bas": "mfʉ̀l",
+    "moyen": "mfʉ̄l",
+    "montant": "mfʉ̌l",
+    "descendant": "mfʉ̂l"
+  },
+  {
+    "syllable": "mfʉm",
+    "ipa": "[ɱfhʉm]",
+    "bas": "mfʉ̀m",
+    "moyen": "mfʉ̄m",
+    "montant": "mfʉ̌m",
+    "descendant": "mfʉ̂m"
+  },
+  {
+    "syllable": "mfʉn",
+    "ipa": "[ɱfhʉn]",
+    "bas": "mfʉ̀n",
+    "moyen": "mfʉ̄n",
+    "montant": "mfʉ̌n",
+    "descendant": "mfʉ̂n"
+  },
+  {
+    "syllable": "mi",
+    "ipa": "[mi]",
+    "bas": "mì",
+    "moyen": "mī",
+    "montant": "mǐ",
+    "descendant": "mî"
+  },
+  {
+    "syllable": "miα",
+    "ipa": "[miɑ]",
+    "bas": "miὰ",
+    "moyen": "miᾱ",
+    "montant": "miα̌",
+    "descendant": "miα̂"
+  },
+  {
+    "syllable": "miαg",
+    "ipa": "[miɑk]",
+    "bas": "miὰg",
+    "moyen": "miᾱg",
+    "montant": "miα̌g",
+    "descendant": "miα̂g"
+  },
+  {
+    "syllable": "mib",
+    "ipa": "[mib]",
+    "bas": "mìb",
+    "moyen": "mīb",
+    "montant": "mǐb",
+    "descendant": "mîb"
+  },
+  {
+    "syllable": "mid",
+    "ipa": "[mit]",
+    "bas": "mìd",
+    "moyen": "mīd",
+    "montant": "mǐd",
+    "descendant": "mîd"
+  },
+  {
+    "syllable": "mil",
+    "ipa": "[mil]",
+    "bas": "mìl",
+    "moyen": "mīl",
+    "montant": "mǐl",
+    "descendant": "mîl"
+  },
+  {
+    "syllable": "min",
+    "ipa": "[min]",
+    "bas": "mìn",
+    "moyen": "mīn",
+    "montant": "mǐn",
+    "descendant": "mîn"
+  },
+  {
+    "syllable": "mi'",
+    "ipa": "[miʔ]",
+    "bas": "mì'",
+    "moyen": "mī'",
+    "montant": "mǐ'",
+    "descendant": "mî'"
+  },
+  {
+    "syllable": "mo",
+    "ipa": "[mu]",
+    "bas": "mò",
+    "moyen": "mō",
+    "montant": "mǒ",
+    "descendant": "mô"
+  },
+  {
+    "syllable": "mom",
+    "ipa": "[mum]",
+    "bas": "mòm",
+    "moyen": "mōm",
+    "montant": "mǒm",
+    "descendant": "môm"
+  },
+  {
+    "syllable": "mo'",
+    "ipa": "[muʔ]",
+    "bas": "mò'",
+    "moyen": "mō'",
+    "montant": "mǒ'",
+    "descendant": "mô'"
+  },
+  {
+    "syllable": "mɔ",
+    "ipa": "[mo]",
+    "bas": "mɔ̀",
+    "moyen": "mɔ̄",
+    "montant": "mɔ̌",
+    "descendant": "mɔ̂"
+  },
+  {
+    "syllable": "mu",
+    "ipa": "[mu]",
+    "bas": "mù",
+    "moyen": "mū",
+    "montant": "mǔ",
+    "descendant": "mû"
+  },
+  {
+    "syllable": "mub",
+    "ipa": "[mub]",
+    "bas": "mùb",
+    "moyen": "mūb",
+    "montant": "mǔb",
+    "descendant": "mûb"
+  },
+  {
+    "syllable": "mud",
+    "ipa": "[mut]",
+    "bas": "mùd",
+    "moyen": "mūd",
+    "montant": "mǔd",
+    "descendant": "mûd"
+  },
+  {
+    "syllable": "mul",
+    "ipa": "[mul]",
+    "bas": "mùl",
+    "moyen": "mūl",
+    "montant": "mǔl",
+    "descendant": "mûl"
+  },
+  {
+    "syllable": "mvaŋ",
+    "ipa": "[ɱvaŋ]",
+    "bas": "mvàŋ",
+    "moyen": "mvāŋ",
+    "montant": "mvǎŋ",
+    "descendant": "mvâŋ"
+  },
+  {
+    "syllable": "mvə",
+    "ipa": "[ɱvhœ]",
+    "bas": "mvə̀",
+    "moyen": "mvə̄",
+    "montant": "mvə̌",
+    "descendant": "mvə̂"
+  },
+  {
+    "syllable": "mvə'",
+    "ipa": "[ɱvʉʔ]",
+    "bas": "mvə̀'",
+    "moyen": "mvə̄'",
+    "montant": "mvə̌'",
+    "descendant": "mvə̂'"
+  },
+  {
+    "syllable": "mvɛd",
+    "ipa": "[ɱvɛt]",
+    "bas": "mvɛ̀d",
+    "moyen": "mvɛ̄d",
+    "montant": "mvɛ̌d",
+    "descendant": "mvɛ̂d"
+  },
+  {
+    "syllable": "mvɛn",
+    "ipa": "[ɱvɛn]",
+    "bas": "mvɛ̀n",
+    "moyen": "mvɛ̄n",
+    "montant": "mvɛ̌n",
+    "descendant": "mvɛ̂n"
+  },
+  {
+    "syllable": "mvog",
+    "ipa": "[ɱvhɔk]",
+    "bas": "mvòg",
+    "moyen": "mvōg",
+    "montant": "mvǒg",
+    "descendant": "mvôg"
+  },
+  {
+    "syllable": "mvʉ",
+    "ipa": "[ɱvhʉ]",
+    "bas": "mvʉ̀",
+    "moyen": "mvʉ̄",
+    "montant": "mvʉ̌",
+    "descendant": "mvʉ̂"
+  },
+  {
+    "syllable": "na",
+    "ipa": "[na]",
+    "bas": "nà",
+    "moyen": "nā",
+    "montant": "nǎ",
+    "descendant": "nâ"
+  },
+  {
+    "syllable": "nam",
+    "ipa": "[nam]",
+    "bas": "nàm",
+    "moyen": "nām",
+    "montant": "nǎm",
+    "descendant": "nâm"
+  },
+  {
+    "syllable": "naŋ",
+    "ipa": "[naŋ]",
+    "bas": "nàŋ",
+    "moyen": "nāŋ",
+    "montant": "nǎŋ",
+    "descendant": "nâŋ"
+  },
+  {
+    "syllable": "na'",
+    "ipa": "[naʔ]",
+    "bas": "nà'",
+    "moyen": "nā'",
+    "montant": "nǎ'",
+    "descendant": "nâ'"
+  },
+  {
+    "syllable": "nα",
+    "ipa": "[nɑ]",
+    "bas": "nὰ",
+    "moyen": "nᾱ",
+    "montant": "nα̌",
+    "descendant": "nα̂"
+  },
+  {
+    "syllable": "nαb",
+    "ipa": "[nɑb]",
+    "bas": "nὰb",
+    "moyen": "nᾱb",
+    "montant": "nα̌b",
+    "descendant": "nα̂b"
+  },
+  {
+    "syllable": "nαn",
+    "ipa": "[nɑn]",
+    "bas": "nὰn",
+    "moyen": "nᾱn",
+    "montant": "nα̌n",
+    "descendant": "nα̂n"
+  },
+  {
+    "syllable": "nca",
+    "ipa": "[ntʃa]",
+    "bas": "ncà",
+    "moyen": "ncā",
+    "montant": "ncǎ",
+    "descendant": "ncâ"
+  },
+  {
+    "syllable": "ncab",
+    "ipa": "[ntʃab]",
+    "bas": "ncàb",
+    "moyen": "ncāb",
+    "montant": "ncǎb",
+    "descendant": "ncâb"
+  },
+  {
+    "syllable": "ncag",
+    "ipa": "[ntʃak]",
+    "bas": "ncàg",
+    "moyen": "ncāg",
+    "montant": "ncǎg",
+    "descendant": "ncâg"
+  },
+  {
+    "syllable": "ncam",
+    "ipa": "[ntʃam]",
+    "bas": "ncàm",
+    "moyen": "ncām",
+    "montant": "ncǎm",
+    "descendant": "ncâm"
+  },
+  {
+    "syllable": "ncaŋ",
+    "ipa": "[ntʃaŋ]",
+    "bas": "ncàŋ",
+    "moyen": "ncāŋ",
+    "montant": "ncǎŋ",
+    "descendant": "ncâŋ"
+  },
+  {
+    "syllable": "nca'",
+    "ipa": "[ntʃɑʔ]",
+    "bas": "ncà'",
+    "moyen": "ncā'",
+    "montant": "ncǎ'",
+    "descendant": "ncâ'"
+  },
+  {
+    "syllable": "ncα",
+    "ipa": "[ntʃɑ]",
+    "bas": "ncὰ",
+    "moyen": "ncᾱ",
+    "montant": "ncα̌",
+    "descendant": "ncα̂"
+  },
+  {
+    "syllable": "ncαb",
+    "ipa": "[ntʃɑb]",
+    "bas": "ncὰb",
+    "moyen": "ncᾱb",
+    "montant": "ncα̌b",
+    "descendant": "ncα̂b"
+  },
+  {
+    "syllable": "ncαg",
+    "ipa": "[ntʃɑg]",
+    "bas": "ncὰg",
+    "moyen": "ncᾱg",
+    "montant": "ncα̌g",
+    "descendant": "ncα̂g"
+  },
+  {
+    "syllable": "ncαm",
+    "ipa": "[ntʃɑm]",
+    "bas": "ncὰm",
+    "moyen": "ncᾱm",
+    "montant": "ncα̌m",
+    "descendant": "ncα̂m"
+  },
+  {
+    "syllable": "ncə",
+    "ipa": "[ntʃʉ]",
+    "bas": "ncə̀",
+    "moyen": "ncə̄",
+    "montant": "ncə̌",
+    "descendant": "ncə̂"
+  },
+  {
+    "syllable": "ncəb",
+    "ipa": "[ntʃʉb]",
+    "bas": "ncə̀b",
+    "moyen": "ncə̄b",
+    "montant": "ncə̌b",
+    "descendant": "ncə̂b"
+  },
+  {
+    "syllable": "ncəd",
+    "ipa": "[ntʃʉt]",
+    "bas": "ncə̀d",
+    "moyen": "ncə̄d",
+    "montant": "ncə̌d",
+    "descendant": "ncə̂d"
+  },
+  {
+    "syllable": "ncəl",
+    "ipa": "[ntʃʉl]",
+    "bas": "ncə̀l",
+    "moyen": "ncə̄l",
+    "montant": "ncə̌l",
+    "descendant": "ncə̂l"
+  },
+  {
+    "syllable": "ncəm",
+    "ipa": "[ntʃʉm]",
+    "bas": "ncə̀m",
+    "moyen": "ncə̄m",
+    "montant": "ncə̌m",
+    "descendant": "ncə̂m"
+  },
+  {
+    "syllable": "ncə'",
+    "ipa": "[ntʃʉʔ]",
+    "bas": "ncə̀'",
+    "moyen": "ncə̄'",
+    "montant": "ncə̌'",
+    "descendant": "ncə̂'"
+  },
+  {
+    "syllable": "nce",
+    "ipa": "[ntʃi]",
+    "bas": "ncè",
+    "moyen": "ncē",
+    "montant": "ncě",
+    "descendant": "ncê"
+  },
+  {
+    "syllable": "nced",
+    "ipa": "[ntʃit]",
+    "bas": "ncèd",
+    "moyen": "ncēd",
+    "montant": "ncěd",
+    "descendant": "ncêd"
+  },
+  {
+    "syllable": "ncel",
+    "ipa": "[ntʃil]",
+    "bas": "ncèl",
+    "moyen": "ncēl",
+    "montant": "ncěl",
+    "descendant": "ncêl"
+  },
+  {
+    "syllable": "ncem",
+    "ipa": "[ntʃim]",
+    "bas": "ncèm",
+    "moyen": "ncēm",
+    "montant": "ncěm",
+    "descendant": "ncêm"
+  },
+  {
+    "syllable": "nce'",
+    "ipa": "[ntʃiʔ]",
+    "bas": "ncè'",
+    "moyen": "ncē'",
+    "montant": "ncě'",
+    "descendant": "ncê'"
+  },
+  {
+    "syllable": "ncɛ",
+    "ipa": "[ntʃɛ]",
+    "bas": "ncɛ̀",
+    "moyen": "ncɛ̄",
+    "montant": "ncɛ̌",
+    "descendant": "ncɛ̂"
+  },
+  {
+    "syllable": "ncɛd",
+    "ipa": "[ntʃɛt]",
+    "bas": "ncɛ̀d",
+    "moyen": "ncɛ̄d",
+    "montant": "ncɛ̌d",
+    "descendant": "ncɛ̂d"
+  },
+  {
+    "syllable": "ncɛl",
+    "ipa": "[ntʃɛl]",
+    "bas": "ncɛ̀l",
+    "moyen": "ncɛ̄l",
+    "montant": "ncɛ̌l",
+    "descendant": "ncɛ̂l"
+  },
+  {
+    "syllable": "ncɛn",
+    "ipa": "[ntʃɛn]",
+    "bas": "ncɛ̀n",
+    "moyen": "ncɛ̄n",
+    "montant": "ncɛ̌n",
+    "descendant": "ncɛ̂n"
+  },
+  {
+    "syllable": "nco",
+    "ipa": "[ntʃu]",
+    "bas": "ncò",
+    "moyen": "ncō",
+    "montant": "ncǒ",
+    "descendant": "ncô"
+  },
+  {
+    "syllable": "ncob",
+    "ipa": "[ntʃub]",
+    "bas": "ncòb",
+    "moyen": "ncōb",
+    "montant": "ncǒb",
+    "descendant": "ncôb"
+  },
+  {
+    "syllable": "ncog",
+    "ipa": "[ntʃɔk]",
+    "bas": "ncòg",
+    "moyen": "ncōg",
+    "montant": "ncǒg",
+    "descendant": "ncôg"
+  },
+  {
+    "syllable": "ncom",
+    "ipa": "[ntʃum]",
+    "bas": "ncòm",
+    "moyen": "ncōm",
+    "montant": "ncǒm",
+    "descendant": "ncôm"
+  },
+  {
+    "syllable": "ncoŋ",
+    "ipa": "[ntʃɔŋ]",
+    "bas": "ncòŋ",
+    "moyen": "ncōŋ",
+    "montant": "ncǒŋ",
+    "descendant": "ncôŋ"
+  },
+  {
+    "syllable": "nco'",
+    "ipa": "[ntʃuʔ]",
+    "bas": "ncò'",
+    "moyen": "ncō'",
+    "montant": "ncǒ'",
+    "descendant": "ncô'"
+  },
+  {
+    "syllable": "ncu",
+    "ipa": "[ntʃhu]",
+    "bas": "ncù",
+    "moyen": "ncū",
+    "montant": "ncǔ",
+    "descendant": "ncû"
+  },
+  {
+    "syllable": "ncua'",
+    "ipa": "[ntʃhuaʔ]",
+    "bas": "ncuà'",
+    "moyen": "ncuā'",
+    "montant": "ncuǎ'",
+    "descendant": "ncuâ'"
+  },
+  {
+    "syllable": "ncuα",
+    "ipa": "[ntʃhuɑ]",
+    "bas": "ncuὰ",
+    "moyen": "ncuᾱ",
+    "montant": "ncuα̌",
+    "descendant": "ncuα̂"
+  },
+  {
+    "syllable": "ncub",
+    "ipa": "[ntʃhub]",
+    "bas": "ncùb",
+    "moyen": "ncūb",
+    "montant": "ncǔb",
+    "descendant": "ncûb"
+  },
+  {
+    "syllable": "ncum",
+    "ipa": "[ntʃhm]",
+    "bas": "ncùm",
+    "moyen": "ncūm",
+    "montant": "ncǔm",
+    "descendant": "ncûm"
+  },
+  {
+    "syllable": "ncu'",
+    "ipa": "[ntʃhuʔ]",
+    "bas": "ncù'",
+    "moyen": "ncū'",
+    "montant": "ncǔ'",
+    "descendant": "ncû'"
+  },
+  {
+    "syllable": "ncʉ",
+    "ipa": "[ntʃhʉ]",
+    "bas": "ncʉ̀",
+    "moyen": "ncʉ̄",
+    "montant": "ncʉ̌",
+    "descendant": "ncʉ̂"
+  },
+  {
+    "syllable": "ncʉa",
+    "ipa": "[ntʃhʉa]",
+    "bas": "ncʉà",
+    "moyen": "ncʉā",
+    "montant": "ncʉǎ",
+    "descendant": "ncʉâ"
+  },
+  {
+    "syllable": "ncʉaŋ",
+    "ipa": "[ntʃhʉaŋ]",
+    "bas": "ncʉàŋ",
+    "moyen": "ncʉāŋ",
+    "montant": "ncʉǎŋ",
+    "descendant": "ncʉâŋ"
+  },
+  {
+    "syllable": "ncʉα",
+    "ipa": "[ntʃhʉɑ]",
+    "bas": "ncʉὰ",
+    "moyen": "ncʉᾱ",
+    "montant": "ncʉα̌",
+    "descendant": "ncʉα̂"
+  },
+  {
+    "syllable": "ncʉαg",
+    "ipa": "[ntʃhɑk]",
+    "bas": "ncʉὰg",
+    "moyen": "ncʉᾱg",
+    "montant": "ncʉα̌g",
+    "descendant": "ncʉα̂g"
+  },
+  {
+    "syllable": "ncʉb",
+    "ipa": "[ntʃhʉb]",
+    "bas": "ncʉ̀b",
+    "moyen": "ncʉ̄b",
+    "montant": "ncʉ̌b",
+    "descendant": "ncʉ̂b"
+  },
+  {
+    "syllable": "ncʉm",
+    "ipa": "[ntʃhʉm]",
+    "bas": "ncʉ̀m",
+    "moyen": "ncʉ̄m",
+    "montant": "ncʉ̌m",
+    "descendant": "ncʉ̂m"
+  },
+  {
+    "syllable": "ncʉ'",
+    "ipa": "[ntʃhʉʔ]",
+    "bas": "ncʉ̀'",
+    "moyen": "ncʉ̄'",
+    "montant": "ncʉ̌'",
+    "descendant": "ncʉ̂'"
+  },
+  {
+    "syllable": "ncwa",
+    "ipa": "[ntʃua]",
+    "bas": "ncwà",
+    "moyen": "ncwā",
+    "montant": "ncwǎ",
+    "descendant": "ncwâ"
+  },
+  {
+    "syllable": "ncwad",
+    "ipa": "[ntʃuad]",
+    "bas": "ncwàd",
+    "moyen": "ncwād",
+    "montant": "ncwǎd",
+    "descendant": "ncwâd"
+  },
+  {
+    "syllable": "ncwe",
+    "ipa": "[ntʃɥi]",
+    "bas": "ncwè",
+    "moyen": "ncwē",
+    "montant": "ncwě",
+    "descendant": "ncwê"
+  },
+  {
+    "syllable": "ncweb",
+    "ipa": "[ntʃɥib]",
+    "bas": "ncwèb",
+    "moyen": "ncwēb",
+    "montant": "ncwěb",
+    "descendant": "ncwêb"
+  },
+  {
+    "syllable": "ncwed",
+    "ipa": "[ntʃɥit]",
+    "bas": "ncwèd",
+    "moyen": "ncwēd",
+    "montant": "ncwěd",
+    "descendant": "ncwêd"
+  },
+  {
+    "syllable": "ncwel",
+    "ipa": "[ntʃɥil]",
+    "bas": "ncwèl",
+    "moyen": "ncwēl",
+    "montant": "ncwěl",
+    "descendant": "ncwêl"
+  },
+  {
+    "syllable": "ncwem",
+    "ipa": "[ntʃɥim]",
+    "bas": "ncwèm",
+    "moyen": "ncwēm",
+    "montant": "ncwěm",
+    "descendant": "ncwêm"
+  },
+  {
+    "syllable": "ncwe'",
+    "ipa": "[ntʃɥiʔ]",
+    "bas": "ncwè'",
+    "moyen": "ncwē'",
+    "montant": "ncwě'",
+    "descendant": "ncwê'"
+  },
+  {
+    "syllable": "nda",
+    "ipa": "[nda]",
+    "bas": "ndà",
+    "moyen": "ndā",
+    "montant": "ndǎ",
+    "descendant": "ndâ"
+  },
+  {
+    "syllable": "ndab",
+    "ipa": "[ndab]",
+    "bas": "ndàb",
+    "moyen": "ndāb",
+    "montant": "ndǎb",
+    "descendant": "ndâb"
+  },
+  {
+    "syllable": "ndad",
+    "ipa": "[ndat]",
+    "bas": "ndàd",
+    "moyen": "ndād",
+    "montant": "ndǎd",
+    "descendant": "ndâd"
+  },
+  {
+    "syllable": "ndag",
+    "ipa": "[ndak]",
+    "bas": "ndàg",
+    "moyen": "ndāg",
+    "montant": "ndǎg",
+    "descendant": "ndâg"
+  },
+  {
+    "syllable": "ndal",
+    "ipa": "[ndal]",
+    "bas": "ndàl",
+    "moyen": "ndāl",
+    "montant": "ndǎl",
+    "descendant": "ndâl"
+  },
+  {
+    "syllable": "ndam",
+    "ipa": "[ndam]",
+    "bas": "ndàm",
+    "moyen": "ndām",
+    "montant": "ndǎm",
+    "descendant": "ndâm"
+  },
+  {
+    "syllable": "ndaŋ",
+    "ipa": "[ndaŋ]",
+    "bas": "ndàŋ",
+    "moyen": "ndāŋ",
+    "montant": "ndǎŋ",
+    "descendant": "ndâŋ"
+  },
+  {
+    "syllable": "nda'",
+    "ipa": "[ndɑʔ]",
+    "bas": "ndà'",
+    "moyen": "ndā'",
+    "montant": "ndǎ'",
+    "descendant": "ndâ'"
+  },
+  {
+    "syllable": "ndα",
+    "ipa": "[ndɑ]",
+    "bas": "ndὰ",
+    "moyen": "ndᾱ",
+    "montant": "ndα̌",
+    "descendant": "ndα̂"
+  },
+  {
+    "syllable": "ndαb",
+    "ipa": "[ndɑb]",
+    "bas": "ndὰb",
+    "moyen": "ndᾱb",
+    "montant": "ndα̌b",
+    "descendant": "ndα̂b"
+  },
+  {
+    "syllable": "ndαg",
+    "ipa": "[ndɑk]",
+    "bas": "ndὰg",
+    "moyen": "ndᾱg",
+    "montant": "ndα̌g",
+    "descendant": "ndα̂g"
+  },
+  {
+    "syllable": "ndαm",
+    "ipa": "[ndɑm]",
+    "bas": "ndὰm",
+    "moyen": "ndᾱm",
+    "montant": "ndα̌m",
+    "descendant": "ndα̂m"
+  },
+  {
+    "syllable": "ndαn",
+    "ipa": "[ndɑn]",
+    "bas": "ndὰn",
+    "moyen": "ndᾱn",
+    "montant": "ndα̌n",
+    "descendant": "ndα̂n"
+  },
+  {
+    "syllable": "ndə",
+    "ipa": "[ndʉ]",
+    "bas": "ndə̀",
+    "moyen": "ndə̄",
+    "montant": "ndə̌",
+    "descendant": "ndə̂"
+  },
+  {
+    "syllable": "ndəb",
+    "ipa": "[ndʉb]",
+    "bas": "ndə̀b",
+    "moyen": "ndə̄b",
+    "montant": "ndə̌b",
+    "descendant": "ndə̂b"
+  },
+  {
+    "syllable": "ndəd",
+    "ipa": "[ndʉt]",
+    "bas": "ndə̀d",
+    "moyen": "ndə̄d",
+    "montant": "ndə̌d",
+    "descendant": "ndə̂d"
+  },
+  {
+    "syllable": "ndəl",
+    "ipa": "[ndʉl]",
+    "bas": "ndə̀l",
+    "moyen": "ndə̄l",
+    "montant": "ndə̌l",
+    "descendant": "ndə̂l"
+  },
+  {
+    "syllable": "ndəm",
+    "ipa": "[ndʉm]",
+    "bas": "ndə̀m",
+    "moyen": "ndə̄m",
+    "montant": "ndə̌m",
+    "descendant": "ndə̂m"
+  },
+  {
+    "syllable": "ndə'",
+    "ipa": "[ndʉʔ]",
+    "bas": "ndə̀'",
+    "moyen": "ndə̄'",
+    "montant": "ndə̌'",
+    "descendant": "ndə̂'"
+  },
+  {
+    "syllable": "nde",
+    "ipa": "[ndi]",
+    "bas": "ndè",
+    "moyen": "ndē",
+    "montant": "ndě",
+    "descendant": "ndê"
+  },
+  {
+    "syllable": "ndeb",
+    "ipa": "[ndib]",
+    "bas": "ndèb",
+    "moyen": "ndēb",
+    "montant": "nděb",
+    "descendant": "ndêb"
+  },
+  {
+    "syllable": "nded",
+    "ipa": "[ndit]",
+    "bas": "ndèd",
+    "moyen": "ndēd",
+    "montant": "nděd",
+    "descendant": "ndêd"
+  },
+  {
+    "syllable": "ndel",
+    "ipa": "[ndil]",
+    "bas": "ndèl",
+    "moyen": "ndēl",
+    "montant": "nděl",
+    "descendant": "ndêl"
+  },
+  {
+    "syllable": "ndem",
+    "ipa": "[ndim]",
+    "bas": "ndèm",
+    "moyen": "ndēm",
+    "montant": "nděm",
+    "descendant": "ndêm"
+  },
+  {
+    "syllable": "nde'",
+    "ipa": "[ndiʔ]",
+    "bas": "ndè'",
+    "moyen": "ndē'",
+    "montant": "ndě'",
+    "descendant": "ndê'"
+  },
+  {
+    "syllable": "ndɛ",
+    "ipa": "[ndɛ]",
+    "bas": "ndɛ̀",
+    "moyen": "ndɛ̄",
+    "montant": "ndɛ̌",
+    "descendant": "ndɛ̂"
+  },
+  {
+    "syllable": "ndɛd",
+    "ipa": "[ndɛt]",
+    "bas": "ndɛ̀d",
+    "moyen": "ndɛ̄d",
+    "montant": "ndɛ̌d",
+    "descendant": "ndɛ̂d"
+  },
+  {
+    "syllable": "ndɛl",
+    "ipa": "[ndɛl]",
+    "bas": "ndɛ̀l",
+    "moyen": "ndɛ̄l",
+    "montant": "ndɛ̌l",
+    "descendant": "ndɛ̂l"
+  },
+  {
+    "syllable": "ndɛn",
+    "ipa": "[ndɛn]",
+    "bas": "ndɛ̀n",
+    "moyen": "ndɛ̄n",
+    "montant": "ndɛ̌n",
+    "descendant": "ndɛ̂n"
+  },
+  {
+    "syllable": "ndo",
+    "ipa": "[ndu]",
+    "bas": "ndò",
+    "moyen": "ndō",
+    "montant": "ndǒ",
+    "descendant": "ndô"
+  },
+  {
+    "syllable": "ndob",
+    "ipa": "[ndub]",
+    "bas": "ndòb",
+    "moyen": "ndōb",
+    "montant": "ndǒb",
+    "descendant": "ndôb"
+  },
+  {
+    "syllable": "ndod",
+    "ipa": "[ndut]",
+    "bas": "ndòd",
+    "moyen": "ndōd",
+    "montant": "ndǒd",
+    "descendant": "ndôd"
+  },
+  {
+    "syllable": "ndon",
+    "ipa": "[ndun]",
+    "bas": "ndòn",
+    "moyen": "ndōn",
+    "montant": "ndǒn",
+    "descendant": "ndôn"
+  },
+  {
+    "syllable": "ndoŋ",
+    "ipa": "[ndɔŋ]",
+    "bas": "ndòŋ",
+    "moyen": "ndōŋ",
+    "montant": "ndǒŋ",
+    "descendant": "ndôŋ"
+  },
+  {
+    "syllable": "ndo'",
+    "ipa": "[nduʔ]",
+    "bas": "ndò'",
+    "moyen": "ndō'",
+    "montant": "ndǒ'",
+    "descendant": "ndô'"
+  },
+  {
+    "syllable": "ndɔ",
+    "ipa": "[ndo]",
+    "bas": "ndɔ̀",
+    "moyen": "ndɔ̄",
+    "montant": "ndɔ̌",
+    "descendant": "ndɔ̂"
+  },
+  {
+    "syllable": "ndu",
+    "ipa": "[ndhu]",
+    "bas": "ndù",
+    "moyen": "ndū",
+    "montant": "ndǔ",
+    "descendant": "ndû"
+  },
+  {
+    "syllable": "ndub",
+    "ipa": "[ndhub]",
+    "bas": "ndùb",
+    "moyen": "ndūb",
+    "montant": "ndǔb",
+    "descendant": "ndûb"
+  },
+  {
+    "syllable": "ndud",
+    "ipa": "[ndhut]",
+    "bas": "ndùd",
+    "moyen": "ndūd",
+    "montant": "ndǔd",
+    "descendant": "ndûd"
+  },
+  {
+    "syllable": "ndul",
+    "ipa": "[ndhul]",
+    "bas": "ndùl",
+    "moyen": "ndūl",
+    "montant": "ndǔl",
+    "descendant": "ndûl"
+  },
+  {
+    "syllable": "ndum",
+    "ipa": "[ndhum]",
+    "bas": "ndùm",
+    "moyen": "ndūm",
+    "montant": "ndǔm",
+    "descendant": "ndûm"
+  },
+  {
+    "syllable": "ndun",
+    "ipa": "[ndhun]",
+    "bas": "ndùn",
+    "moyen": "ndūn",
+    "montant": "ndǔn",
+    "descendant": "ndûn"
+  },
+  {
+    "syllable": "ndu'",
+    "ipa": "[ndhuʔ]",
+    "bas": "ndù'",
+    "moyen": "ndū'",
+    "montant": "ndǔ'",
+    "descendant": "ndû'"
+  },
+  {
+    "syllable": "ndʉ",
+    "ipa": "[ndhʉ]",
+    "bas": "ndʉ̀",
+    "moyen": "ndʉ̄",
+    "montant": "ndʉ̌",
+    "descendant": "ndʉ̂"
+  },
+  {
+    "syllable": "ndʉb",
+    "ipa": "[ndhʉb]",
+    "bas": "ndʉ̀b",
+    "moyen": "ndʉ̄b",
+    "montant": "ndʉ̌b",
+    "descendant": "ndʉ̂b"
+  },
+  {
+    "syllable": "ndʉm",
+    "ipa": "[ndhʉb]",
+    "bas": "ndʉ̀m",
+    "moyen": "ndʉ̄m",
+    "montant": "ndʉ̌m",
+    "descendant": "ndʉ̂m"
+  },
+  {
+    "syllable": "ndʉ'",
+    "ipa": "[ndhʉʔ]",
+    "bas": "ndʉ̀'",
+    "moyen": "ndʉ̄'",
+    "montant": "ndʉ̌'",
+    "descendant": "ndʉ̂'"
+  },
+  {
+    "syllable": "nə",
+    "ipa": "[nœ], [nʉ]",
+    "bas": "nə̀",
+    "moyen": "nə̄",
+    "montant": "nə̌",
+    "descendant": "nə̂"
+  },
+  {
+    "syllable": "nə'",
+    "ipa": "[nʉʔ]",
+    "bas": "nə̀'",
+    "moyen": "nə̄'",
+    "montant": "nə̌'",
+    "descendant": "nə̂'"
+  },
+  {
+    "syllable": "nɛ",
+    "ipa": "[nɛ]",
+    "bas": "nɛ̀",
+    "moyen": "nɛ̄",
+    "montant": "nɛ̌",
+    "descendant": "nɛ̂"
+  },
+  {
+    "syllable": "nɛn",
+    "ipa": "[nɛn]",
+    "bas": "nɛ̀n",
+    "moyen": "nɛ̄n",
+    "montant": "nɛ̌n",
+    "descendant": "nɛ̂n"
+  },
+  {
+    "syllable": "nga",
+    "ipa": "[ŋga]",
+    "bas": "ngà",
+    "moyen": "ngā",
+    "montant": "ngǎ",
+    "descendant": "ngâ"
+  },
+  {
+    "syllable": "ngab",
+    "ipa": "[ŋga]",
+    "bas": "ngàb",
+    "moyen": "ngāb",
+    "montant": "ngǎb",
+    "descendant": "ngâb"
+  },
+  {
+    "syllable": "ngad",
+    "ipa": "[ŋgat]",
+    "bas": "ngàd",
+    "moyen": "ngād",
+    "montant": "ngǎd",
+    "descendant": "ngâd"
+  },
+  {
+    "syllable": "ngag",
+    "ipa": "[ŋgak]",
+    "bas": "ngàg",
+    "moyen": "ngāg",
+    "montant": "ngǎg",
+    "descendant": "ngâg"
+  },
+  {
+    "syllable": "ngal",
+    "ipa": "[ŋgal]",
+    "bas": "ngàl",
+    "moyen": "ngāl",
+    "montant": "ngǎl",
+    "descendant": "ngâl"
+  },
+  {
+    "syllable": "ngam",
+    "ipa": "[ŋgam]",
+    "bas": "ngàm",
+    "moyen": "ngām",
+    "montant": "ngǎm",
+    "descendant": "ngâm"
+  },
+  {
+    "syllable": "ngaŋ",
+    "ipa": "[ŋgaŋ]",
+    "bas": "ngàŋ",
+    "moyen": "ngāŋ",
+    "montant": "ngǎŋ",
+    "descendant": "ngâŋ"
+  },
+  {
+    "syllable": "nga'",
+    "ipa": "[ŋgɑʔ]",
+    "bas": "ngà'",
+    "moyen": "ngā'",
+    "montant": "ngǎ'",
+    "descendant": "ngâ'"
+  },
+  {
+    "syllable": "ngαb",
+    "ipa": "[ŋgɑb]",
+    "bas": "ngὰb",
+    "moyen": "ngᾱb",
+    "montant": "ngα̌b",
+    "descendant": "ngα̂b"
+  },
+  {
+    "syllable": "ngαm",
+    "ipa": "[ŋgɑm]",
+    "bas": "ngὰm",
+    "moyen": "ngᾱm",
+    "montant": "ngα̌m",
+    "descendant": "ngα̂m"
+  },
+  {
+    "syllable": "ngαn",
+    "ipa": "[ŋgɑn]",
+    "bas": "ngὰn",
+    "moyen": "ngᾱn",
+    "montant": "ngα̌n",
+    "descendant": "ngα̂n"
+  },
+  {
+    "syllable": "ngə",
+    "ipa": "[ŋgœ], [ŋgʉ]",
+    "bas": "ngə̀",
+    "moyen": "ngə̄",
+    "montant": "ngə̌",
+    "descendant": "ngə̂"
+  },
+  {
+    "syllable": "ngəb",
+    "ipa": "[ŋgʉb]",
+    "bas": "ngə̀b",
+    "moyen": "ngə̄b",
+    "montant": "ngə̌b",
+    "descendant": "ngə̂b"
+  },
+  {
+    "syllable": "ngəd",
+    "ipa": "[ŋgʉt]",
+    "bas": "ngə̀d",
+    "moyen": "ngə̄d",
+    "montant": "ngə̌d",
+    "descendant": "ngə̂d"
+  },
+  {
+    "syllable": "ngəl",
+    "ipa": "[ŋgʉl]",
+    "bas": "ngə̀l",
+    "moyen": "ngə̄l",
+    "montant": "ngə̌l",
+    "descendant": "ngə̂l"
+  },
+  {
+    "syllable": "ngəm",
+    "ipa": "[ŋgʉm]",
+    "bas": "ngə̀m",
+    "moyen": "ngə̄m",
+    "montant": "ngə̌m",
+    "descendant": "ngə̂m"
+  },
+  {
+    "syllable": "ngə'",
+    "ipa": "[ŋgʉʔ]",
+    "bas": "ngə̀'",
+    "moyen": "ngə̄'",
+    "montant": "ngə̌'",
+    "descendant": "ngə̂'"
+  },
+  {
+    "syllable": "ngo",
+    "ipa": "[ŋgu]",
+    "bas": "ngò",
+    "moyen": "ngō",
+    "montant": "ngǒ",
+    "descendant": "ngô"
+  },
+  {
+    "syllable": "ngob",
+    "ipa": "[ŋgub]",
+    "bas": "ngòb",
+    "moyen": "ngōb",
+    "montant": "ngǒb",
+    "descendant": "ngôb"
+  },
+  {
+    "syllable": "ngom",
+    "ipa": "[ŋgum]",
+    "bas": "ngòm",
+    "moyen": "ngōm",
+    "montant": "ngǒm",
+    "descendant": "ngôm"
+  },
+  {
+    "syllable": "ngon",
+    "ipa": "[ŋgun]",
+    "bas": "ngòn",
+    "moyen": "ngōn",
+    "montant": "ngǒn",
+    "descendant": "ngôn"
+  },
+  {
+    "syllable": "ngoŋ",
+    "ipa": "[ŋgɔŋ]",
+    "bas": "ngòŋ",
+    "moyen": "ngōŋ",
+    "montant": "ngǒŋ",
+    "descendant": "ngôŋ"
+  },
+  {
+    "syllable": "ngo'",
+    "ipa": "[ŋguʔ]",
+    "bas": "ngò'",
+    "moyen": "ngō'",
+    "montant": "ngǒ'",
+    "descendant": "ngô'"
+  },
+  {
+    "syllable": "ngɔ",
+    "ipa": "[ŋgo]",
+    "bas": "ngɔ̀",
+    "moyen": "ngɔ̄",
+    "montant": "ngɔ̌",
+    "descendant": "ngɔ̂"
+  },
+  {
+    "syllable": "ngu",
+    "ipa": "[ŋghu]",
+    "bas": "ngù",
+    "moyen": "ngū",
+    "montant": "ngǔ",
+    "descendant": "ngû"
+  },
+  {
+    "syllable": "nguα",
+    "ipa": "[ŋghuɑ]",
+    "bas": "nguὰ",
+    "moyen": "nguᾱ",
+    "montant": "nguα̌",
+    "descendant": "nguα̂"
+  },
+  {
+    "syllable": "nguαn",
+    "ipa": "[ŋghuɑn]",
+    "bas": "nguὰn",
+    "moyen": "nguᾱn",
+    "montant": "nguα̌n",
+    "descendant": "nguα̂n"
+  },
+  {
+    "syllable": "ngub",
+    "ipa": "[ŋghub]",
+    "bas": "ngùb",
+    "moyen": "ngūb",
+    "montant": "ngǔb",
+    "descendant": "ngûb"
+  },
+  {
+    "syllable": "ngum",
+    "ipa": "[ŋghum]",
+    "bas": "ngùm",
+    "moyen": "ngūm",
+    "montant": "ngǔm",
+    "descendant": "ngûm"
+  },
+  {
+    "syllable": "ngu'",
+    "ipa": "[ŋghuʔ]",
+    "bas": "ngù'",
+    "moyen": "ngū'",
+    "montant": "ngǔ'",
+    "descendant": "ngû'"
+  },
+  {
+    "syllable": "ngʉ",
+    "ipa": "[ŋghʉ]",
+    "bas": "ngʉ̀",
+    "moyen": "ngʉ̄",
+    "montant": "ngʉ̌",
+    "descendant": "ngʉ̂"
+  },
+  {
+    "syllable": "ngʉα",
+    "ipa": "[ŋghʉɑ]",
+    "bas": "ngʉὰ",
+    "moyen": "ngʉᾱ",
+    "montant": "ngʉα̌",
+    "descendant": "ngʉα̂"
+  },
+  {
+    "syllable": "ngʉm",
+    "ipa": "[ŋghʉm]",
+    "bas": "ngʉ̀m",
+    "moyen": "ngʉ̄m",
+    "montant": "ngʉ̌m",
+    "descendant": "ngʉ̂m"
+  },
+  {
+    "syllable": "ngʉn",
+    "ipa": "[ŋghʉn]",
+    "bas": "ngʉ̀n",
+    "moyen": "ngʉ̄n",
+    "montant": "ngʉ̌n",
+    "descendant": "ngʉ̂n"
+  },
+  {
+    "syllable": "ngʉ'",
+    "ipa": "[ŋghʉʔ]",
+    "bas": "ngʉ̀'",
+    "moyen": "ngʉ̄'",
+    "montant": "ngʉ̌'",
+    "descendant": "ngʉ̂'"
+  },
+  {
+    "syllable": "ngwa",
+    "ipa": "[ŋgua]",
+    "bas": "ngwà",
+    "moyen": "ngwā",
+    "montant": "ngwǎ",
+    "descendant": "ngwâ"
+  },
+  {
+    "syllable": "ngwad",
+    "ipa": "[ŋguat]",
+    "bas": "ngwàd",
+    "moyen": "ngwād",
+    "montant": "ngwǎd",
+    "descendant": "ngwâd"
+  },
+  {
+    "syllable": "ngwag",
+    "ipa": "[ŋguak]",
+    "bas": "ngwàg",
+    "moyen": "ngwāg",
+    "montant": "ngwǎg",
+    "descendant": "ngwâg"
+  },
+  {
+    "syllable": "ngwal",
+    "ipa": "[ŋgual]",
+    "bas": "ngwàl",
+    "moyen": "ngwāl",
+    "montant": "ngwǎl",
+    "descendant": "ngwâl"
+  },
+  {
+    "syllable": "ngwaŋ",
+    "ipa": "[ŋguaŋ]",
+    "bas": "ngwàŋ",
+    "moyen": "ngwāŋ",
+    "montant": "ngwǎŋ",
+    "descendant": "ngwâŋ"
+  },
+  {
+    "syllable": "ni",
+    "ipa": "[ni]",
+    "bas": "nì",
+    "moyen": "nī",
+    "montant": "nǐ",
+    "descendant": "nî"
+  },
+  {
+    "syllable": "njα",
+    "ipa": "[ndȝɑ]",
+    "bas": "njὰ",
+    "moyen": "njᾱ",
+    "montant": "njα̌",
+    "descendant": "njα̂"
+  },
+  {
+    "syllable": "njαb",
+    "ipa": "[ndȝɑb]",
+    "bas": "njὰb",
+    "moyen": "njᾱb",
+    "montant": "njα̌b",
+    "descendant": "njα̂b"
+  },
+  {
+    "syllable": "njαg",
+    "ipa": "[ndȝɑk]",
+    "bas": "njὰg",
+    "moyen": "njᾱg",
+    "montant": "njα̌g",
+    "descendant": "njα̂g"
+  },
+  {
+    "syllable": "njαm",
+    "ipa": "[ndȝɑm]",
+    "bas": "njὰm",
+    "moyen": "njᾱm",
+    "montant": "njα̌m",
+    "descendant": "njα̂m"
+  },
+  {
+    "syllable": "njo",
+    "ipa": "[ndȝu]",
+    "bas": "njò",
+    "moyen": "njō",
+    "montant": "njǒ",
+    "descendant": "njô"
+  },
+  {
+    "syllable": "njob",
+    "ipa": "[ndȝub]",
+    "bas": "njòb",
+    "moyen": "njōb",
+    "montant": "njǒb",
+    "descendant": "njôb"
+  },
+  {
+    "syllable": "njod",
+    "ipa": "[ndȝut]",
+    "bas": "njòd",
+    "moyen": "njōd",
+    "montant": "njǒd",
+    "descendant": "njôd"
+  },
+  {
+    "syllable": "njog",
+    "ipa": "[ndȝɔk]",
+    "bas": "njòg",
+    "moyen": "njōg",
+    "montant": "njǒg",
+    "descendant": "njôg"
+  },
+  {
+    "syllable": "njol",
+    "ipa": "[ndȝul]",
+    "bas": "njòl",
+    "moyen": "njōl",
+    "montant": "njǒl",
+    "descendant": "njôl"
+  },
+  {
+    "syllable": "njom",
+    "ipa": "[ndȝum]",
+    "bas": "njòm",
+    "moyen": "njōm",
+    "montant": "njǒm",
+    "descendant": "njôm"
+  },
+  {
+    "syllable": "njoŋ",
+    "ipa": "[ndȝɔŋ]",
+    "bas": "njòŋ",
+    "moyen": "njōŋ",
+    "montant": "njǒŋ",
+    "descendant": "njôŋ"
+  },
+  {
+    "syllable": "njo'",
+    "ipa": "[ndȝuʔ]",
+    "bas": "njò'",
+    "moyen": "njō'",
+    "montant": "njǒ'",
+    "descendant": "njô'"
+  },
+  {
+    "syllable": "njɔ",
+    "ipa": "[ndȝo]",
+    "bas": "njɔ̀",
+    "moyen": "njɔ̄",
+    "montant": "njɔ̌",
+    "descendant": "njɔ̂"
+  },
+  {
+    "syllable": "nju",
+    "ipa": "[nȝu]",
+    "bas": "njù",
+    "moyen": "njū",
+    "montant": "njǔ",
+    "descendant": "njû"
+  },
+  {
+    "syllable": "njub",
+    "ipa": "[nȝub]",
+    "bas": "njùb",
+    "moyen": "njūb",
+    "montant": "njǔb",
+    "descendant": "njûb"
+  },
+  {
+    "syllable": "njum",
+    "ipa": "[nȝum]",
+    "bas": "njùm",
+    "moyen": "njūm",
+    "montant": "njǔm",
+    "descendant": "njûm"
+  },
+  {
+    "syllable": "njun",
+    "ipa": "[nȝun]",
+    "bas": "njùn",
+    "moyen": "njūn",
+    "montant": "njǔn",
+    "descendant": "njûn"
+  },
+  {
+    "syllable": "nju'",
+    "ipa": "[nȝuʔ]",
+    "bas": "njù'",
+    "moyen": "njū'",
+    "montant": "njǔ'",
+    "descendant": "njû'"
+  },
+  {
+    "syllable": "njʉ",
+    "ipa": "[nȝʉ]",
+    "bas": "njʉ̀",
+    "moyen": "njʉ̄",
+    "montant": "njʉ̌",
+    "descendant": "njʉ̂"
+  },
+  {
+    "syllable": "njʉα",
+    "ipa": "[nȝʉɑ]",
+    "bas": "njʉὰ",
+    "moyen": "njʉᾱ",
+    "montant": "njʉα̌",
+    "descendant": "njʉα̂"
+  },
+  {
+    "syllable": "njʉαg",
+    "ipa": "[nȝʉɑk]",
+    "bas": "njʉὰg",
+    "moyen": "njʉᾱg",
+    "montant": "njʉα̌g",
+    "descendant": "njʉα̂g"
+  },
+  {
+    "syllable": "njʉm",
+    "ipa": "[nȝʉm]",
+    "bas": "njʉ̀m",
+    "moyen": "njʉ̄m",
+    "montant": "njʉ̌m",
+    "descendant": "njʉ̂m"
+  },
+  {
+    "syllable": "njʉ'",
+    "ipa": "[nȝʉʔ]",
+    "bas": "njʉ̀'",
+    "moyen": "njʉ̄'",
+    "montant": "njʉ̌'",
+    "descendant": "njʉ̂'"
+  },
+  {
+    "syllable": "njwe",
+    "ipa": "[ndȝui]",
+    "bas": "njwè",
+    "moyen": "njwē",
+    "montant": "njwě",
+    "descendant": "njwê"
+  },
+  {
+    "syllable": "njwed",
+    "ipa": "[ndȝuit]",
+    "bas": "njwèd",
+    "moyen": "njwēd",
+    "montant": "njwěd",
+    "descendant": "njwêd"
+  },
+  {
+    "syllable": "njwel",
+    "ipa": "[ndȝuil]",
+    "bas": "njwèl",
+    "moyen": "njwēl",
+    "montant": "njwěl",
+    "descendant": "njwêl"
+  },
+  {
+    "syllable": "njwem",
+    "ipa": "[ndȝuim]",
+    "bas": "njwèm",
+    "moyen": "njwēm",
+    "montant": "njwěm",
+    "descendant": "njwêm"
+  },
+  {
+    "syllable": "njwe'",
+    "ipa": "[ndȝuiʔ]",
+    "bas": "njwè'",
+    "moyen": "njwē'",
+    "montant": "njwě'",
+    "descendant": "njwê'"
+  },
+  {
+    "syllable": "njwɛ",
+    "ipa": "[ndȝuɛ]",
+    "bas": "njwɛ̀",
+    "moyen": "njwɛ̄",
+    "montant": "njwɛ̌",
+    "descendant": "njwɛ̂"
+  },
+  {
+    "syllable": "njwɛd",
+    "ipa": "[ndȝuɛt]",
+    "bas": "njwɛ̀d",
+    "moyen": "njwɛ̄d",
+    "montant": "njwɛ̌d",
+    "descendant": "njwɛ̂d"
+  },
+  {
+    "syllable": "njwɛl",
+    "ipa": "[ndȝuɛl]",
+    "bas": "njwɛ̀l",
+    "moyen": "njwɛ̄l",
+    "montant": "njwɛ̌l",
+    "descendant": "njwɛ̂l"
+  },
+  {
+    "syllable": "njwɛn",
+    "ipa": "[ndȝuɛn]",
+    "bas": "njwɛ̀n",
+    "moyen": "njwɛ̄n",
+    "montant": "njwɛ̌n",
+    "descendant": "njwɛ̂n"
+  },
+  {
+    "syllable": "nka",
+    "ipa": "[ŋka]",
+    "bas": "nkà",
+    "moyen": "nkā",
+    "montant": "nkǎ",
+    "descendant": "nkâ"
+  },
+  {
+    "syllable": "nkab",
+    "ipa": "[ŋkab]",
+    "bas": "nkàb",
+    "moyen": "nkāb",
+    "montant": "nkǎb",
+    "descendant": "nkâb"
+  },
+  {
+    "syllable": "nkad",
+    "ipa": "[ŋkat]",
+    "bas": "nkàd",
+    "moyen": "nkād",
+    "montant": "nkǎd",
+    "descendant": "nkâd"
+  },
+  {
+    "syllable": "nkag",
+    "ipa": "[ŋkak]",
+    "bas": "nkàg",
+    "moyen": "nkāg",
+    "montant": "nkǎg",
+    "descendant": "nkâg"
+  },
+  {
+    "syllable": "nkal",
+    "ipa": "[ŋkal]",
+    "bas": "nkàl",
+    "moyen": "nkāl",
+    "montant": "nkǎl",
+    "descendant": "nkâl"
+  },
+  {
+    "syllable": "nkam",
+    "ipa": "[ŋkam]",
+    "bas": "nkàm",
+    "moyen": "nkām",
+    "montant": "nkǎm",
+    "descendant": "nkâm"
+  },
+  {
+    "syllable": "nkaŋ",
+    "ipa": "[ŋkaŋ]",
+    "bas": "nkàŋ",
+    "moyen": "nkāŋ",
+    "montant": "nkǎŋ",
+    "descendant": "nkâŋ"
+  },
+  {
+    "syllable": "nka'",
+    "ipa": "[ŋkɑʔ]",
+    "bas": "nkà'",
+    "moyen": "nkā'",
+    "montant": "nkǎ'",
+    "descendant": "nkâ'"
+  },
+  {
+    "syllable": "nkα",
+    "ipa": "[ŋkɑ]",
+    "bas": "nkὰ",
+    "moyen": "nkᾱ",
+    "montant": "nkα̌",
+    "descendant": "nkα̂"
+  },
+  {
+    "syllable": "nkαb",
+    "ipa": "[ŋkɑb]",
+    "bas": "nkὰb",
+    "moyen": "nkᾱb",
+    "montant": "nkα̌b",
+    "descendant": "nkα̂b"
+  },
+  {
+    "syllable": "nkαg",
+    "ipa": "[ŋkɑk]",
+    "bas": "nkὰg",
+    "moyen": "nkᾱg",
+    "montant": "nkα̌g",
+    "descendant": "nkα̂g"
+  },
+  {
+    "syllable": "nkαm",
+    "ipa": "[ŋkɑm]",
+    "bas": "nkὰm",
+    "moyen": "nkᾱm",
+    "montant": "nkα̌m",
+    "descendant": "nkα̂m"
+  },
+  {
+    "syllable": "nkαn",
+    "ipa": "[ŋkɑn]",
+    "bas": "nkὰn",
+    "moyen": "nkᾱn",
+    "montant": "nkα̌n",
+    "descendant": "nkα̂n"
+  },
+  {
+    "syllable": "nkə",
+    "ipa": "[ŋkœ], [ŋkʉ]",
+    "bas": "nkə̀",
+    "moyen": "nkə̄",
+    "montant": "nkə̌",
+    "descendant": "nkə̂"
+  },
+  {
+    "syllable": "nkəb",
+    "ipa": "[ŋkʉb]",
+    "bas": "nkə̀b",
+    "moyen": "nkə̄b",
+    "montant": "nkə̌b",
+    "descendant": "nkə̂b"
+  },
+  {
+    "syllable": "nkəd",
+    "ipa": "[ŋkʉt]",
+    "bas": "nkə̀d",
+    "moyen": "nkə̄d",
+    "montant": "nkə̌d",
+    "descendant": "nkə̂d"
+  },
+  {
+    "syllable": "nkəl",
+    "ipa": "[ŋkʉl]",
+    "bas": "nkə̀l",
+    "moyen": "nkə̄l",
+    "montant": "nkə̌l",
+    "descendant": "nkə̂l"
+  },
+  {
+    "syllable": "nkəm",
+    "ipa": "[ŋkʉm]",
+    "bas": "nkə̀m",
+    "moyen": "nkə̄m",
+    "montant": "nkə̌m",
+    "descendant": "nkə̂m"
+  },
+  {
+    "syllable": "nkə'",
+    "ipa": "[ŋkʉʔ]",
+    "bas": "nkə̀'",
+    "moyen": "nkə̄'",
+    "montant": "nkə̌'",
+    "descendant": "nkə̂'"
+  },
+  {
+    "syllable": "nke",
+    "ipa": "[ŋki]",
+    "bas": "nkè",
+    "moyen": "nkē",
+    "montant": "nkě",
+    "descendant": "nkê"
+  },
+  {
+    "syllable": "nked",
+    "ipa": "[ŋkit]",
+    "bas": "nkèd",
+    "moyen": "nkēd",
+    "montant": "nkěd",
+    "descendant": "nkêd"
+  },
+  {
+    "syllable": "nkel",
+    "ipa": "[ŋkil]",
+    "bas": "nkèl",
+    "moyen": "nkēl",
+    "montant": "nkěl",
+    "descendant": "nkêl"
+  },
+  {
+    "syllable": "nkem",
+    "ipa": "[ŋkim]",
+    "bas": "nkèm",
+    "moyen": "nkēm",
+    "montant": "nkěm",
+    "descendant": "nkêm"
+  },
+  {
+    "syllable": "nke'",
+    "ipa": "[ŋkiʔ]",
+    "bas": "nkè'",
+    "moyen": "nkē'",
+    "montant": "nkě'",
+    "descendant": "nkê'"
+  },
+  {
+    "syllable": "nkioŋ",
+    "ipa": "[ŋkiɔŋ]",
+    "bas": "nkiòŋ",
+    "moyen": "nkiōŋ",
+    "montant": "nkiǒŋ",
+    "descendant": "nkiôŋ"
+  },
+  {
+    "syllable": "nkob",
+    "ipa": "[ŋkub]",
+    "bas": "nkòb",
+    "moyen": "nkōb",
+    "montant": "nkǒb",
+    "descendant": "nkôb"
+  },
+  {
+    "syllable": "nkod",
+    "ipa": "[ŋkut]",
+    "bas": "nkòd",
+    "moyen": "nkōd",
+    "montant": "nkǒd",
+    "descendant": "nkôd"
+  },
+  {
+    "syllable": "nkog",
+    "ipa": "[ŋkɔk]",
+    "bas": "nkòg",
+    "moyen": "nkōg",
+    "montant": "nkǒg",
+    "descendant": "nkôg"
+  },
+  {
+    "syllable": "nkol",
+    "ipa": "[ŋkul]",
+    "bas": "nkòl",
+    "moyen": "nkōl",
+    "montant": "nkǒl",
+    "descendant": "nkôl"
+  },
+  {
+    "syllable": "nkom",
+    "ipa": "[ŋkum]",
+    "bas": "nkòm",
+    "moyen": "nkōm",
+    "montant": "nkǒm",
+    "descendant": "nkôm"
+  },
+  {
+    "syllable": "nkoŋ",
+    "ipa": "[ŋkɔŋ]",
+    "bas": "nkòŋ",
+    "moyen": "nkōŋ",
+    "montant": "nkǒŋ",
+    "descendant": "nkôŋ"
+  },
+  {
+    "syllable": "nko'",
+    "ipa": "[ŋkuʔ]",
+    "bas": "nkò'",
+    "moyen": "nkō'",
+    "montant": "nkǒ'",
+    "descendant": "nkô'"
+  },
+  {
+    "syllable": "nkɔ",
+    "ipa": "[ŋko]",
+    "bas": "nkɔ̀",
+    "moyen": "nkɔ̄",
+    "montant": "nkɔ̌",
+    "descendant": "nkɔ̂"
+  },
+  {
+    "syllable": "nku",
+    "ipa": "[ŋkxu]",
+    "bas": "nkù",
+    "moyen": "nkū",
+    "montant": "nkǔ",
+    "descendant": "nkû"
+  },
+  {
+    "syllable": "nkuα",
+    "ipa": "[ŋkxuɑ]",
+    "bas": "nkuὰ",
+    "moyen": "nkuᾱ",
+    "montant": "nkuα̌",
+    "descendant": "nkuα̂"
+  },
+  {
+    "syllable": "nkub",
+    "ipa": "[ŋkxub]",
+    "bas": "nkùb",
+    "moyen": "nkūb",
+    "montant": "nkǔb",
+    "descendant": "nkûb"
+  },
+  {
+    "syllable": "nkud",
+    "ipa": "[ŋkxut]",
+    "bas": "nkùd",
+    "moyen": "nkūd",
+    "montant": "nkǔd",
+    "descendant": "nkûd"
+  },
+  {
+    "syllable": "nkul",
+    "ipa": "[ŋkxul]",
+    "bas": "nkùl",
+    "moyen": "nkūl",
+    "montant": "nkǔl",
+    "descendant": "nkûl"
+  },
+  {
+    "syllable": "nkum",
+    "ipa": "[ŋkxum]",
+    "bas": "nkùm",
+    "moyen": "nkūm",
+    "montant": "nkǔm",
+    "descendant": "nkûm"
+  },
+  {
+    "syllable": "nkun",
+    "ipa": "[ŋkxun]",
+    "bas": "nkùn",
+    "moyen": "nkūn",
+    "montant": "nkǔn",
+    "descendant": "nkûn"
+  },
+  {
+    "syllable": "nku'",
+    "ipa": "[ŋkxuʔ]",
+    "bas": "nkù'",
+    "moyen": "nkū'",
+    "montant": "nkǔ'",
+    "descendant": "nkû'"
+  },
+  {
+    "syllable": "nkʉ",
+    "ipa": "[ŋkxʉ]",
+    "bas": "nkʉ̀",
+    "moyen": "nkʉ̄",
+    "montant": "nkʉ̌",
+    "descendant": "nkʉ̂"
+  },
+  {
+    "syllable": "nkʉα",
+    "ipa": "[ŋkxʉɑ]",
+    "bas": "nkʉὰ",
+    "moyen": "nkʉᾱ",
+    "montant": "nkʉα̌",
+    "descendant": "nkʉα̂"
+  },
+  {
+    "syllable": "nkʉd",
+    "ipa": "[ŋkxʉt]",
+    "bas": "nkʉ̀d",
+    "moyen": "nkʉ̄d",
+    "montant": "nkʉ̌d",
+    "descendant": "nkʉ̂d"
+  },
+  {
+    "syllable": "nkʉl",
+    "ipa": "[ŋkxʉl]",
+    "bas": "nkʉ̀l",
+    "moyen": "nkʉ̄l",
+    "montant": "nkʉ̌l",
+    "descendant": "nkʉ̂l"
+  },
+  {
+    "syllable": "nkʉm",
+    "ipa": "[ŋkxʉm]",
+    "bas": "nkʉ̀m",
+    "moyen": "nkʉ̄m",
+    "montant": "nkʉ̌m",
+    "descendant": "nkʉ̂m"
+  },
+  {
+    "syllable": "nkʉn",
+    "ipa": "[ŋkxʉn]",
+    "bas": "nkʉ̀n",
+    "moyen": "nkʉ̄n",
+    "montant": "nkʉ̌n",
+    "descendant": "nkʉ̂n"
+  },
+  {
+    "syllable": "nkʉ'",
+    "ipa": "[ŋkxʉʔ]",
+    "bas": "nkʉ̀'",
+    "moyen": "nkʉ̄'",
+    "montant": "nkʉ̌'",
+    "descendant": "nkʉ̂'"
+  },
+  {
+    "syllable": "nkwa",
+    "ipa": "[ŋkua]",
+    "bas": "nkwà",
+    "moyen": "nkwā",
+    "montant": "nkwǎ",
+    "descendant": "nkwâ"
+  },
+  {
+    "syllable": "nkwad",
+    "ipa": "[ŋkuat]",
+    "bas": "nkwàd",
+    "moyen": "nkwād",
+    "montant": "nkwǎd",
+    "descendant": "nkwâd"
+  },
+  {
+    "syllable": "nkwag",
+    "ipa": "[ŋkuak]",
+    "bas": "nkwàg",
+    "moyen": "nkwāg",
+    "montant": "nkwǎg",
+    "descendant": "nkwâg"
+  },
+  {
+    "syllable": "nkwα",
+    "ipa": "[ŋkuɑ]",
+    "bas": "nkwὰ",
+    "moyen": "nkwᾱ",
+    "montant": "nkwα̌",
+    "descendant": "nkwα̂"
+  },
+  {
+    "syllable": "nkwαb",
+    "ipa": "[ŋkuɑb]",
+    "bas": "nkwὰb",
+    "moyen": "nkwᾱb",
+    "montant": "nkwα̌b",
+    "descendant": "nkwα̂b"
+  },
+  {
+    "syllable": "nkwe",
+    "ipa": "[ŋkɥi]",
+    "bas": "nkwè",
+    "moyen": "nkwē",
+    "montant": "nkwě",
+    "descendant": "nkwê"
+  },
+  {
+    "syllable": "nkweb",
+    "ipa": "[ŋkɥib]",
+    "bas": "nkwèb",
+    "moyen": "nkwēb",
+    "montant": "nkwěb",
+    "descendant": "nkwêb"
+  },
+  {
+    "syllable": "nkwem",
+    "ipa": "[ŋkɥim]",
+    "bas": "nkwèm",
+    "moyen": "nkwēm",
+    "montant": "nkwěm",
+    "descendant": "nkwêm"
+  },
+  {
+    "syllable": "nkwe'",
+    "ipa": "[ŋkɥiʔ]",
+    "bas": "nkwè'",
+    "moyen": "nkwē'",
+    "montant": "nkwě'",
+    "descendant": "nkwê'"
+  },
+  {
+    "syllable": "nkwi",
+    "ipa": "[ŋkxɥi]",
+    "bas": "nkwì",
+    "moyen": "nkwī",
+    "montant": "nkwǐ",
+    "descendant": "nkwî"
+  },
+  {
+    "syllable": "nkwia",
+    "ipa": "[ŋkxɥia]",
+    "bas": "nkwià",
+    "moyen": "nkwiā",
+    "montant": "nkwiǎ",
+    "descendant": "nkwiâ"
+  },
+  {
+    "syllable": "nkwiaŋ",
+    "ipa": "[ŋkxɥiaŋ]",
+    "bas": "nkwiàŋ",
+    "moyen": "nkwiāŋ",
+    "montant": "nkwiǎŋ",
+    "descendant": "nkwiâŋ"
+  },
+  {
+    "syllable": "nkwiα",
+    "ipa": "[ŋkxɥia]",
+    "bas": "nkwiὰ",
+    "moyen": "nkwiᾱ",
+    "montant": "nkwiα̌",
+    "descendant": "nkwiα̂"
+  },
+  {
+    "syllable": "nkwiαg",
+    "ipa": "[ŋkxɥiak]",
+    "bas": "nkwiὰg",
+    "moyen": "nkwiᾱg",
+    "montant": "nkwiα̌g",
+    "descendant": "nkwiα̂g"
+  },
+  {
+    "syllable": "nkwib",
+    "ipa": "[ŋkxɥib]",
+    "bas": "nkwìb",
+    "moyen": "nkwīb",
+    "montant": "nkwǐb",
+    "descendant": "nkwîb"
+  },
+  {
+    "syllable": "nkwid",
+    "ipa": "[ŋkxɥit]",
+    "bas": "nkwìd",
+    "moyen": "nkwīd",
+    "montant": "nkwǐd",
+    "descendant": "nkwîd"
+  },
+  {
+    "syllable": "nkwil",
+    "ipa": "[ŋkxɥil]",
+    "bas": "nkwìl",
+    "moyen": "nkwīl",
+    "montant": "nkwǐl",
+    "descendant": "nkwîl"
+  },
+  {
+    "syllable": "nkwim",
+    "ipa": "[ŋkxɥim]",
+    "bas": "nkwìm",
+    "moyen": "nkwīm",
+    "montant": "nkwǐm",
+    "descendant": "nkwîm"
+  },
+  {
+    "syllable": "nkwin",
+    "ipa": "[ŋkxɥin]",
+    "bas": "nkwìn",
+    "moyen": "nkwīn",
+    "montant": "nkwǐn",
+    "descendant": "nkwîn"
+  },
+  {
+    "syllable": "nkwi'",
+    "ipa": "[ŋkxɥiʔ]",
+    "bas": "nkwì'",
+    "moyen": "nkwī'",
+    "montant": "nkwǐ'",
+    "descendant": "nkwî'"
+  },
+  {
+    "syllable": "nkwʉ",
+    "ipa": "[ŋkxuʉ]",
+    "bas": "nkwʉ̀",
+    "moyen": "nkwʉ̄",
+    "montant": "nkwʉ̌",
+    "descendant": "nkwʉ̂"
+  },
+  {
+    "syllable": "no",
+    "ipa": "[nu]",
+    "bas": "nò",
+    "moyen": "nō",
+    "montant": "nǒ",
+    "descendant": "nô"
+  },
+  {
+    "syllable": "nod",
+    "ipa": "[nut]",
+    "bas": "nòd",
+    "moyen": "nōd",
+    "montant": "nǒd",
+    "descendant": "nôd"
+  },
+  {
+    "syllable": "nog",
+    "ipa": "[nɔk]",
+    "bas": "nòg",
+    "moyen": "nōg",
+    "montant": "nǒg",
+    "descendant": "nôg"
+  },
+  {
+    "syllable": "nol",
+    "ipa": "[nul]",
+    "bas": "nòl",
+    "moyen": "nōl",
+    "montant": "nǒl",
+    "descendant": "nôl"
+  },
+  {
+    "syllable": "no'",
+    "ipa": "[nuʔ]",
+    "bas": "nò'",
+    "moyen": "nō'",
+    "montant": "nǒ'",
+    "descendant": "nô'"
+  },
+  {
+    "syllable": "nɔ",
+    "ipa": "[no]",
+    "bas": "nɔ̀",
+    "moyen": "nɔ̄",
+    "montant": "nɔ̌",
+    "descendant": "nɔ̂"
+  },
+  {
+    "syllable": "nsa",
+    "ipa": "[nza]",
+    "bas": "nsà",
+    "moyen": "nsā",
+    "montant": "nsǎ",
+    "descendant": "nsâ"
+  },
+  {
+    "syllable": "nsab",
+    "ipa": "[nzab]",
+    "bas": "nsàb",
+    "moyen": "nsāb",
+    "montant": "nsǎb",
+    "descendant": "nsâb"
+  },
+  {
+    "syllable": "nsad",
+    "ipa": "[nzat]",
+    "bas": "nsàd",
+    "moyen": "nsād",
+    "montant": "nsǎd",
+    "descendant": "nsâd"
+  },
+  {
+    "syllable": "nsag",
+    "ipa": "[nzag]",
+    "bas": "nsàg",
+    "moyen": "nsāg",
+    "montant": "nsǎg",
+    "descendant": "nsâg"
+  },
+  {
+    "syllable": "nsal",
+    "ipa": "[nzal]",
+    "bas": "nsàl",
+    "moyen": "nsāl",
+    "montant": "nsǎl",
+    "descendant": "nsâl"
+  },
+  {
+    "syllable": "nsam",
+    "ipa": "[nzam]",
+    "bas": "nsàm",
+    "moyen": "nsām",
+    "montant": "nsǎm",
+    "descendant": "nsâm"
+  },
+  {
+    "syllable": "nsaŋ",
+    "ipa": "[nzaŋ]",
+    "bas": "nsàŋ",
+    "moyen": "nsāŋ",
+    "montant": "nsǎŋ",
+    "descendant": "nsâŋ"
+  },
+  {
+    "syllable": "nsa'",
+    "ipa": "[nzaʔ]",
+    "bas": "nsà'",
+    "moyen": "nsā'",
+    "montant": "nsǎ'",
+    "descendant": "nsâ'"
+  },
+  {
+    "syllable": "nsα",
+    "ipa": "[nzɑ]",
+    "bas": "nsὰ",
+    "moyen": "nsᾱ",
+    "montant": "nsα̌",
+    "descendant": "nsα̂"
+  },
+  {
+    "syllable": "nsαb",
+    "ipa": "[nzɑb]",
+    "bas": "nsὰb",
+    "moyen": "nsᾱb",
+    "montant": "nsα̌b",
+    "descendant": "nsα̂b"
+  },
+  {
+    "syllable": "nsαg",
+    "ipa": "[nzɑk]",
+    "bas": "nsὰg",
+    "moyen": "nsᾱg",
+    "montant": "nsα̌g",
+    "descendant": "nsα̂g"
+  },
+  {
+    "syllable": "nsαm",
+    "ipa": "[nzɑm]",
+    "bas": "nsὰm",
+    "moyen": "nsᾱm",
+    "montant": "nsα̌m",
+    "descendant": "nsα̂m"
+  },
+  {
+    "syllable": "nsə",
+    "ipa": "[nshœ], [nzʉ]",
+    "bas": "nsə̀",
+    "moyen": "nsə̄",
+    "montant": "nsə̌",
+    "descendant": "nsə̂"
+  },
+  {
+    "syllable": "nsəb",
+    "ipa": "[nzʉb]",
+    "bas": "nsə̀b",
+    "moyen": "nsə̄b",
+    "montant": "nsə̌b",
+    "descendant": "nsə̂b"
+  },
+  {
+    "syllable": "nsəd",
+    "ipa": "[nzʉt]",
+    "bas": "nsə̀d",
+    "moyen": "nsə̄d",
+    "montant": "nsə̌d",
+    "descendant": "nsə̂d"
+  },
+  {
+    "syllable": "nsəl",
+    "ipa": "[nzʉl]",
+    "bas": "nsə̀l",
+    "moyen": "nsə̄l",
+    "montant": "nsə̌l",
+    "descendant": "nsə̂l"
+  },
+  {
+    "syllable": "nsəm",
+    "ipa": "[nzʉm]",
+    "bas": "nsə̀m",
+    "moyen": "nsə̄m",
+    "montant": "nsə̌m",
+    "descendant": "nsə̂m"
+  },
+  {
+    "syllable": "nsə'",
+    "ipa": "[nshœʔ], [nzʉʔ]",
+    "bas": "nsə̀'",
+    "moyen": "nsə̄'",
+    "montant": "nsə̌'",
+    "descendant": "nsə̂'"
+  },
+  {
+    "syllable": "nse",
+    "ipa": "[nzi]",
+    "bas": "nsè",
+    "moyen": "nsē",
+    "montant": "nsě",
+    "descendant": "nsê"
+  },
+  {
+    "syllable": "nseb",
+    "ipa": "[nzib]",
+    "bas": "nsèb",
+    "moyen": "nsēb",
+    "montant": "nsěb",
+    "descendant": "nsêb"
+  },
+  {
+    "syllable": "nsem",
+    "ipa": "[nzim]",
+    "bas": "nsèm",
+    "moyen": "nsēm",
+    "montant": "nsěm",
+    "descendant": "nsêm"
+  },
+  {
+    "syllable": "nse'",
+    "ipa": "[nziʔ]",
+    "bas": "nsè'",
+    "moyen": "nsē'",
+    "montant": "nsě'",
+    "descendant": "nsê'"
+  },
+  {
+    "syllable": "nsɛ",
+    "ipa": "[nzɛ]",
+    "bas": "nsɛ̀",
+    "moyen": "nsɛ̄",
+    "montant": "nsɛ̌",
+    "descendant": "nsɛ̂"
+  },
+  {
+    "syllable": "nsɛn",
+    "ipa": "[nzɛn]",
+    "bas": "nsɛ̀n",
+    "moyen": "nsɛ̄n",
+    "montant": "nsɛ̌n",
+    "descendant": "nsɛ̂n"
+  },
+  {
+    "syllable": "nsi",
+    "ipa": "[nshi]",
+    "bas": "nsì",
+    "moyen": "nsī",
+    "montant": "nsǐ",
+    "descendant": "nsî"
+  },
+  {
+    "syllable": "nsia",
+    "ipa": "[nshia]",
+    "bas": "nsià",
+    "moyen": "nsiā",
+    "montant": "nsiǎ",
+    "descendant": "nsiâ"
+  },
+  {
+    "syllable": "nsiaŋ",
+    "ipa": "[nshiaŋ]",
+    "bas": "nsiàŋ",
+    "moyen": "nsiāŋ",
+    "montant": "nsiǎŋ",
+    "descendant": "nsiâŋ"
+  },
+  {
+    "syllable": "nsiα",
+    "ipa": "[nshiɑ]",
+    "bas": "nsiὰ",
+    "moyen": "nsiᾱ",
+    "montant": "nsiα̌",
+    "descendant": "nsiα̂"
+  },
+  {
+    "syllable": "nsiαg",
+    "ipa": "[nshiɑk]",
+    "bas": "nsiὰg",
+    "moyen": "nsiᾱg",
+    "montant": "nsiα̌g",
+    "descendant": "nsiα̂g"
+  },
+  {
+    "syllable": "nsin",
+    "ipa": "[nshin]",
+    "bas": "nsìn",
+    "moyen": "nsīn",
+    "montant": "nsǐn",
+    "descendant": "nsîn"
+  },
+  {
+    "syllable": "nso",
+    "ipa": "[nzu]",
+    "bas": "nsò",
+    "moyen": "nsō",
+    "montant": "nsǒ",
+    "descendant": "nsô"
+  },
+  {
+    "syllable": "nsob",
+    "ipa": "[nzub]",
+    "bas": "nsòb",
+    "moyen": "nsōb",
+    "montant": "nsǒb",
+    "descendant": "nsôb"
+  },
+  {
+    "syllable": "nsog",
+    "ipa": "[nshɔk]",
+    "bas": "nsòg",
+    "moyen": "nsōg",
+    "montant": "nsǒg",
+    "descendant": "nsôg"
+  },
+  {
+    "syllable": "nsom",
+    "ipa": "[nzum]",
+    "bas": "nsòm",
+    "moyen": "nsōm",
+    "montant": "nsǒm",
+    "descendant": "nsôm"
+  },
+  {
+    "syllable": "nsoŋ",
+    "ipa": "[nshɔŋ]",
+    "bas": "nsòŋ",
+    "moyen": "nsōŋ",
+    "montant": "nsǒŋ",
+    "descendant": "nsôŋ"
+  },
+  {
+    "syllable": "nsɔ",
+    "ipa": "[nzo]",
+    "bas": "nsɔ̀",
+    "moyen": "nsɔ̄",
+    "montant": "nsɔ̌",
+    "descendant": "nsɔ̂"
+  },
+  {
+    "syllable": "nswa",
+    "ipa": "[nzua]",
+    "bas": "nswà",
+    "moyen": "nswā",
+    "montant": "nswǎ",
+    "descendant": "nswâ"
+  },
+  {
+    "syllable": "nswad",
+    "ipa": "[nzuat]",
+    "bas": "nswàd",
+    "moyen": "nswād",
+    "montant": "nswǎd",
+    "descendant": "nswâd"
+  },
+  {
+    "syllable": "nswal",
+    "ipa": "[nzual]",
+    "bas": "nswàl",
+    "moyen": "nswāl",
+    "montant": "nswǎl",
+    "descendant": "nswâl"
+  },
+  {
+    "syllable": "nswə",
+    "ipa": "[nshuœ]",
+    "bas": "nswə̀",
+    "moyen": "nswə̄",
+    "montant": "nswə̌",
+    "descendant": "nswə̂"
+  },
+  {
+    "syllable": "nswə'",
+    "ipa": "[nshuœʔ]",
+    "bas": "nswə̀'",
+    "moyen": "nswə̄'",
+    "montant": "nswə̌'",
+    "descendant": "nswə̂'"
+  },
+  {
+    "syllable": "nswɛ",
+    "ipa": "[nzuɛ]",
+    "bas": "nswɛ̀",
+    "moyen": "nswɛ̄",
+    "montant": "nswɛ̌",
+    "descendant": "nswɛ̂"
+  },
+  {
+    "syllable": "nswɛd",
+    "ipa": "[nzuɛt]",
+    "bas": "nswɛ̀d",
+    "moyen": "nswɛ̄d",
+    "montant": "nswɛ̌d",
+    "descendant": "nswɛ̂d"
+  },
+  {
+    "syllable": "nswɛl",
+    "ipa": "[nzuɛl]",
+    "bas": "nswɛ̀l",
+    "moyen": "nswɛ̄l",
+    "montant": "nswɛ̌l",
+    "descendant": "nswɛ̂l"
+  },
+  {
+    "syllable": "nswɛn",
+    "ipa": "[nzuɛn]",
+    "bas": "nswɛ̀n",
+    "moyen": "nswɛ̄n",
+    "montant": "nswɛ̌n",
+    "descendant": "nswɛ̂n"
+  },
+  {
+    "syllable": "nshu",
+    "ipa": "[nʃu]",
+    "bas": "nshù",
+    "moyen": "nshū",
+    "montant": "nshǔ",
+    "descendant": "nshû"
+  },
+  {
+    "syllable": "nshun",
+    "ipa": "[nʃun]",
+    "bas": "nshùn",
+    "moyen": "nshūn",
+    "montant": "nshǔn",
+    "descendant": "nshûn"
+  },
+  {
+    "syllable": "nshu'",
+    "ipa": "[nʃuʔ]",
+    "bas": "nshù'",
+    "moyen": "nshū'",
+    "montant": "nshǔ'",
+    "descendant": "nshû'"
+  },
+  {
+    "syllable": "nshʉ",
+    "ipa": "[nʃʉ]",
+    "bas": "nshʉ̀",
+    "moyen": "nshʉ̄",
+    "montant": "nshʉ̌",
+    "descendant": "nshʉ̂"
+  },
+  {
+    "syllable": "nshʉn",
+    "ipa": "[nʃʉn]",
+    "bas": "nshʉ̀n",
+    "moyen": "nshʉ̄n",
+    "montant": "nshʉ̌n",
+    "descendant": "nshʉ̂n"
+  },
+  {
+    "syllable": "nshʉ'",
+    "ipa": "[nʃʉʔ]",
+    "bas": "nshʉ̀'",
+    "moyen": "nshʉ̄'",
+    "montant": "nshʉ̌'",
+    "descendant": "nshʉ̂'"
+  },
+  {
+    "syllable": "nta",
+    "ipa": "[nta]",
+    "bas": "ntà",
+    "moyen": "ntā",
+    "montant": "ntǎ",
+    "descendant": "ntâ"
+  },
+  {
+    "syllable": "ntab",
+    "ipa": "[ntab]",
+    "bas": "ntàb",
+    "moyen": "ntāb",
+    "montant": "ntǎb",
+    "descendant": "ntâb"
+  },
+  {
+    "syllable": "ntad",
+    "ipa": "[ntat]",
+    "bas": "ntàd",
+    "moyen": "ntād",
+    "montant": "ntǎd",
+    "descendant": "ntâd"
+  },
+  {
+    "syllable": "ntag",
+    "ipa": "[ntak]",
+    "bas": "ntàg",
+    "moyen": "ntāg",
+    "montant": "ntǎg",
+    "descendant": "ntâg"
+  },
+  {
+    "syllable": "ntam",
+    "ipa": "[ntam]",
+    "bas": "ntàm",
+    "moyen": "ntām",
+    "montant": "ntǎm",
+    "descendant": "ntâm"
+  },
+  {
+    "syllable": "ntaŋ",
+    "ipa": "[ntaŋ]",
+    "bas": "ntàŋ",
+    "moyen": "ntāŋ",
+    "montant": "ntǎŋ",
+    "descendant": "ntâŋ"
+  },
+  {
+    "syllable": "nta'",
+    "ipa": "[ntaʔ]",
+    "bas": "ntà'",
+    "moyen": "ntā'",
+    "montant": "ntǎ'",
+    "descendant": "ntâ'"
+  },
+  {
+    "syllable": "ntα",
+    "ipa": "[ntɑ]",
+    "bas": "ntὰ",
+    "moyen": "ntᾱ",
+    "montant": "ntα̌",
+    "descendant": "ntα̂"
+  },
+  {
+    "syllable": "ntαb",
+    "ipa": "[ntɑb]",
+    "bas": "ntὰb",
+    "moyen": "ntᾱb",
+    "montant": "ntα̌b",
+    "descendant": "ntα̂b"
+  },
+  {
+    "syllable": "ntαg",
+    "ipa": "[ntɑk]",
+    "bas": "ntὰg",
+    "moyen": "ntᾱg",
+    "montant": "ntα̌g",
+    "descendant": "ntα̂g"
+  },
+  {
+    "syllable": "ntαm",
+    "ipa": "[ntɑm]",
+    "bas": "ntὰm",
+    "moyen": "ntᾱm",
+    "montant": "ntα̌m",
+    "descendant": "ntα̂m"
+  },
+  {
+    "syllable": "ntαn",
+    "ipa": "[ntɑn]",
+    "bas": "ntὰn",
+    "moyen": "ntᾱn",
+    "montant": "ntα̌n",
+    "descendant": "ntα̂n"
+  },
+  {
+    "syllable": "ntə",
+    "ipa": "[ntʉ]",
+    "bas": "ntə̀",
+    "moyen": "ntə̄",
+    "montant": "ntə̌",
+    "descendant": "ntə̂"
+  },
+  {
+    "syllable": "ntəd",
+    "ipa": "[ntʉt]",
+    "bas": "ntə̀d",
+    "moyen": "ntə̄d",
+    "montant": "ntə̌d",
+    "descendant": "ntə̂d"
+  },
+  {
+    "syllable": "ntəm",
+    "ipa": "[ntʉm]",
+    "bas": "ntə̀m",
+    "moyen": "ntə̄m",
+    "montant": "ntə̌m",
+    "descendant": "ntə̂m"
+  },
+  {
+    "syllable": "ntən",
+    "ipa": "[ntʉn]",
+    "bas": "ntə̀n",
+    "moyen": "ntə̄n",
+    "montant": "ntə̌n",
+    "descendant": "ntə̂n"
+  },
+  {
+    "syllable": "ntə'",
+    "ipa": "[ntʉʔ]",
+    "bas": "ntə̀'",
+    "moyen": "ntə̄'",
+    "montant": "ntə̌'",
+    "descendant": "ntə̂'"
+  },
+  {
+    "syllable": "ntɛ",
+    "ipa": "[ntɛ]",
+    "bas": "ntɛ̀",
+    "moyen": "ntɛ̄",
+    "montant": "ntɛ̌",
+    "descendant": "ntɛ̂"
+  },
+  {
+    "syllable": "ntɛd",
+    "ipa": "[ntɛt]",
+    "bas": "ntɛ̀d",
+    "moyen": "ntɛ̄d",
+    "montant": "ntɛ̌d",
+    "descendant": "ntɛ̂d"
+  },
+  {
+    "syllable": "ntɛl",
+    "ipa": "[ntɛl]",
+    "bas": "ntɛ̀l",
+    "moyen": "ntɛ̄l",
+    "montant": "ntɛ̌l",
+    "descendant": "ntɛ̂l"
+  },
+  {
+    "syllable": "ntɛn",
+    "ipa": "[ntɛn]",
+    "bas": "ntɛ̀n",
+    "moyen": "ntɛ̄n",
+    "montant": "ntɛ̌n",
+    "descendant": "ntɛ̂n"
+  },
+  {
+    "syllable": "ntiα",
+    "ipa": "[ntiɑ]",
+    "bas": "ntiὰ",
+    "moyen": "ntiᾱ",
+    "montant": "ntiα̌",
+    "descendant": "ntiα̂"
+  },
+  {
+    "syllable": "ntiαg",
+    "ipa": "[ntiɑk]",
+    "bas": "ntiὰg",
+    "moyen": "ntiᾱg",
+    "montant": "ntiα̌g",
+    "descendant": "ntiα̂g"
+  },
+  {
+    "syllable": "nto",
+    "ipa": "[ntu]",
+    "bas": "ntò",
+    "moyen": "ntō",
+    "montant": "ntǒ",
+    "descendant": "ntô"
+  },
+  {
+    "syllable": "ntob",
+    "ipa": "[ntub]",
+    "bas": "ntòb",
+    "moyen": "ntōb",
+    "montant": "ntǒb",
+    "descendant": "ntôb"
+  },
+  {
+    "syllable": "ntod",
+    "ipa": "[ntut]",
+    "bas": "ntòd",
+    "moyen": "ntōd",
+    "montant": "ntǒd",
+    "descendant": "ntôd"
+  },
+  {
+    "syllable": "ntog",
+    "ipa": "[ntɔk]",
+    "bas": "ntòg",
+    "moyen": "ntōg",
+    "montant": "ntǒg",
+    "descendant": "ntôg"
+  },
+  {
+    "syllable": "ntol",
+    "ipa": "[ntul]",
+    "bas": "ntòl",
+    "moyen": "ntōl",
+    "montant": "ntǒl",
+    "descendant": "ntôl"
+  },
+  {
+    "syllable": "ntom",
+    "ipa": "[ntum]",
+    "bas": "ntòm",
+    "moyen": "ntōm",
+    "montant": "ntǒm",
+    "descendant": "ntôm"
+  },
+  {
+    "syllable": "nton",
+    "ipa": "[ntun]",
+    "bas": "ntòn",
+    "moyen": "ntōn",
+    "montant": "ntǒn",
+    "descendant": "ntôn"
+  },
+  {
+    "syllable": "nto'",
+    "ipa": "[ntuʔ]",
+    "bas": "ntò'",
+    "moyen": "ntō'",
+    "montant": "ntǒ'",
+    "descendant": "ntô'"
+  },
+  {
+    "syllable": "ntɔ",
+    "ipa": "[nto]",
+    "bas": "ntɔ̀",
+    "moyen": "ntɔ̄",
+    "montant": "ntɔ̌",
+    "descendant": "ntɔ̂"
+  },
+  {
+    "syllable": "ntu",
+    "ipa": "[nthu]",
+    "bas": "ntù",
+    "moyen": "ntū",
+    "montant": "ntǔ",
+    "descendant": "ntû"
+  },
+  {
+    "syllable": "ntub",
+    "ipa": "[nthub]",
+    "bas": "ntùb",
+    "moyen": "ntūb",
+    "montant": "ntǔb",
+    "descendant": "ntûb"
+  },
+  {
+    "syllable": "ntud",
+    "ipa": "[nthut]",
+    "bas": "ntùd",
+    "moyen": "ntūd",
+    "montant": "ntǔd",
+    "descendant": "ntûd"
+  },
+  {
+    "syllable": "ntul",
+    "ipa": "[nthul]",
+    "bas": "ntùl",
+    "moyen": "ntūl",
+    "montant": "ntǔl",
+    "descendant": "ntûl"
+  },
+  {
+    "syllable": "ntum",
+    "ipa": "[nthum]",
+    "bas": "ntùm",
+    "moyen": "ntūm",
+    "montant": "ntǔm",
+    "descendant": "ntûm"
+  },
+  {
+    "syllable": "ntun",
+    "ipa": "[nthun]",
+    "bas": "ntùn",
+    "moyen": "ntūn",
+    "montant": "ntǔn",
+    "descendant": "ntûn"
+  },
+  {
+    "syllable": "ntu'",
+    "ipa": "[nthuʔ]",
+    "bas": "ntù'",
+    "moyen": "ntū'",
+    "montant": "ntǔ'",
+    "descendant": "ntû'"
+  },
+  {
+    "syllable": "ntʉ",
+    "ipa": "[nthʉ]",
+    "bas": "ntʉ̀",
+    "moyen": "ntʉ̄",
+    "montant": "ntʉ̌",
+    "descendant": "ntʉ̂"
+  },
+  {
+    "syllable": "ntʉn",
+    "ipa": "[nthʉn]",
+    "bas": "ntʉ̀n",
+    "moyen": "ntʉ̄n",
+    "montant": "ntʉ̌n",
+    "descendant": "ntʉ̂n"
+  },
+  {
+    "syllable": "ntʉ'",
+    "ipa": "[nthʉʔ]",
+    "bas": "ntʉ̀'",
+    "moyen": "ntʉ̄'",
+    "montant": "ntʉ̌'",
+    "descendant": "ntʉ̂'"
+  },
+  {
+    "syllable": "ntsə",
+    "ipa": "[ntsœ]",
+    "bas": "ntsə̀",
+    "moyen": "ntsə̄",
+    "montant": "ntsə̌",
+    "descendant": "ntsə̂"
+  },
+  {
+    "syllable": "ntsə'",
+    "ipa": "[ntsœʔ]",
+    "bas": "ntsə̀'",
+    "moyen": "ntsə̄'",
+    "montant": "ntsə̌'",
+    "descendant": "ntsə̂'"
+  },
+  {
+    "syllable": "ntsi",
+    "ipa": "[ntsi]",
+    "bas": "ntsì",
+    "moyen": "ntsī",
+    "montant": "ntsǐ",
+    "descendant": "ntsî"
+  },
+  {
+    "syllable": "ntsia",
+    "ipa": "[ntsia]",
+    "bas": "ntsià",
+    "moyen": "ntsiā",
+    "montant": "ntsiǎ",
+    "descendant": "ntsiâ"
+  },
+  {
+    "syllable": "ntsiaŋ",
+    "ipa": "[ntsiaŋ]",
+    "bas": "ntsiàŋ",
+    "moyen": "ntsiāŋ",
+    "montant": "ntsiǎŋ",
+    "descendant": "ntsiâŋ"
+  },
+  {
+    "syllable": "ntsiα",
+    "ipa": "[ntsiɑ]",
+    "bas": "ntsiὰ",
+    "moyen": "ntsiᾱ",
+    "montant": "ntsiα̌",
+    "descendant": "ntsiα̂"
+  },
+  {
+    "syllable": "ntsiαg",
+    "ipa": "[ntsiɑg]",
+    "bas": "ntsiὰg",
+    "moyen": "ntsiᾱg",
+    "montant": "ntsiα̌g",
+    "descendant": "ntsiα̂g"
+  },
+  {
+    "syllable": "ntswə",
+    "ipa": "[ntsuœ]",
+    "bas": "ntswə̀",
+    "moyen": "ntswə̄",
+    "montant": "ntswə̌",
+    "descendant": "ntswə̂"
+  },
+  {
+    "syllable": "ntswə'",
+    "ipa": "[ntsuœʔ]",
+    "bas": "ntswə̀'",
+    "moyen": "ntswə̄'",
+    "montant": "ntswə̌'",
+    "descendant": "ntswə̂'"
+  },
+  {
+    "syllable": "nu",
+    "ipa": "[nu]",
+    "bas": "nù",
+    "moyen": "nū",
+    "montant": "nǔ",
+    "descendant": "nû"
+  },
+  {
+    "syllable": "nud",
+    "ipa": "[nut]",
+    "bas": "nùd",
+    "moyen": "nūd",
+    "montant": "nǔd",
+    "descendant": "nûd"
+  },
+  {
+    "syllable": "nul",
+    "ipa": "[nul]",
+    "bas": "nùl",
+    "moyen": "nūl",
+    "montant": "nǔl",
+    "descendant": "nûl"
+  },
+  {
+    "syllable": "nu'",
+    "ipa": "[nuʔ]",
+    "bas": "nù'",
+    "moyen": "nū'",
+    "montant": "nǔ'",
+    "descendant": "nû'"
+  },
+  {
+    "syllable": "nʉ",
+    "ipa": "[nʉ]",
+    "bas": "nʉ̀",
+    "moyen": "nʉ̄",
+    "montant": "nʉ̌",
+    "descendant": "nʉ̂"
+  },
+  {
+    "syllable": "nʉn",
+    "ipa": "[nʉn]",
+    "bas": "nʉ̀n",
+    "moyen": "nʉ̄n",
+    "montant": "nʉ̌n",
+    "descendant": "nʉ̂n"
+  },
+  {
+    "syllable": "nʉ'",
+    "ipa": "[nʉʔ]",
+    "bas": "nʉ̀'",
+    "moyen": "nʉ̄'",
+    "montant": "nʉ̌'",
+    "descendant": "nʉ̂'"
+  },
+  {
+    "syllable": "nzə",
+    "ipa": "[nzhœ]",
+    "bas": "nzə̀",
+    "moyen": "nzə̄",
+    "montant": "nzə̌",
+    "descendant": "nzə̂"
+  },
+  {
+    "syllable": "nzə'",
+    "ipa": "[nzhœʔ]",
+    "bas": "nzə̀'",
+    "moyen": "nzə̄'",
+    "montant": "nzə̌'",
+    "descendant": "nzə̂'"
+  },
+  {
+    "syllable": "nzi",
+    "ipa": "[nzhi]",
+    "bas": "nzì",
+    "moyen": "nzī",
+    "montant": "nzǐ",
+    "descendant": "nzî"
+  },
+  {
+    "syllable": "nzia",
+    "ipa": "[nzhia]",
+    "bas": "nzià",
+    "moyen": "nziā",
+    "montant": "nziǎ",
+    "descendant": "nziâ"
+  },
+  {
+    "syllable": "nziag",
+    "ipa": "[nzhiak]",
+    "bas": "nziàg",
+    "moyen": "nziāg",
+    "montant": "nziǎg",
+    "descendant": "nziâg"
+  },
+  {
+    "syllable": "nzib",
+    "ipa": "[nzhib]",
+    "bas": "nzìb",
+    "moyen": "nzīb",
+    "montant": "nzǐb",
+    "descendant": "nzîb"
+  },
+  {
+    "syllable": "nzid",
+    "ipa": "[nzhit]",
+    "bas": "nzìd",
+    "moyen": "nzīd",
+    "montant": "nzǐd",
+    "descendant": "nzîd"
+  },
+  {
+    "syllable": "nzil",
+    "ipa": "[nzhil]",
+    "bas": "nzìl",
+    "moyen": "nzīl",
+    "montant": "nzǐl",
+    "descendant": "nzîl"
+  },
+  {
+    "syllable": "nzim",
+    "ipa": "[nzhim]",
+    "bas": "nzìm",
+    "moyen": "nzīm",
+    "montant": "nzǐm",
+    "descendant": "nzîm"
+  },
+  {
+    "syllable": "nzin",
+    "ipa": "[nzhin]",
+    "bas": "nzìn",
+    "moyen": "nzīn",
+    "montant": "nzǐn",
+    "descendant": "nzîn"
+  },
+  {
+    "syllable": "nzi'",
+    "ipa": "[nzhiʔ]",
+    "bas": "nzì'",
+    "moyen": "nzī'",
+    "montant": "nzǐ'",
+    "descendant": "nzî'"
+  },
+  {
+    "syllable": "nzwə",
+    "ipa": "[nzhuœ]",
+    "bas": "nzwə̀",
+    "moyen": "nzwə̄",
+    "montant": "nzwə̌",
+    "descendant": "nzwə̂"
+  },
+  {
+    "syllable": "nzwə'",
+    "ipa": "[nzhuœʔ]",
+    "bas": "nzwə̀'",
+    "moyen": "nzwə̄'",
+    "montant": "nzwə̌'",
+    "descendant": "nzwə̂'"
+  },
+  {
+    "syllable": "nzwi",
+    "ipa": "[nzhɥi]",
+    "bas": "nzwì",
+    "moyen": "nzwī",
+    "montant": "nzwǐ",
+    "descendant": "nzwî"
+  },
+  {
+    "syllable": "nzwiaŋ",
+    "ipa": "[nzhɥiaŋ]",
+    "bas": "nzwiàŋ",
+    "moyen": "nzwiāŋ",
+    "montant": "nzwiǎŋ",
+    "descendant": "nzwiâŋ"
+  },
+  {
+    "syllable": "nzwiaŋ",
+    "ipa": "[nzhɥiaŋ]",
+    "bas": "nzwiàŋ",
+    "moyen": "nzwiāŋ",
+    "montant": "nzwiǎŋ",
+    "descendant": "nzwiâŋ"
+  },
+  {
+    "syllable": "nzwiα",
+    "ipa": "[nzhɥiɑ]",
+    "bas": "nzwiὰ",
+    "moyen": "nzwiᾱ",
+    "montant": "nzwiα̌",
+    "descendant": "nzwiα̂"
+  },
+  {
+    "syllable": "nzwiαg",
+    "ipa": "[nzhɥiɑk]",
+    "bas": "nzwiὰg",
+    "moyen": "nzwiᾱg",
+    "montant": "nzwiα̌g",
+    "descendant": "nzwiα̂g"
+  },
+  {
+    "syllable": "nzwid",
+    "ipa": "[nzhɥit]",
+    "bas": "nzwìd",
+    "moyen": "nzwīd",
+    "montant": "nzwǐd",
+    "descendant": "nzwîd"
+  },
+  {
+    "syllable": "nzwil",
+    "ipa": "[nzhɥil]",
+    "bas": "nzwìl",
+    "moyen": "nzwīl",
+    "montant": "nzwǐl",
+    "descendant": "nzwîl"
+  },
+  {
+    "syllable": "nzwim",
+    "ipa": "[nzhɥi]",
+    "bas": "nzwìm",
+    "moyen": "nzwīm",
+    "montant": "nzwǐm",
+    "descendant": "nzwîm"
+  },
+  {
+    "syllable": "nzwi'",
+    "ipa": "[nzhɥiʔ]",
+    "bas": "nzwì'",
+    "moyen": "nzwī'",
+    "montant": "nzwǐ'",
+    "descendant": "nzwî'"
+  },
+  {
+    "syllable": "ŋa",
+    "ipa": "[ŋa]",
+    "bas": "ŋà",
+    "moyen": "ŋā",
+    "montant": "ŋǎ",
+    "descendant": "ŋâ"
+  },
+  {
+    "syllable": "ŋad",
+    "ipa": "[ŋad]",
+    "bas": "ŋàd",
+    "moyen": "ŋād",
+    "montant": "ŋǎd",
+    "descendant": "ŋâd"
+  },
+  {
+    "syllable": "ŋag",
+    "ipa": "[ŋak]",
+    "bas": "ŋàg",
+    "moyen": "ŋāg",
+    "montant": "ŋǎg",
+    "descendant": "ŋâg"
+  },
+  {
+    "syllable": "ŋal",
+    "ipa": "[ŋal]",
+    "bas": "ŋàl",
+    "moyen": "ŋāl",
+    "montant": "ŋǎl",
+    "descendant": "ŋâl"
+  },
+  {
+    "syllable": "ŋam",
+    "ipa": "[ŋam]",
+    "bas": "ŋàm",
+    "moyen": "ŋām",
+    "montant": "ŋǎm",
+    "descendant": "ŋâm"
+  },
+  {
+    "syllable": "ŋa'",
+    "ipa": "[ŋaʔ]",
+    "bas": "ŋà'",
+    "moyen": "ŋā'",
+    "montant": "ŋǎ'",
+    "descendant": "ŋâ'"
+  },
+  {
+    "syllable": "ŋα",
+    "ipa": "[ŋɑ]",
+    "bas": "ŋὰ",
+    "moyen": "ŋᾱ",
+    "montant": "ŋα̌",
+    "descendant": "ŋα̂"
+  },
+  {
+    "syllable": "ŋαb",
+    "ipa": "[ŋɑb]",
+    "bas": "ŋὰb",
+    "moyen": "ŋᾱb",
+    "montant": "ŋα̌b",
+    "descendant": "ŋα̂b"
+  },
+  {
+    "syllable": "ŋə",
+    "ipa": "[ŋœ]",
+    "bas": "ŋə̀",
+    "moyen": "ŋə̄",
+    "montant": "ŋə̌",
+    "descendant": "ŋə̂"
+  },
+  {
+    "syllable": "ŋu",
+    "ipa": "[ŋu]",
+    "bas": "ŋù",
+    "moyen": "ŋū",
+    "montant": "ŋǔ",
+    "descendant": "ŋû"
+  },
+  {
+    "syllable": "ŋu'",
+    "ipa": "[ŋuʔ]",
+    "bas": "ŋù'",
+    "moyen": "ŋū'",
+    "montant": "ŋǔ'",
+    "descendant": "ŋû'"
+  },
+  {
+    "syllable": "ŋʉ",
+    "ipa": "[ŋʉ]",
+    "bas": "ŋʉ̀",
+    "moyen": "ŋʉ̄",
+    "montant": "ŋʉ̌",
+    "descendant": "ŋʉ̂"
+  },
+  {
+    "syllable": "ŋwa",
+    "ipa": "[ŋua]",
+    "bas": "ŋwà",
+    "moyen": "ŋwā",
+    "montant": "ŋwǎ",
+    "descendant": "ŋwâ"
+  },
+  {
+    "syllable": "ŋwad",
+    "ipa": "[ŋuat]",
+    "bas": "ŋwàd",
+    "moyen": "ŋwād",
+    "montant": "ŋwǎd",
+    "descendant": "ŋwâd"
+  },
+  {
+    "syllable": "ŋwag",
+    "ipa": "[ŋuak]",
+    "bas": "ŋwàg",
+    "moyen": "ŋwāg",
+    "montant": "ŋwǎg",
+    "descendant": "ŋwâg"
+  },
+  {
+    "syllable": "ŋwal",
+    "ipa": "[ŋual]",
+    "bas": "ŋwàl",
+    "moyen": "ŋwāl",
+    "montant": "ŋwǎl",
+    "descendant": "ŋwâl"
+  },
+  {
+    "syllable": "ŋwaŋ",
+    "ipa": "[ŋuaŋ]",
+    "bas": "ŋwàŋ",
+    "moyen": "ŋwāŋ",
+    "montant": "ŋwǎŋ",
+    "descendant": "ŋwâŋ"
+  },
+  {
+    "syllable": "ŋwa'",
+    "ipa": "[ŋuaʔ]",
+    "bas": "ŋwà'",
+    "moyen": "ŋwā'",
+    "montant": "ŋwǎ'",
+    "descendant": "ŋwâ'"
+  },
+  {
+    "syllable": "ŋwα",
+    "ipa": "[ŋuɑ]",
+    "bas": "ŋwὰ",
+    "moyen": "ŋwᾱ",
+    "montant": "ŋwα̌",
+    "descendant": "ŋwα̂"
+  },
+  {
+    "syllable": "ŋwi",
+    "ipa": "[ŋɥi]",
+    "bas": "ŋwì",
+    "moyen": "ŋwī",
+    "montant": "ŋwǐ",
+    "descendant": "ŋwî"
+  },
+  {
+    "syllable": "ŋwid",
+    "ipa": "[ŋɥit]",
+    "bas": "ŋwìd",
+    "moyen": "ŋwīd",
+    "montant": "ŋwǐd",
+    "descendant": "ŋwîd"
+  },
+  {
+    "syllable": "ŋwil",
+    "ipa": "[ŋɥil]",
+    "bas": "ŋwìl",
+    "moyen": "ŋwīl",
+    "montant": "ŋwǐl",
+    "descendant": "ŋwîl"
+  },
+  {
+    "syllable": "ŋwin",
+    "ipa": "[ŋɥin]",
+    "bas": "ŋwìn",
+    "moyen": "ŋwīn",
+    "montant": "ŋwǐn",
+    "descendant": "ŋwîn"
+  },
+  {
+    "syllable": "ŋwʉ",
+    "ipa": "[ŋuʉ]",
+    "bas": "ŋwʉ̀",
+    "moyen": "ŋwʉ̄",
+    "montant": "ŋwʉ̌",
+    "descendant": "ŋwʉ̂"
+  },
+  {
+    "syllable": "o",
+    "ipa": "[u]",
+    "bas": "ò",
+    "moyen": "ō",
+    "montant": "ǒ",
+    "descendant": "ô"
+  },
+  {
+    "syllable": "ɔ",
+    "ipa": "[o]",
+    "bas": "ɔ̀",
+    "moyen": "ɔ̄",
+    "montant": "ɔ̌",
+    "descendant": "ɔ̂"
+  },
+  {
+    "syllable": "ɔ'",
+    "ipa": "[oʔ]",
+    "bas": "ɔ̀'",
+    "moyen": "ɔ̄'",
+    "montant": "ɔ̌'",
+    "descendant": "ɔ̂'"
+  },
+  {
+    "syllable": "sa",
+    "ipa": "[sa]",
+    "bas": "sà",
+    "moyen": "sā",
+    "montant": "sǎ",
+    "descendant": "sâ"
+  },
+  {
+    "syllable": "sab",
+    "ipa": "[sab]",
+    "bas": "sàb",
+    "moyen": "sāb",
+    "montant": "sǎb",
+    "descendant": "sâb"
+  },
+  {
+    "syllable": "sad",
+    "ipa": "[sat]",
+    "bas": "sàd",
+    "moyen": "sād",
+    "montant": "sǎd",
+    "descendant": "sâd"
+  },
+  {
+    "syllable": "sag",
+    "ipa": "[sak]",
+    "bas": "sàg",
+    "moyen": "sāg",
+    "montant": "sǎg",
+    "descendant": "sâg"
+  },
+  {
+    "syllable": "sal",
+    "ipa": "[sal]",
+    "bas": "sàl",
+    "moyen": "sāl",
+    "montant": "sǎl",
+    "descendant": "sâl"
+  },
+  {
+    "syllable": "sam",
+    "ipa": "[sam]",
+    "bas": "sàm",
+    "moyen": "sām",
+    "montant": "sǎm",
+    "descendant": "sâm"
+  },
+  {
+    "syllable": "saŋ",
+    "ipa": "[saŋ]",
+    "bas": "sàŋ",
+    "moyen": "sāŋ",
+    "montant": "sǎŋ",
+    "descendant": "sâŋ"
+  },
+  {
+    "syllable": "sa'",
+    "ipa": "[saʔ]",
+    "bas": "sà'",
+    "moyen": "sā'",
+    "montant": "sǎ'",
+    "descendant": "sâ'"
+  },
+  {
+    "syllable": "sα",
+    "ipa": "[sɑ]",
+    "bas": "sὰ",
+    "moyen": "sᾱ",
+    "montant": "sα̌",
+    "descendant": "sα̂"
+  },
+  {
+    "syllable": "sαb",
+    "ipa": "[sɑb]",
+    "bas": "sὰb",
+    "moyen": "sᾱb",
+    "montant": "sα̌b",
+    "descendant": "sα̂b"
+  },
+  {
+    "syllable": "sαg",
+    "ipa": "[sɑk]",
+    "bas": "sὰg",
+    "moyen": "sᾱg",
+    "montant": "sα̌g",
+    "descendant": "sα̂g"
+  },
+  {
+    "syllable": "sαm",
+    "ipa": "[sɑm], [sɔm]",
+    "bas": "sὰm",
+    "moyen": "sᾱm",
+    "montant": "sα̌m",
+    "descendant": "sα̂m"
+  },
+  {
+    "syllable": "sαn",
+    "ipa": "[sɑn]",
+    "bas": "sὰn",
+    "moyen": "sᾱn",
+    "montant": "sα̌n",
+    "descendant": "sα̂n"
+  },
+  {
+    "syllable": "sə",
+    "ipa": "[shœ], [sʉ]",
+    "bas": "sə̀",
+    "moyen": "sə̄",
+    "montant": "sə̌",
+    "descendant": "sə̂"
+  },
+  {
+    "syllable": "səb",
+    "ipa": "[sʉb]",
+    "bas": "sə̀b",
+    "moyen": "sə̄b",
+    "montant": "sə̌b",
+    "descendant": "sə̂b"
+  },
+  {
+    "syllable": "səd",
+    "ipa": "[sʉt]",
+    "bas": "sə̀d",
+    "moyen": "sə̄d",
+    "montant": "sə̌d",
+    "descendant": "sə̂d"
+  },
+  {
+    "syllable": "səl",
+    "ipa": "[sʉl]",
+    "bas": "sə̀l",
+    "moyen": "sə̄l",
+    "montant": "sə̌l",
+    "descendant": "sə̂l"
+  },
+  {
+    "syllable": "səm",
+    "ipa": "[sʉm]",
+    "bas": "sə̀m",
+    "moyen": "sə̄m",
+    "montant": "sə̌m",
+    "descendant": "sə̂m"
+  },
+  {
+    "syllable": "sən",
+    "ipa": "[sʉn]",
+    "bas": "sə̀n",
+    "moyen": "sə̄n",
+    "montant": "sə̌n",
+    "descendant": "sə̂n"
+  },
+  {
+    "syllable": "sə'",
+    "ipa": "[shœʔ], [sʉʔ]",
+    "bas": "sə̀'",
+    "moyen": "sə̄'",
+    "montant": "sə̌'",
+    "descendant": "sə̂'"
+  },
+  {
+    "syllable": "se",
+    "ipa": "[si]",
+    "bas": "sè",
+    "moyen": "sē",
+    "montant": "sě",
+    "descendant": "sê"
+  },
+  {
+    "syllable": "seb",
+    "ipa": "[sib]",
+    "bas": "sèb",
+    "moyen": "sēb",
+    "montant": "sěb",
+    "descendant": "sêb"
+  },
+  {
+    "syllable": "sem",
+    "ipa": "[sim]",
+    "bas": "sèm",
+    "moyen": "sēm",
+    "montant": "sěm",
+    "descendant": "sêm"
+  },
+  {
+    "syllable": "se'",
+    "ipa": "[siʔ]",
+    "bas": "sè'",
+    "moyen": "sē'",
+    "montant": "sě'",
+    "descendant": "sê'"
+  },
+  {
+    "syllable": "sɛ",
+    "ipa": "[sɛ]",
+    "bas": "sɛ̀",
+    "moyen": "sɛ̄",
+    "montant": "sɛ̌",
+    "descendant": "sɛ̂"
+  },
+  {
+    "syllable": "sɛn",
+    "ipa": "[sɛn]",
+    "bas": "sɛ̀n",
+    "moyen": "sɛ̄n",
+    "montant": "sɛ̌n",
+    "descendant": "sɛ̂n"
+  },
+  {
+    "syllable": "si",
+    "ipa": "[shi]",
+    "bas": "sì",
+    "moyen": "sī",
+    "montant": "sǐ",
+    "descendant": "sî"
+  },
+  {
+    "syllable": "sia",
+    "ipa": "[shia]",
+    "bas": "sià",
+    "moyen": "siā",
+    "montant": "siǎ",
+    "descendant": "siâ"
+  },
+  {
+    "syllable": "siaŋ",
+    "ipa": "[shiaŋ]",
+    "bas": "siàŋ",
+    "moyen": "siāŋ",
+    "montant": "siǎŋ",
+    "descendant": "siâŋ"
+  },
+  {
+    "syllable": "siα",
+    "ipa": "[shiɑ]",
+    "bas": "siὰ",
+    "moyen": "siᾱ",
+    "montant": "siα̌",
+    "descendant": "siα̂"
+  },
+  {
+    "syllable": "siαg",
+    "ipa": "[shiɑk]",
+    "bas": "siὰg",
+    "moyen": "siᾱg",
+    "montant": "siα̌g",
+    "descendant": "siα̂g"
+  },
+  {
+    "syllable": "so",
+    "ipa": "[su]",
+    "bas": "sò",
+    "moyen": "sō",
+    "montant": "sǒ",
+    "descendant": "sô"
+  },
+  {
+    "syllable": "sob",
+    "ipa": "[sub]",
+    "bas": "sòb",
+    "moyen": "sōb",
+    "montant": "sǒb",
+    "descendant": "sôb"
+  },
+  {
+    "syllable": "sog",
+    "ipa": "[shɔk]",
+    "bas": "sòg",
+    "moyen": "sōg",
+    "montant": "sǒg",
+    "descendant": "sôg"
+  },
+  {
+    "syllable": "soŋ",
+    "ipa": "[shɔŋ]",
+    "bas": "sòŋ",
+    "moyen": "sōŋ",
+    "montant": "sǒŋ",
+    "descendant": "sôŋ"
+  },
+  {
+    "syllable": "sɔ",
+    "ipa": "[so]",
+    "bas": "sɔ̀",
+    "moyen": "sɔ̄",
+    "montant": "sɔ̌",
+    "descendant": "sɔ̂"
+  },
+  {
+    "syllable": "su",
+    "ipa": "[su]",
+    "bas": "sù",
+    "moyen": "sū",
+    "montant": "sǔ",
+    "descendant": "sû"
+  },
+  {
+    "syllable": "sub",
+    "ipa": "[sub]",
+    "bas": "sùb",
+    "moyen": "sūb",
+    "montant": "sǔb",
+    "descendant": "sûb"
+  },
+  {
+    "syllable": "shu",
+    "ipa": "[ʃu]",
+    "bas": "shù",
+    "moyen": "shū",
+    "montant": "shǔ",
+    "descendant": "shû"
+  },
+  {
+    "syllable": "shud",
+    "ipa": "[ʃut]",
+    "bas": "shùd",
+    "moyen": "shūd",
+    "montant": "shǔd",
+    "descendant": "shûd"
+  },
+  {
+    "syllable": "shu'",
+    "ipa": "[ʃuʔ]",
+    "bas": "shù'",
+    "moyen": "shū'",
+    "montant": "shǔ'",
+    "descendant": "shû'"
+  },
+  {
+    "syllable": "shʉ",
+    "ipa": "[ʃʉ]",
+    "bas": "shʉ̀",
+    "moyen": "shʉ̄",
+    "montant": "shʉ̌",
+    "descendant": "shʉ̂"
+  },
+  {
+    "syllable": "shʉ'",
+    "ipa": "[ʃʉʔ]",
+    "bas": "shʉ̀'",
+    "moyen": "shʉ̄'",
+    "montant": "shʉ̌'",
+    "descendant": "shʉ̂'"
+  },
+  {
+    "syllable": "swa",
+    "ipa": "[sua]",
+    "bas": "swà",
+    "moyen": "swā",
+    "montant": "swǎ",
+    "descendant": "swâ"
+  },
+  {
+    "syllable": "swad",
+    "ipa": "[suat]",
+    "bas": "swàd",
+    "moyen": "swād",
+    "montant": "swǎd",
+    "descendant": "swâd"
+  },
+  {
+    "syllable": "swal",
+    "ipa": "[sual]",
+    "bas": "swàl",
+    "moyen": "swāl",
+    "montant": "swǎl",
+    "descendant": "swâl"
+  },
+  {
+    "syllable": "swə",
+    "ipa": "[shuœ]",
+    "bas": "swə̀",
+    "moyen": "swə̄",
+    "montant": "swə̌",
+    "descendant": "swə̂"
+  },
+  {
+    "syllable": "swə’",
+    "ipa": "[shuœʔ]",
+    "bas": "swə̀’",
+    "moyen": "swə̄’",
+    "montant": "swə̌’",
+    "descendant": "swə̂’"
+  },
+  {
+    "syllable": "swɛ",
+    "ipa": "[suɛ]",
+    "bas": "swɛ̀",
+    "moyen": "swɛ̄",
+    "montant": "swɛ̌",
+    "descendant": "swɛ̂"
+  },
+  {
+    "syllable": "swɛd",
+    "ipa": "[suɛt]",
+    "bas": "swɛ̀d",
+    "moyen": "swɛ̄d",
+    "montant": "swɛ̌d",
+    "descendant": "swɛ̂d"
+  },
+  {
+    "syllable": "swɛl",
+    "ipa": "[suɛl]",
+    "bas": "swɛ̀l",
+    "moyen": "swɛ̄l",
+    "montant": "swɛ̌l",
+    "descendant": "swɛ̂l"
+  },
+  {
+    "syllable": "swɛn",
+    "ipa": "[suɛn]",
+    "bas": "swɛ̀n",
+    "moyen": "swɛ̄n",
+    "montant": "swɛ̌n",
+    "descendant": "swɛ̂n"
+  },
+  {
+    "syllable": "ta",
+    "ipa": "[ta]",
+    "bas": "tà",
+    "moyen": "tā",
+    "montant": "tǎ",
+    "descendant": "tâ"
+  },
+  {
+    "syllable": "tab",
+    "ipa": "[tab]",
+    "bas": "tàb",
+    "moyen": "tāb",
+    "montant": "tǎb",
+    "descendant": "tâb"
+  },
+  {
+    "syllable": "tad",
+    "ipa": "[tat]",
+    "bas": "tàd",
+    "moyen": "tād",
+    "montant": "tǎd",
+    "descendant": "tâd"
+  },
+  {
+    "syllable": "tag",
+    "ipa": "[tak]",
+    "bas": "tàg",
+    "moyen": "tāg",
+    "montant": "tǎg",
+    "descendant": "tâg"
+  },
+  {
+    "syllable": "tal",
+    "ipa": "[tal]",
+    "bas": "tàl",
+    "moyen": "tāl",
+    "montant": "tǎl",
+    "descendant": "tâl"
+  },
+  {
+    "syllable": "tam",
+    "ipa": "[tam]",
+    "bas": "tàm",
+    "moyen": "tām",
+    "montant": "tǎm",
+    "descendant": "tâm"
+  },
+  {
+    "syllable": "taŋ",
+    "ipa": "[taŋ]",
+    "bas": "tàŋ",
+    "moyen": "tāŋ",
+    "montant": "tǎŋ",
+    "descendant": "tâŋ"
+  },
+  {
+    "syllable": "ta'",
+    "ipa": "[taʔ]",
+    "bas": "tà'",
+    "moyen": "tā'",
+    "montant": "tǎ'",
+    "descendant": "tâ'"
+  },
+  {
+    "syllable": "tα",
+    "ipa": "[tɑ]",
+    "bas": "tὰ",
+    "moyen": "tᾱ",
+    "montant": "tα̌",
+    "descendant": "tα̂"
+  },
+  {
+    "syllable": "tαb",
+    "ipa": "[tɑb]",
+    "bas": "tὰb",
+    "moyen": "tᾱb",
+    "montant": "tα̌b",
+    "descendant": "tα̂b"
+  },
+  {
+    "syllable": "tαg",
+    "ipa": "[tɑk]",
+    "bas": "tὰg",
+    "moyen": "tᾱg",
+    "montant": "tα̌g",
+    "descendant": "tα̂g"
+  },
+  {
+    "syllable": "tαm",
+    "ipa": "[tɑm]",
+    "bas": "tὰm",
+    "moyen": "tᾱm",
+    "montant": "tα̌m",
+    "descendant": "tα̂m"
+  },
+  {
+    "syllable": "tαn",
+    "ipa": "[tɑn]",
+    "bas": "tὰn",
+    "moyen": "tᾱn",
+    "montant": "tα̌n",
+    "descendant": "tα̂n"
+  },
+  {
+    "syllable": "tə",
+    "ipa": "[tœ], [tʉ]",
+    "bas": "tə̀",
+    "moyen": "tə̄",
+    "montant": "tə̌",
+    "descendant": "tə̂"
+  },
+  {
+    "syllable": "təm",
+    "ipa": "[tʉm]",
+    "bas": "tə̀m",
+    "moyen": "tə̄m",
+    "montant": "tə̌m",
+    "descendant": "tə̂m"
+  },
+  {
+    "syllable": "tən",
+    "ipa": "[tʉn]",
+    "bas": "tə̀n",
+    "moyen": "tə̄n",
+    "montant": "tə̌n",
+    "descendant": "tə̂n"
+  },
+  {
+    "syllable": "tə'",
+    "ipa": "[tʉʔ]",
+    "bas": "tə̀'",
+    "moyen": "tə̄'",
+    "montant": "tə̌'",
+    "descendant": "tə̂'"
+  },
+  {
+    "syllable": "te",
+    "ipa": "[ti]",
+    "bas": "tè",
+    "moyen": "tē",
+    "montant": "tě",
+    "descendant": "tê"
+  },
+  {
+    "syllable": "teb",
+    "ipa": "[tib]",
+    "bas": "tèb",
+    "moyen": "tēb",
+    "montant": "těb",
+    "descendant": "têb"
+  },
+  {
+    "syllable": "tɛ",
+    "ipa": "[tɛ]",
+    "bas": "tɛ̀",
+    "moyen": "tɛ̄",
+    "montant": "tɛ̌",
+    "descendant": "tɛ̂"
+  },
+  {
+    "syllable": "tɛd",
+    "ipa": "[tɛt]",
+    "bas": "tɛ̀d",
+    "moyen": "tɛ̄d",
+    "montant": "tɛ̌d",
+    "descendant": "tɛ̂d"
+  },
+  {
+    "syllable": "tɛl",
+    "ipa": "[tɛl]",
+    "bas": "tɛ̀l",
+    "moyen": "tɛ̄l",
+    "montant": "tɛ̌l",
+    "descendant": "tɛ̂l"
+  },
+  {
+    "syllable": "tɛn",
+    "ipa": "[tɛn]",
+    "bas": "tɛ̀n",
+    "moyen": "tɛ̄n",
+    "montant": "tɛ̌n",
+    "descendant": "tɛ̂n"
+  },
+  {
+    "syllable": "ti",
+    "ipa": "[tsi]",
+    "bas": "tì",
+    "moyen": "tī",
+    "montant": "tǐ",
+    "descendant": "tî"
+  },
+  {
+    "syllable": "tiα",
+    "ipa": "[thiɑ]",
+    "bas": "tiὰ",
+    "moyen": "tiᾱ",
+    "montant": "tiα̌",
+    "descendant": "tiα̂"
+  },
+  {
+    "syllable": "tiαg",
+    "ipa": "[thiɑk]",
+    "bas": "tiὰg",
+    "moyen": "tiᾱg",
+    "montant": "tiα̌g",
+    "descendant": "tiα̂g"
+  },
+  {
+    "syllable": "to",
+    "ipa": "[tu]",
+    "bas": "tò",
+    "moyen": "tō",
+    "montant": "tǒ",
+    "descendant": "tô"
+  },
+  {
+    "syllable": "tob",
+    "ipa": "[tub]",
+    "bas": "tòb",
+    "moyen": "tōb",
+    "montant": "tǒb",
+    "descendant": "tôb"
+  },
+  {
+    "syllable": "tod",
+    "ipa": "[tut]",
+    "bas": "tòd",
+    "moyen": "tōd",
+    "montant": "tǒd",
+    "descendant": "tôd"
+  },
+  {
+    "syllable": "tog",
+    "ipa": "[tɔk]",
+    "bas": "tòg",
+    "moyen": "tōg",
+    "montant": "tǒg",
+    "descendant": "tôg"
+  },
+  {
+    "syllable": "tol",
+    "ipa": "[tul]",
+    "bas": "tòl",
+    "moyen": "tōl",
+    "montant": "tǒl",
+    "descendant": "tôl"
+  },
+  {
+    "syllable": "tom",
+    "ipa": "[tum]",
+    "bas": "tòm",
+    "moyen": "tōm",
+    "montant": "tǒm",
+    "descendant": "tôm"
+  },
+  {
+    "syllable": "ton",
+    "ipa": "[tun]",
+    "bas": "tòn",
+    "moyen": "tōn",
+    "montant": "tǒn",
+    "descendant": "tôn"
+  },
+  {
+    "syllable": "toŋ",
+    "ipa": "[tɔŋ]",
+    "bas": "tòŋ",
+    "moyen": "tōŋ",
+    "montant": "tǒŋ",
+    "descendant": "tôŋ"
+  },
+  {
+    "syllable": "to'",
+    "ipa": "[tuʔ]",
+    "bas": "tò'",
+    "moyen": "tō'",
+    "montant": "tǒ'",
+    "descendant": "tô'"
+  },
+  {
+    "syllable": "tɔ",
+    "ipa": "[to]",
+    "bas": "tɔ̀",
+    "moyen": "tɔ̄",
+    "montant": "tɔ̌",
+    "descendant": "tɔ̂"
+  },
+  {
+    "syllable": "tu",
+    "ipa": "[thu]",
+    "bas": "tù",
+    "moyen": "tū",
+    "montant": "tǔ",
+    "descendant": "tû"
+  },
+  {
+    "syllable": "tub",
+    "ipa": "[thub]",
+    "bas": "tùb",
+    "moyen": "tūb",
+    "montant": "tǔb",
+    "descendant": "tûb"
+  },
+  {
+    "syllable": "tud",
+    "ipa": "[thut]",
+    "bas": "tùd",
+    "moyen": "tūd",
+    "montant": "tǔd",
+    "descendant": "tûd"
+  },
+  {
+    "syllable": "tul",
+    "ipa": "[thul]",
+    "bas": "tùl",
+    "moyen": "tūl",
+    "montant": "tǔl",
+    "descendant": "tûl"
+  },
+  {
+    "syllable": "tum",
+    "ipa": "[thum]",
+    "bas": "tùm",
+    "moyen": "tūm",
+    "montant": "tǔm",
+    "descendant": "tûm"
+  },
+  {
+    "syllable": "tun",
+    "ipa": "[thun]",
+    "bas": "tùn",
+    "moyen": "tūn",
+    "montant": "tǔn",
+    "descendant": "tûn"
+  },
+  {
+    "syllable": "tu'",
+    "ipa": "[thuʔ]",
+    "bas": "tù'",
+    "moyen": "tū'",
+    "montant": "tǔ'",
+    "descendant": "tû'"
+  },
+  {
+    "syllable": "tʉ",
+    "ipa": "[thʉ]",
+    "bas": "tʉ̀",
+    "moyen": "tʉ̄",
+    "montant": "tʉ̌",
+    "descendant": "tʉ̂"
+  },
+  {
+    "syllable": "tʉn",
+    "ipa": "[thʉn]",
+    "bas": "tʉ̀n",
+    "moyen": "tʉ̄n",
+    "montant": "tʉ̌n",
+    "descendant": "tʉ̂n"
+  },
+  {
+    "syllable": "tʉ'",
+    "ipa": "[thʉʔ]",
+    "bas": "tʉ̀'",
+    "moyen": "tʉ̄'",
+    "montant": "tʉ̌'",
+    "descendant": "tʉ̂'"
+  },
+  {
+    "syllable": "tsə",
+    "ipa": "[tsœ]",
+    "bas": "tsə̀",
+    "moyen": "tsə̄",
+    "montant": "tsə̌",
+    "descendant": "tsə̂"
+  },
+  {
+    "syllable": "tsə'",
+    "ipa": "[tsœʔ]",
+    "bas": "tsə̀'",
+    "moyen": "tsə̄'",
+    "montant": "tsə̌'",
+    "descendant": "tsə̂'"
+  },
+  {
+    "syllable": "tsi",
+    "ipa": "[tsi]",
+    "bas": "tsì",
+    "moyen": "tsī",
+    "montant": "tsǐ",
+    "descendant": "tsî"
+  },
+  {
+    "syllable": "tsia",
+    "ipa": "[tsia]",
+    "bas": "tsià",
+    "moyen": "tsiā",
+    "montant": "tsiǎ",
+    "descendant": "tsiâ"
+  },
+  {
+    "syllable": "tsiaŋ",
+    "ipa": "[tsiaŋ]",
+    "bas": "tsiàŋ",
+    "moyen": "tsiāŋ",
+    "montant": "tsiǎŋ",
+    "descendant": "tsiâŋ"
+  },
+  {
+    "syllable": "tsiα",
+    "ipa": "[tsiɑ]",
+    "bas": "tsiὰ",
+    "moyen": "tsiᾱ",
+    "montant": "tsiα̌",
+    "descendant": "tsiα̂"
+  },
+  {
+    "syllable": "tsiαg",
+    "ipa": "[tsiɑg]",
+    "bas": "tsiὰg",
+    "moyen": "tsiᾱg",
+    "montant": "tsiα̌g",
+    "descendant": "tsiα̂g"
+  },
+  {
+    "syllable": "tsid",
+    "ipa": "[tsit]",
+    "bas": "tsìd",
+    "moyen": "tsīd",
+    "montant": "tsǐd",
+    "descendant": "tsîd"
+  },
+  {
+    "syllable": "tsil",
+    "ipa": "[tsil]",
+    "bas": "tsìl",
+    "moyen": "tsīl",
+    "montant": "tsǐl",
+    "descendant": "tsîl"
+  },
+  {
+    "syllable": "tsin",
+    "ipa": "[tsin]",
+    "bas": "tsìn",
+    "moyen": "tsīn",
+    "montant": "tsǐn",
+    "descendant": "tsîn"
+  },
+  {
+    "syllable": "tsi'",
+    "ipa": "[tsiʔ]",
+    "bas": "tsì'",
+    "moyen": "tsī'",
+    "montant": "tsǐ'",
+    "descendant": "tsî'"
+  },
+  {
+    "syllable": "tswə",
+    "ipa": "[tsuœ]",
+    "bas": "tswə̀",
+    "moyen": "tswə̄",
+    "montant": "tswə̌",
+    "descendant": "tswə̂"
+  },
+  {
+    "syllable": "u",
+    "ipa": "[u]",
+    "bas": "ù",
+    "moyen": "ū",
+    "montant": "ǔ",
+    "descendant": "û"
+  },
+  {
+    "syllable": "və",
+    "ipa": "[vhœ]",
+    "bas": "və̀",
+    "moyen": "və̄",
+    "montant": "və̌",
+    "descendant": "və̂"
+  },
+  {
+    "syllable": "vɛ",
+    "ipa": "[vɛ]",
+    "bas": "vɛ̀",
+    "moyen": "vɛ̄",
+    "montant": "vɛ̌",
+    "descendant": "vɛ̂"
+  },
+  {
+    "syllable": "vɛn",
+    "ipa": "[vɛn]",
+    "bas": "vɛ̀n",
+    "moyen": "vɛ̄n",
+    "montant": "vɛ̌n",
+    "descendant": "vɛ̂n"
+  },
+  {
+    "syllable": "vib",
+    "ipa": "[vib]",
+    "bas": "vìb",
+    "moyen": "vīb",
+    "montant": "vǐb",
+    "descendant": "vîb"
+  },
+  {
+    "syllable": "vog",
+    "ipa": "[vhɔk]",
+    "bas": "vòg",
+    "moyen": "vōg",
+    "montant": "vǒg",
+    "descendant": "vôg"
+  },
+  {
+    "syllable": "vʉ",
+    "ipa": "[vhʉ]",
+    "bas": "vʉ̀",
+    "moyen": "vʉ̄",
+    "montant": "vʉ̌",
+    "descendant": "vʉ̂"
+  },
+  {
+    "syllable": "wa",
+    "ipa": "[wa]",
+    "bas": "wà",
+    "moyen": "wā",
+    "montant": "wǎ",
+    "descendant": "wâ"
+  },
+  {
+    "syllable": "wad",
+    "ipa": "[wat]",
+    "bas": "wàd",
+    "moyen": "wād",
+    "montant": "wǎd",
+    "descendant": "wâd"
+  },
+  {
+    "syllable": "wag",
+    "ipa": "[wak]",
+    "bas": "wàg",
+    "moyen": "wāg",
+    "montant": "wǎg",
+    "descendant": "wâg"
+  },
+  {
+    "syllable": "wal",
+    "ipa": "[wal]",
+    "bas": "wàl",
+    "moyen": "wāl",
+    "montant": "wǎl",
+    "descendant": "wâl"
+  },
+  {
+    "syllable": "waŋ",
+    "ipa": "[waŋ]",
+    "bas": "wàŋ",
+    "moyen": "wāŋ",
+    "montant": "wǎŋ",
+    "descendant": "wâŋ"
+  },
+  {
+    "syllable": "wa'",
+    "ipa": "[waʔ]",
+    "bas": "wà'",
+    "moyen": "wā'",
+    "montant": "wǎ'",
+    "descendant": "wâ'"
+  },
+  {
+    "syllable": "wɛ",
+    "ipa": "[wɛ]",
+    "bas": "wɛ̀",
+    "moyen": "wɛ̄",
+    "montant": "wɛ̌",
+    "descendant": "wɛ̂"
+  },
+  {
+    "syllable": "wɛd",
+    "ipa": "[wɛt]",
+    "bas": "wɛ̀d",
+    "moyen": "wɛ̄d",
+    "montant": "wɛ̌d",
+    "descendant": "wɛ̂d"
+  },
+  {
+    "syllable": "wɛl",
+    "ipa": "[wɛl]",
+    "bas": "wɛ̀l",
+    "moyen": "wɛ̄l",
+    "montant": "wɛ̌l",
+    "descendant": "wɛ̂l"
+  },
+  {
+    "syllable": "wɛn",
+    "ipa": "[wɛn]",
+    "bas": "wɛ̀n",
+    "moyen": "wɛ̄n",
+    "montant": "wɛ̌n",
+    "descendant": "wɛ̂n"
+  },
+  {
+    "syllable": "wɔ",
+    "ipa": "[wo]",
+    "bas": "wɔ̀",
+    "moyen": "wɔ̄",
+    "montant": "wɔ̌",
+    "descendant": "wɔ̂"
+  },
+  {
+    "syllable": "wu",
+    "ipa": "[wu]",
+    "bas": "wù",
+    "moyen": "wū",
+    "montant": "wǔ",
+    "descendant": "wû"
+  },
+  {
+    "syllable": "wud",
+    "ipa": "[wut]",
+    "bas": "wùd",
+    "moyen": "wūd",
+    "montant": "wǔd",
+    "descendant": "wûd"
+  },
+  {
+    "syllable": "wʉ",
+    "ipa": "[wʉ]",
+    "bas": "wʉ̀",
+    "moyen": "wʉ̄",
+    "montant": "wʉ̌",
+    "descendant": "wʉ̂"
+  },
+  {
+    "syllable": "nya",
+    "ipa": "[ɲa]",
+    "bas": "nyà",
+    "moyen": "nyā",
+    "montant": "nyǎ",
+    "descendant": "nyâ"
+  },
+  {
+    "syllable": "nyad",
+    "ipa": "[ɲat]",
+    "bas": "nyàd",
+    "moyen": "nyād",
+    "montant": "nyǎd",
+    "descendant": "nyâd"
+  },
+  {
+    "syllable": "nyag",
+    "ipa": "[ɲak]",
+    "bas": "nyàg",
+    "moyen": "nyāg",
+    "montant": "nyǎg",
+    "descendant": "nyâg"
+  },
+  {
+    "syllable": "nyal",
+    "ipa": "[ɲal]",
+    "bas": "nyàl",
+    "moyen": "nyāl",
+    "montant": "nyǎl",
+    "descendant": "nyâl"
+  },
+  {
+    "syllable": "nyam",
+    "ipa": "[ɲam]",
+    "bas": "nyàm",
+    "moyen": "nyām",
+    "montant": "nyǎm",
+    "descendant": "nyâm"
+  },
+  {
+    "syllable": "nyaŋ",
+    "ipa": "[ɲaŋ]",
+    "bas": "nyàŋ",
+    "moyen": "nyāŋ",
+    "montant": "nyǎŋ",
+    "descendant": "nyâŋ"
+  },
+  {
+    "syllable": "nya'",
+    "ipa": "[ɲaʔ]",
+    "bas": "nyà'",
+    "moyen": "nyā'",
+    "montant": "nyǎ'",
+    "descendant": "nyâ'"
+  },
+  {
+    "syllable": "nyα",
+    "ipa": "[ɲɑ]",
+    "bas": "nyὰ",
+    "moyen": "nyᾱ",
+    "montant": "nyα̌",
+    "descendant": "nyα̂"
+  },
+  {
+    "syllable": "nyαm",
+    "ipa": "[ɲɑm]",
+    "bas": "nyὰm",
+    "moyen": "nyᾱm",
+    "montant": "nyα̌m",
+    "descendant": "nyα̂m"
+  },
+  {
+    "syllable": "nyi",
+    "ipa": "[ɲi]",
+    "bas": "nyì",
+    "moyen": "nyī",
+    "montant": "nyǐ",
+    "descendant": "nyî"
+  },
+  {
+    "syllable": "nyid",
+    "ipa": "[ɲit]",
+    "bas": "nyìd",
+    "moyen": "nyīd",
+    "montant": "nyǐd",
+    "descendant": "nyîd"
+  },
+  {
+    "syllable": "nyil",
+    "ipa": "[ɲil]",
+    "bas": "nyìl",
+    "moyen": "nyīl",
+    "montant": "nyǐl",
+    "descendant": "nyîl"
+  },
+  {
+    "syllable": "nyin",
+    "ipa": "[ɲin]",
+    "bas": "nyìn",
+    "moyen": "nyīn",
+    "montant": "nyǐn",
+    "descendant": "nyîn"
+  },
+  {
+    "syllable": "nyi'",
+    "ipa": "[ɲiʔ]",
+    "bas": "nyì'",
+    "moyen": "nyī'",
+    "montant": "nyǐ'",
+    "descendant": "nyî'"
+  },
+  {
+    "syllable": "nyɔ",
+    "ipa": "[ɲo]",
+    "bas": "nyɔ̀",
+    "moyen": "nyɔ̄",
+    "montant": "nyɔ̌",
+    "descendant": "nyɔ̂"
+  },
+  {
+    "syllable": "nyu",
+    "ipa": "[ɲu]",
+    "bas": "nyù",
+    "moyen": "nyū",
+    "montant": "nyǔ",
+    "descendant": "nyû"
+  },
+  {
+    "syllable": "nyun",
+    "ipa": "[ɲun]",
+    "bas": "nyùn",
+    "moyen": "nyūn",
+    "montant": "nyǔn",
+    "descendant": "nyûn"
+  },
+  {
+    "syllable": "nyu'",
+    "ipa": "[ɲuʔ]",
+    "bas": "nyù'",
+    "moyen": "nyū'",
+    "montant": "nyǔ'",
+    "descendant": "nyû'"
+  },
+  {
+    "syllable": "nywi",
+    "ipa": "[ɲɥi]",
+    "bas": "nywì",
+    "moyen": "nywī",
+    "montant": "nywǐ",
+    "descendant": "nywî"
+  },
+  {
+    "syllable": "nywid",
+    "ipa": "[ɲɥit]",
+    "bas": "nywìd",
+    "moyen": "nywīd",
+    "montant": "nywǐd",
+    "descendant": "nywîd"
+  },
+  {
+    "syllable": "nywil",
+    "ipa": "[ɲɥil]",
+    "bas": "nywìl",
+    "moyen": "nywīl",
+    "montant": "nywǐl",
+    "descendant": "nywîl"
+  },
+  {
+    "syllable": "nywin",
+    "ipa": "[ɲɥin]",
+    "bas": "nywìn",
+    "moyen": "nywīn",
+    "montant": "nywǐn",
+    "descendant": "nywîn"
+  },
+  {
+    "syllable": "nywi'",
+    "ipa": "[ɲɥiʔ]",
+    "bas": "nywì'",
+    "moyen": "nywī'",
+    "montant": "nywǐ'",
+    "descendant": "nywî'"
+  },
+  {
+    "syllable": "ya",
+    "ipa": "[ja]",
+    "bas": "yà",
+    "moyen": "yā",
+    "montant": "yǎ",
+    "descendant": "yâ"
+  },
+  {
+    "syllable": "yad",
+    "ipa": "[jat]",
+    "bas": "yàd",
+    "moyen": "yād",
+    "montant": "yǎd",
+    "descendant": "yâd"
+  },
+  {
+    "syllable": "yag",
+    "ipa": "[jak]",
+    "bas": "yàg",
+    "moyen": "yāg",
+    "montant": "yǎg",
+    "descendant": "yâg"
+  },
+  {
+    "syllable": "yam",
+    "ipa": "[jam]",
+    "bas": "yàm",
+    "moyen": "yām",
+    "montant": "yǎm",
+    "descendant": "yâm"
+  },
+  {
+    "syllable": "yaŋ",
+    "ipa": "[jaŋ]",
+    "bas": "yàŋ",
+    "moyen": "yāŋ",
+    "montant": "yǎŋ",
+    "descendant": "yâŋ"
+  },
+  {
+    "syllable": "ya'",
+    "ipa": "[jaʔ]",
+    "bas": "yà'",
+    "moyen": "yā'",
+    "montant": "yǎ'",
+    "descendant": "yâ'"
+  },
+  {
+    "syllable": "yα",
+    "ipa": "[jɑ]",
+    "bas": "yὰ",
+    "moyen": "yᾱ",
+    "montant": "yα̌",
+    "descendant": "yα̂"
+  },
+  {
+    "syllable": "yαb",
+    "ipa": "[jɑb]",
+    "bas": "yὰb",
+    "moyen": "yᾱb",
+    "montant": "yα̌b",
+    "descendant": "yα̂b"
+  },
+  {
+    "syllable": "yαg",
+    "ipa": "[jɑg]",
+    "bas": "yὰg",
+    "moyen": "yᾱg",
+    "montant": "yα̌g",
+    "descendant": "yα̂g"
+  },
+  {
+    "syllable": "yαm",
+    "ipa": "[jɑm]",
+    "bas": "yὰm",
+    "moyen": "yᾱm",
+    "montant": "yα̌m",
+    "descendant": "yα̂m"
+  },
+  {
+    "syllable": "yə",
+    "ipa": "[jʉ]",
+    "bas": "yə̀",
+    "moyen": "yə̄",
+    "montant": "yə̌",
+    "descendant": "yə̂"
+  },
+  {
+    "syllable": "yən",
+    "ipa": "[jʉn]",
+    "bas": "yə̀n",
+    "moyen": "yə̄n",
+    "montant": "yə̌n",
+    "descendant": "yə̂n"
+  },
+  {
+    "syllable": "yə'",
+    "ipa": "[jʉʔ]",
+    "bas": "yə̀'",
+    "moyen": "yə̄'",
+    "montant": "yə̌'",
+    "descendant": "yə̂'"
+  },
+  {
+    "syllable": "ye",
+    "ipa": "[ji]",
+    "bas": "yè",
+    "moyen": "yē",
+    "montant": "yě",
+    "descendant": "yê"
+  },
+  {
+    "syllable": "yed",
+    "ipa": "[jit]",
+    "bas": "yèd",
+    "moyen": "yēd",
+    "montant": "yěd",
+    "descendant": "yêd"
+  },
+  {
+    "syllable": "ye'",
+    "ipa": "[jiʔ]",
+    "bas": "yè'",
+    "moyen": "yē'",
+    "montant": "yě'",
+    "descendant": "yê'"
+  },
+  {
+    "syllable": "yɛ",
+    "ipa": "[jɛ]",
+    "bas": "yɛ̀",
+    "moyen": "yɛ̄",
+    "montant": "yɛ̌",
+    "descendant": "yɛ̂"
+  },
+  {
+    "syllable": "yɛn",
+    "ipa": "[jɛn]",
+    "bas": "yɛ̀n",
+    "moyen": "yɛ̄n",
+    "montant": "yɛ̌n",
+    "descendant": "yɛ̂n"
+  },
+  {
+    "syllable": "yo",
+    "ipa": "[ju]",
+    "bas": "yò",
+    "moyen": "yō",
+    "montant": "yǒ",
+    "descendant": "yô"
+  },
+  {
+    "syllable": "yob",
+    "ipa": "[jub]",
+    "bas": "yòb",
+    "moyen": "yōb",
+    "montant": "yǒb",
+    "descendant": "yôb"
+  },
+  {
+    "syllable": "yod",
+    "ipa": "[jut]",
+    "bas": "yòd",
+    "moyen": "yōd",
+    "montant": "yǒd",
+    "descendant": "yôd"
+  },
+  {
+    "syllable": "yog",
+    "ipa": "[jɔk]",
+    "bas": "yòg",
+    "moyen": "yōg",
+    "montant": "yǒg",
+    "descendant": "yôg"
+  },
+  {
+    "syllable": "yol",
+    "ipa": "[jul]",
+    "bas": "yòl",
+    "moyen": "yōl",
+    "montant": "yǒl",
+    "descendant": "yôl"
+  },
+  {
+    "syllable": "yom",
+    "ipa": "[jum]",
+    "bas": "yòm",
+    "moyen": "yōm",
+    "montant": "yǒm",
+    "descendant": "yôm"
+  },
+  {
+    "syllable": "yoŋ",
+    "ipa": "[jɔŋ]",
+    "bas": "yòŋ",
+    "moyen": "yōŋ",
+    "montant": "yǒŋ",
+    "descendant": "yôŋ"
+  },
+  {
+    "syllable": "yo'",
+    "ipa": "[juʔ]",
+    "bas": "yò'",
+    "moyen": "yō'",
+    "montant": "yǒ'",
+    "descendant": "yô'"
+  },
+  {
+    "syllable": "yu",
+    "ipa": "[ju]",
+    "bas": "yù",
+    "moyen": "yū",
+    "montant": "yǔ",
+    "descendant": "yû"
+  },
+  {
+    "syllable": "yub",
+    "ipa": "[jub]",
+    "bas": "yùb",
+    "moyen": "yūb",
+    "montant": "yǔb",
+    "descendant": "yûb"
+  },
+  {
+    "syllable": "ywe",
+    "ipa": "[jui]",
+    "bas": "ywè",
+    "moyen": "ywē",
+    "montant": "ywě",
+    "descendant": "ywê"
+  },
+  {
+    "syllable": "ywɛ",
+    "ipa": "[juɛ]",
+    "bas": "ywɛ̀",
+    "moyen": "ywɛ̄",
+    "montant": "ywɛ̌",
+    "descendant": "ywɛ̂"
+  },
+  {
+    "syllable": "ywɛd",
+    "ipa": "[juɛt]",
+    "bas": "ywɛ̀d",
+    "moyen": "ywɛ̄d",
+    "montant": "ywɛ̌d",
+    "descendant": "ywɛ̂d"
+  },
+  {
+    "syllable": "ywɛl",
+    "ipa": "[juɛl]",
+    "bas": "ywɛ̀l",
+    "moyen": "ywɛ̄l",
+    "montant": "ywɛ̌l",
+    "descendant": "ywɛ̂l"
+  },
+  {
+    "syllable": "ywɛn",
+    "ipa": "[juɛn]",
+    "bas": "ywɛ̀n",
+    "moyen": "ywɛ̄n",
+    "montant": "ywɛ̌n",
+    "descendant": "ywɛ̂n"
+  },
+  {
+    "syllable": "ywi",
+    "ipa": "[jɥi]",
+    "bas": "ywì",
+    "moyen": "ywī",
+    "montant": "ywǐ",
+    "descendant": "ywî"
+  },
+  {
+    "syllable": "ywid",
+    "ipa": "[jɥit]",
+    "bas": "ywìd",
+    "moyen": "ywīd",
+    "montant": "ywǐd",
+    "descendant": "ywîd"
+  },
+  {
+    "syllable": "ywil",
+    "ipa": "[jɥil]",
+    "bas": "ywìl",
+    "moyen": "ywīl",
+    "montant": "ywǐl",
+    "descendant": "ywîl"
+  },
+  {
+    "syllable": "ywim",
+    "ipa": "[jɥim]",
+    "bas": "ywìm",
+    "moyen": "ywīm",
+    "montant": "ywǐm",
+    "descendant": "ywîm"
+  },
+  {
+    "syllable": "ywi'",
+    "ipa": "[jɥiʔ]",
+    "bas": "ywì'",
+    "moyen": "ywī'",
+    "montant": "ywǐ'",
+    "descendant": "ywî'"
+  },
+  {
+    "syllable": "zə",
+    "ipa": "[zhœ]",
+    "bas": "zə̀",
+    "moyen": "zə̄",
+    "montant": "zə̌",
+    "descendant": "zə̂"
+  },
+  {
+    "syllable": "zə'",
+    "ipa": "[zhœʔ]",
+    "bas": "zə̀'",
+    "moyen": "zə̄'",
+    "montant": "zə̌'",
+    "descendant": "zə̂'"
+  },
+  {
+    "syllable": "zi",
+    "ipa": "[zhi]",
+    "bas": "zì",
+    "moyen": "zī",
+    "montant": "zǐ",
+    "descendant": "zî"
+  },
+  {
+    "syllable": "zia",
+    "ipa": "[zhia]",
+    "bas": "zià",
+    "moyen": "ziā",
+    "montant": "ziǎ",
+    "descendant": "ziâ"
+  },
+  {
+    "syllable": "ziag",
+    "ipa": "[zhiag]",
+    "bas": "ziàg",
+    "moyen": "ziāg",
+    "montant": "ziǎg",
+    "descendant": "ziâg"
+  },
+  {
+    "syllable": "zib",
+    "ipa": "[zhib]",
+    "bas": "zìb",
+    "moyen": "zīb",
+    "montant": "zǐb",
+    "descendant": "zîb"
+  },
+  {
+    "syllable": "zid",
+    "ipa": "[zhit]",
+    "bas": "zìd",
+    "moyen": "zīd",
+    "montant": "zǐd",
+    "descendant": "zîd"
+  },
+  {
+    "syllable": "zil",
+    "ipa": "[zhil]",
+    "bas": "zìl",
+    "moyen": "zīl",
+    "montant": "zǐl",
+    "descendant": "zîl"
+  },
+  {
+    "syllable": "zim",
+    "ipa": "[zhim]",
+    "bas": "zìm",
+    "moyen": "zīm",
+    "montant": "zǐm",
+    "descendant": "zîm"
+  },
+  {
+    "syllable": "zin",
+    "ipa": "[zhi]",
+    "bas": "zìn",
+    "moyen": "zīn",
+    "montant": "zǐn",
+    "descendant": "zîn"
+  },
+  {
+    "syllable": "zi'",
+    "ipa": "[zhiʔ]",
+    "bas": "zì'",
+    "moyen": "zī'",
+    "montant": "zǐ'",
+    "descendant": "zî'"
+  },
+  {
+    "syllable": "zwə",
+    "ipa": "[zhuœ]",
+    "bas": "zwə̀",
+    "moyen": "zwə̄",
+    "montant": "zwə̌",
+    "descendant": "zwə̂"
+  },
+  {
+    "syllable": "zwə'",
+    "ipa": "[zhuœʔ]",
+    "bas": "zwə̀'",
+    "moyen": "zwə̄'",
+    "montant": "zwə̌'",
+    "descendant": "zwə̂'"
+  },
+  {
+    "syllable": "zwi",
+    "ipa": "[zɥi]",
+    "bas": "zwì",
+    "moyen": "zwī",
+    "montant": "zwǐ",
+    "descendant": "zwî"
+  },
+  {
+    "syllable": "zwia",
+    "ipa": "[zɥia]",
+    "bas": "zwià",
+    "moyen": "zwiā",
+    "montant": "zwiǎ",
+    "descendant": "zwiâ"
+  },
+  {
+    "syllable": "zwiaŋ",
+    "ipa": "[zɥiaŋ]",
+    "bas": "zwiàŋ",
+    "moyen": "zwiāŋ",
+    "montant": "zwiǎŋ",
+    "descendant": "zwiâŋ"
+  },
+  {
+    "syllable": "zwiα",
+    "ipa": "[zɥiɑ]",
+    "bas": "zwiὰ",
+    "moyen": "zwiᾱ",
+    "montant": "zwiα̌",
+    "descendant": "zwiα̂"
+  },
+  {
+    "syllable": "zwiαg",
+    "ipa": "[zɥiɑk]",
+    "bas": "zwiὰg",
+    "moyen": "zwiᾱg",
+    "montant": "zwiα̌g",
+    "descendant": "zwiα̂g"
+  },
+  {
+    "syllable": "zwid",
+    "ipa": "[zɥit]",
+    "bas": "zwìd",
+    "moyen": "zwīd",
+    "montant": "zwǐd",
+    "descendant": "zwîd"
+  },
+  {
+    "syllable": "zwil",
+    "ipa": "[zɥil]",
+    "bas": "zwìl",
+    "moyen": "zwīl",
+    "montant": "zwǐl",
+    "descendant": "zwîl"
+  },
+  {
+    "syllable": "zwim",
+    "ipa": "[zɥim]",
+    "bas": "zwìm",
+    "moyen": "zwīm",
+    "montant": "zwǐm",
+    "descendant": "zwîm"
+  },
+  {
+    "syllable": "zwi'",
+    "ipa": "[zɥiʔ]",
+    "bas": "zwì'",
+    "moyen": "zwī'",
+    "montant": "zwǐ'",
+    "descendant": "zwî'"
+  }
+]
