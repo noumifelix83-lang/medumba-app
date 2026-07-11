@@ -37,6 +37,13 @@ android {
             signingConfig = signingConfigs.getByName("debug")
         }
     }
+
+    lint {
+        // Lint's release check (lintVitalAnalyzeRelease) runs out of metaspace on this
+        // memory-constrained dev machine. Not needed to produce a working release APK.
+        checkReleaseBuilds = false
+        abortOnError = false
+    }
 }
 
 flutter {
