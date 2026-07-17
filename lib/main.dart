@@ -32,6 +32,8 @@ import 'screens/pronunciation_screen.dart';
 import 'screens/video_screen.dart';
 import 'screens/chest_screen.dart';
 import 'screens/boss_screen.dart';
+import 'screens/cepom_screen.dart';
+import 'screens/contact_screen.dart';
 import 'theme/colors.dart';
 
 final _authNotifier = ValueNotifier<int>(0);
@@ -91,6 +93,7 @@ final _router = GoRouter(
     GoRoute(path: '/register/success',   builder: (_, __) => const RegisterSuccessScreen()),
     GoRoute(path: '/lesson/counting',    builder: (_, __) => const CountingScreen()),
     GoRoute(path: '/lesson/alphabet',    builder: (_, __) => const AlphabetScreen()),
+    GoRoute(path: '/lesson/alphabet-intro', builder: (_, __) => const AlphabetScreen(fromLessonPath: true)),
     GoRoute(path: '/lesson/calendar',    builder: (_, __) => const CalendarScreen()),
     GoRoute(path: '/lesson/dictionary',  builder: (_, __) => const DictionaryScreen()),
     GoRoute(path: '/lesson/vocab',         builder: (_, __) => const VocabScreen()),
@@ -99,6 +102,8 @@ final _router = GoRouter(
     GoRoute(path: '/lesson/videos',        builder: (_, __) => const VideoScreen()),
     GoRoute(path: '/lesson/chest/:id',     builder: (_, s) => ChestScreen(chestId: s.pathParameters['id']!)),
     GoRoute(path: '/lesson/boss/:id',      builder: (_, s) => BossScreen(bossId: s.pathParameters['id']!)),
+    GoRoute(path: '/lesson/cepom',         builder: (_, __) => const CepomScreen()),
+    GoRoute(path: '/lesson/contact',       builder: (_, __) => const ContactScreen()),
     ShellRoute(
       builder: (_, __, child) => HomeScreen(child: child),
       routes: [

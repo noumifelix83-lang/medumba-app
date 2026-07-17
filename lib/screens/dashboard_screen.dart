@@ -20,6 +20,7 @@ const _kBossReqs = <String, List<String>>{
 
 // lessonId → route
 const _lessonRoutes = <String, String>{
+  'l0': '/lesson/alphabet-intro',
   'l1': '/lesson/vocab/l1',
   'l2': '/lesson/vocab/l2',
   'l3': '/lesson/vocab/l3',
@@ -242,6 +243,7 @@ class _LessonPath extends StatelessWidget {
         subFr: 'Apprenez les bases du Medumba', subEn: 'Learn the basics of Medumba',
         color: const Color(0xFF0056D2), emoji: '🔤',
         lessons: [
+          const _Lesson(id: 'l0', titleFr: 'Alphabet',     titleEn: 'Alphabet'),
           const _Lesson(id: 'l1', titleFr: 'Salutations',  titleEn: 'Greetings'),
           const _Lesson(id: 'l2', titleFr: 'Corps humain', titleEn: 'Body Parts'),
           const _Lesson(id: 'l3', titleFr: 'Nourriture',   titleEn: 'Food'),

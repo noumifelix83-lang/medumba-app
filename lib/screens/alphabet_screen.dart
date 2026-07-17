@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
+import '../services/user_service.dart';
 import '../theme/colors.dart';
 
 // ── Données ──────────────────────────────────────────────────────────────────
@@ -61,7 +63,11 @@ Color _parseHex(String hex) {
 // ── Écran principal ──────────────────────────────────────────────────────────
 
 class AlphabetScreen extends StatefulWidget {
-  const AlphabetScreen({super.key});
+  // Vrai quand cet écran est ouvert depuis le parcours de leçons ("Les
+  // Bases" → l0) plutôt que depuis l'accès rapide : affiche un bouton
+  // "Continuer" qui marque la leçon comme terminée.
+  final bool fromLessonPath;
+  const AlphabetScreen({super.key, this.fromLessonPath = false});
   @override
   State<AlphabetScreen> createState() => _AlphabetScreenState();
 }
@@ -70,11 +76,21 @@ class _AlphabetScreenState extends State<AlphabetScreen> with SingleTickerProvid
   late final TabController _tab;
   String? _selected;
   bool _isFr = true;
+  bool _completing = false;
 
   @override
   void initState() { super.initState(); _tab = TabController(length: 3, vsync: this); _tab.addListener(() => setState(() { _selected = null; })); }
   @override
   void dispose() { _tab.dispose(); super.dispose(); }
+
+  Future<void> _completeAndReturn() async {
+    final uid = Supabase.instance.client.auth.currentUser?.id;
+    if (uid != null) {
+      setState(() => _completing = true);
+      await UserService.completeLesson(uid, 'l0');
+    }
+    if (mounted) Navigator.of(context).pop();
+  }
 
   List<_Letter> get _filtered {
     switch (_tab.index) {
@@ -180,6 +196,23 @@ class _AlphabetScreenState extends State<AlphabetScreen> with SingleTickerProvid
             children: [0, 1, 2].map((i) => _buildGrid(i)).toList(),
           ),
         ),
+
+        if (widget.fromLessonPath)
+          SafeArea(
+            top: false,
+            child: Padding(
+              padding: const EdgeInsets.all(16),
+              child: SizedBox(
+                width: double.infinity,
+                child: ElevatedButton(
+                  onPressed: _completing ? null : _completeAndReturn,
+                  style: ElevatedButton.styleFrom(backgroundColor: accent, padding: const EdgeInsets.symmetric(vertical: 14)),
+                  child: Text(_isFr ? 'Continuer' : 'Continue',
+                      style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w800)),
+                ),
+              ),
+            ),
+          ),
       ]),
     );
   }
