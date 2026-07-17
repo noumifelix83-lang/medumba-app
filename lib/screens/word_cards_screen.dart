@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import '../theme/colors.dart';
 import '../services/medumba_audio_service.dart';
+import '../services/syllable_audio.dart';
 
-const _cards = [
+const _allCards = [
   // Salutations
   _Card(medumba: 'O zi ὰ?', fr: 'Bonjour !', en: 'Hello!', cat: 'Salutations'),
   _Card(medumba: 'Mə lὰbtə̌.', fr: 'Merci.', en: 'Thank you.', cat: 'Salutations'),
@@ -51,6 +52,22 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
   bool _flipped = false;
   bool _isFr = true;
   bool _speaking = false;
+  bool _loading = true;
+  List<_Card> _cards = [];
+
+  @override
+  void initState() {
+    super.initState();
+    // Ne garde que les mots avec un enregistrement réel unique — pas de
+    // TTS ni de composition de syllabes présentée comme une vraie voix.
+    SyllableAudio.instance.ensureLoaded().then((_) {
+      if (!mounted) return;
+      setState(() {
+        _cards = _allCards.where((c) => SyllableAudio.instance.hasRealVoice(c.medumba)).toList();
+        _loading = false;
+      });
+    });
+  }
 
   void _stopAudio() {
     MedumbaAudioService.instance.stop();
@@ -75,6 +92,21 @@ class _WordCardsScreenState extends State<WordCardsScreen> {
 
   @override
   Widget build(BuildContext context) {
+    if (_loading) {
+      return const Scaffold(body: Center(child: CircularProgressIndicator()));
+    }
+    if (_cards.isEmpty) {
+      return Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.white,
+          elevation: 0,
+          title: Text(_isFr ? 'Fiches de vocabulaire' : 'Word Cards',
+              style: const TextStyle(fontWeight: FontWeight.w900, fontSize: 18, color: kInk)),
+        ),
+        body: Center(child: Text(_isFr ? 'Contenu à venir…' : 'Content coming soon…',
+            style: const TextStyle(color: kMuted, fontWeight: FontWeight.w600))),
+      );
+    }
     final card = _cards[_index];
     return Scaffold(
       backgroundColor: const Color(0xFFF8FAFC),

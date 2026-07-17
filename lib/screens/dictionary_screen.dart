@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import '../theme/colors.dart';
 import '../services/medumba_audio_service.dart';
+import '../services/syllable_audio.dart';
 
 class _Entry {
   final String medumba, fr;
@@ -37,10 +38,15 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
   }
 
   Future<void> _loadDict() async {
+    await SyllableAudio.instance.ensureLoaded();
     final raw = await rootBundle.loadString('assets/data/dictionary.json');
     final list = json.decode(raw) as List<dynamic>;
+    if (!mounted) return;
     setState(() {
-      _dict = list.map((e) => _Entry(e['medumba'] as String, e['french'] as String)).toList();
+      _dict = list
+          .map((e) => _Entry(e['medumba'] as String, e['french'] as String))
+          .where((e) => SyllableAudio.instance.hasRealVoice(e.medumba))
+          .toList();
       _loading = false;
     });
   }

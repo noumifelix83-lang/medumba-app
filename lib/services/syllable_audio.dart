@@ -161,6 +161,18 @@ class SyllableAudio {
     return segments;
   }
 
+  /// Vrai si le mot/la phrase a un enregistrement réel unique (un seul
+  /// segment), et non une composition de plusieurs syllabes concaténées.
+  /// Porté depuis hasRealVoice() de medumbaAudio.js : un mot "créé" en
+  /// assemblant 2+ clips de syllabes ne sonne pas comme un enregistrement
+  /// naturel, donc exclu des listes filtrées (dictionnaire, phrasebook,
+  /// fiches de mots).
+  bool hasRealVoice(String word) {
+    if (word.isEmpty) return false;
+    final seg = segmentPhrase(word);
+    return seg != null && seg.length == 1;
+  }
+
   /// Découpe "tolérante" : un mot non couvert ne fait pas échouer toute la
   /// phrase — il est marqué pour la synthèse vocale, le reste garde la
   /// vraie voix. Ne renvoie null que si RIEN n'est couvert (dans ce cas une

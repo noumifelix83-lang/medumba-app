@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import '../theme/colors.dart';
 import '../services/medumba_audio_service.dart';
+import '../services/syllable_audio.dart';
 
 const _categories = [
   _Cat(emoji: '👋', titleFr: 'Salutations',  titleEn: 'Greetings',   color: Color(0xFF4F46E5)),
@@ -307,6 +308,15 @@ class _PhraseList extends StatefulWidget {
 
 class _PhraseListState extends State<_PhraseList> {
   String? _speaking;
+  bool _voiceDataLoaded = false;
+
+  @override
+  void initState() {
+    super.initState();
+    SyllableAudio.instance.ensureLoaded().then((_) {
+      if (mounted) setState(() => _voiceDataLoaded = true);
+    });
+  }
 
   @override
   void dispose() {
@@ -324,7 +334,11 @@ class _PhraseListState extends State<_PhraseList> {
   Widget build(BuildContext context) {
     final cat = widget.cat;
     final isFr = widget.isFr;
-    final phrases = _phrases[cat.titleFr] ?? [];
+    // Ne garde que les phrases avec un enregistrement réel unique — pas de
+    // TTS ni de composition de syllabes présentée comme une vraie voix.
+    final phrases = _voiceDataLoaded
+        ? (_phrases[cat.titleFr] ?? []).where((p) => SyllableAudio.instance.hasRealVoice(p.medumba)).toList()
+        : <_Phrase>[];
     return Column(children: [
       Container(
         color: cat.color,
@@ -339,7 +353,9 @@ class _PhraseListState extends State<_PhraseList> {
         ]),
       ),
       Expanded(
-        child: phrases.isEmpty
+        child: !_voiceDataLoaded
+          ? const Center(child: CircularProgressIndicator())
+          : phrases.isEmpty
           ? Center(child: Text(isFr ? 'Contenu à venir…' : 'Content coming soon…',
                 style: const TextStyle(color: kMuted, fontWeight: FontWeight.w600)))
           : ListView.separated(
