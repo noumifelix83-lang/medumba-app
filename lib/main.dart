@@ -34,6 +34,7 @@ import 'screens/chest_screen.dart';
 import 'screens/boss_screen.dart';
 import 'screens/cepom_screen.dart';
 import 'screens/contact_screen.dart';
+import 'screens/certification_screen.dart';
 import 'theme/colors.dart';
 
 final _authNotifier = ValueNotifier<int>(0);
@@ -104,6 +105,7 @@ final _router = GoRouter(
     GoRoute(path: '/lesson/boss/:id',      builder: (_, s) => BossScreen(bossId: s.pathParameters['id']!)),
     GoRoute(path: '/lesson/cepom',         builder: (_, __) => const CepomScreen()),
     GoRoute(path: '/lesson/contact',       builder: (_, __) => const ContactScreen()),
+    GoRoute(path: '/lesson/certification/:unitId', builder: (_, s) => CertificationScreen(unitId: s.pathParameters['unitId']!)),
     ShellRoute(
       builder: (_, __, child) => HomeScreen(child: child),
       routes: [

@@ -57,6 +57,7 @@ class _DashboardScreenState extends State<DashboardScreen> with WidgetsBindingOb
   Map<String, dynamic>? _profile;
   Map<String, dynamic>? _progress;
   List<String> _completedLessons = [];
+  List<String> _completedCertifications = [];
   bool _loading = true;
   bool? _isFrOverride;
 
@@ -86,6 +87,7 @@ class _DashboardScreenState extends State<DashboardScreen> with WidgetsBindingOb
     final profile    = await UserService.getProfile(uid);
     final progress   = await UserService.getProgress(uid);
     final completed  = await UserService.getCompletedLessons(uid);
+    final certified  = await UserService.getCompletedCertifications(uid);
 
     // Create progress row if it doesn't exist yet
     if (progress == null) {
@@ -99,6 +101,7 @@ class _DashboardScreenState extends State<DashboardScreen> with WidgetsBindingOb
         _profile          = profile;
         _progress         = {...?progress, 'streak': newStreak};
         _completedLessons = completed;
+        _completedCertifications = certified;
         _loading          = false;
       });
     }
@@ -137,6 +140,7 @@ class _DashboardScreenState extends State<DashboardScreen> with WidgetsBindingOb
                   isFr: isFr,
                   xp: xp,
                   completedLessons: _completedLessons,
+                  completedCertifications: _completedCertifications,
                   onReturn: _load,
                 ),
               ),
@@ -220,8 +224,9 @@ class _LessonPath extends StatelessWidget {
   final bool isFr;
   final int xp;
   final List<String> completedLessons;
+  final List<String> completedCertifications;
   final VoidCallback? onReturn;
-  const _LessonPath({required this.name, required this.isFr, required this.xp, required this.completedLessons, this.onReturn});
+  const _LessonPath({required this.name, required this.isFr, required this.xp, required this.completedLessons, required this.completedCertifications, this.onReturn});
 
   @override
   Widget build(BuildContext context) {
@@ -339,7 +344,8 @@ class _LessonPath extends StatelessWidget {
 
     int globalOffset = 0;
     final result = <Widget>[];
-    for (final s in sections) {
+    for (var si = 0; si < sections.length; si++) {
+      final s = sections[si];
       final nodeTypes  = s.lessons.map((l) => statuses[l.id] ?? _NodeType.locked).toList();
       final labels     = s.lessons.map((l) => isFr ? l.titleFr : l.titleEn).toList();
       final lessonIds  = s.lessons.map((l) => l.id).toList();
@@ -348,7 +354,14 @@ class _LessonPath extends StatelessWidget {
         final gIdx = globalOffset + li;
         if (decoratorMap.containsKey(gIdx)) localDeco[li] = decoratorMap[gIdx]!;
       }
-      result.add(_SectionWidget(s: s, isFr: isFr, nodeTypes: nodeTypes, labels: labels, lessonIds: lessonIds, decorators: localDeco, onReturn: onReturn));
+      final unitId = '${si + 1}';
+      final regularIds = s.lessons.where((l) => l.baseType != _NodeType.chest && l.baseType != _NodeType.boss).map((l) => l.id);
+      final allDone = regularIds.every((id) => completedLessons.contains(id));
+      final certified = completedCertifications.contains(unitId);
+      result.add(_SectionWidget(
+        s: s, isFr: isFr, nodeTypes: nodeTypes, labels: labels, lessonIds: lessonIds, decorators: localDeco, onReturn: onReturn,
+        unitId: unitId, unitAllDone: allDone, unitCertified: certified,
+      ));
       globalOffset += s.lessons.length;
     }
     return result;
@@ -438,7 +451,14 @@ class _SectionWidget extends StatelessWidget {
   final List<String> lessonIds;
   final Map<int, _Decorator> decorators;
   final VoidCallback? onReturn;
-  const _SectionWidget({required this.s, required this.isFr, required this.nodeTypes, required this.labels, required this.lessonIds, this.decorators = const {}, this.onReturn});
+  final String unitId;
+  final bool unitAllDone;
+  final bool unitCertified;
+  const _SectionWidget({
+    required this.s, required this.isFr, required this.nodeTypes, required this.labels, required this.lessonIds,
+    this.decorators = const {}, this.onReturn,
+    required this.unitId, required this.unitAllDone, required this.unitCertified,
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -464,6 +484,40 @@ class _SectionWidget extends StatelessWidget {
           ),
         ]),
       ),
+      if (unitAllDone || unitCertified)
+        Container(
+          margin: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
+          decoration: BoxDecoration(
+            color: unitCertified ? const Color(0xFFF0FDF4) : const Color(0xFFEFF6FF),
+            border: Border.all(color: unitCertified ? const Color(0xFFBBF7D0) : const Color(0xFFBFDBFE), width: 1.5),
+            borderRadius: BorderRadius.circular(14),
+          ),
+          child: Row(children: [
+            Text(unitCertified ? '✅' : '🎓', style: const TextStyle(fontSize: 20)),
+            const SizedBox(width: 10),
+            Expanded(
+              child: Text(
+                unitCertified
+                    ? (isFr ? 'Certification CEPOM obtenue' : 'CEPOM certification earned')
+                    : (isFr ? 'Unité terminée — examen disponible' : 'Unit complete — exam available'),
+                style: TextStyle(fontSize: 12.5, fontWeight: FontWeight.w700, color: unitCertified ? const Color(0xFF15803D) : kBlue),
+              ),
+            ),
+            GestureDetector(
+              onTap: () => context.push('/lesson/certification/$unitId').then((_) => onReturn?.call()),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                decoration: BoxDecoration(
+                  color: unitCertified ? const Color(0xFF22C55E) : kBlue,
+                  borderRadius: BorderRadius.circular(99),
+                ),
+                child: Text(unitCertified ? (isFr ? 'Revoir' : 'Review') : (isFr ? 'Examen' : 'Exam'),
+                    style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: 12)),
+              ),
+            ),
+          ]),
+        ),
       _ZigzagNodes(nodes: nodeTypes, labels: labels, lessonIds: lessonIds, decorators: decorators, onReturn: onReturn),
     ]);
   }

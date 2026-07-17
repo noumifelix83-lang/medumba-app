@@ -99,4 +99,30 @@ class UserService {
     // 2. Sync to Supabase (best-effort, errors swallowed)
     await saveProgress(uid, {'completed_lessons': updated});
   }
+
+  // ── Completed certifications (CEPOM) — same pattern as completed lessons ──
+
+  static String _certSpKey(String uid) => 'completed_certs_$uid';
+
+  static Future<List<String>> getCompletedCertifications(String uid) async {
+    final prefs = await SharedPreferences.getInstance();
+    final local = prefs.getStringList(_certSpKey(uid));
+    if (local != null) return local;
+
+    final progress = await getProgress(uid);
+    final raw = progress?['completed_certifications'];
+    final remote = raw is List ? raw.map((e) => e.toString()).toList() : <String>[];
+    await prefs.setStringList(_certSpKey(uid), remote);
+    return remote;
+  }
+
+  static Future<void> completeCertification(String uid, String unitId) async {
+    final done = await getCompletedCertifications(uid);
+    if (done.contains(unitId)) return;
+    final updated = [...done, unitId];
+
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setStringList(_certSpKey(uid), updated);
+    await saveProgress(uid, {'completed_certifications': updated});
+  }
 }
